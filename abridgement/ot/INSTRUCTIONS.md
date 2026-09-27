@@ -43,11 +43,8 @@ difference of 1–2 verses (the final script rebalances using your scores).
 - Hebrew poetry repeats each thought in parallel lines. Keep a poem's
   strongest, most self-contained verses in runs; do not keep every echo.
 - Military detail, once the shape of a campaign is clear.
-- Graphic detail that detracts from reading: sexual violence, torture,
-  cannibalism, gore, cruelty to children, lingering on atrocity. Keep the
-  event when the story needs it (a short plain bridge can carry it); drop the
-  detail. (This matches the taste the Book of Mormon abridgement was praised
-  for, e.g. dropping Moroni 9:7-10.)
+- Do not cut passages merely because they are violent or disturbing; judge
+  them on the same importance and readability grounds as anything else.
 - Pure connective filler ("And it came to pass that...") whose content the
   surrounding kept verses already convey.
 
