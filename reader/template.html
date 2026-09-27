@@ -173,7 +173,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     if (b < 0) { selChap.hidden = true; return; }
     selChap.hidden = false;
     BOOKS[b].c.forEach((vs, c) => {
-      const o = new Option("Chapter " + (c + 1), c);
+      const o = new Option((BOOKS[b].n === "Psalms" ? "Ps. " : "Ch. ") + (c + 1), c);
       if (mode === "abr" && !kept(vs)) o.text += " (skipped)";
       selChap.add(o);
     });
@@ -214,7 +214,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 
   function chapter(b, c) {
     const bk = BOOKS[b], vs = bk.c[c], k = kept(vs);
-    let h = '<article class="chapter"><p class="eyebrow">' + esc(bk.n) + '</p><h1>Chapter ' + (c + 1) + '</h1>';
+    let h = '<article class="chapter"><p class="eyebrow">' + esc(bk.n) + '</p><h1>' + (bk.n === "Psalms" ? "Psalm " : "Chapter ") + (c + 1) + '</h1>';
     h += '<p class="count">' + (mode === "abr" ? k + " of " + plural(vs.length, "verse") + " kept" : plural(vs.length, "verse") + " · " + k + " kept, " + (vs.length - k) + " cut") + "</p>";
     if (mode === "abr" && !k) {
       h += '<div class="gap">All ' + vs.length + " verses skipped</div>";

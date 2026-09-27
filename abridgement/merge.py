@@ -118,7 +118,7 @@ open("abridged.md", "w", encoding="utf-8").write("\n".join(md))
 if "--write" in sys.argv:
     s = open(SRC, encoding="utf-8").read()
     out, pos, n = [], 0, 0
-    pat = re.compile(r'"reference": "([^"]+)",\n[^\n]*"text": [^\n]*\n(\s*)"verse": (\d+)')
+    pat = re.compile(r'"reference": "([^"]+:\d+)",(?:\n(?!\s*"verse": )[^\n]*)*\n(\s*)"verse": (\d+)')
     for m in pat.finditer(s):
         r, indent = m.group(1), m.group(2)
         if r not in keep:

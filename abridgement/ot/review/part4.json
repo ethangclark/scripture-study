@@ -1,0 +1,15 @@
+[
+ {"why": "Judges 10:15 repeats 'We have sinned' with no reply from God in between, and Jephthah's 11:23 names Amorites the reader never met; restore the LORD's stinging 'go cry unto the gods which ye have chosen' and drop the Amorite/Chemosh digression, so 11:15 flows straight into 'Wherefore I have not sinned against thee'",
+  "keep": ["Judges 10:13", "Judges 10:14"], "drop": ["Judges 11:23", "Judges 11:24"],
+  "bridges": {"Judges 10:13": "The LORD reminds them how often he has already rescued them from their oppressors."}},
+ {"why": "Judges 9:39 to 9:45 jumps from Gaal's sortie to Abimelech sacking 'the city', leaving Gaal's fate and the ambush unexplained",
+  "bridges": {"Judges 9:45": "Abimelech routs Gaal, who is driven out of Shechem. Next day Abimelech ambushes the townspeople as they come out into the fields."}},
+ {"why": "Judges 21:3 begins mid-sentence ('And said, O LORD God...') with no subject; restore 21:2 (the people weeping before God) and drop 20:14, whose loss leaves 20:13 to 20:18 intact",
+  "keep": ["Judges 21:2"], "drop": ["Judges 20:14"]},
+ {"why": "1 Samuel 2:17 'Wherefore the sin of the young men was very great' follows 2:12 without saying what the sin was",
+  "bridges": {"1 Samuel 2:17": "When people offer sacrifices, Eli's sons have their servant seize the meat they want, by force if need be, before the fat is even burned to the LORD."}},
+ {"why": "1 Samuel 20:20 'I will shoot three arrows on the side thereof' points at nothing; restore 20:19 (the stone Ezel) and drop 20:4, whose loss leaves 20:3 to 20:5 smooth",
+  "keep": ["1 Samuel 20:19"], "drop": ["1 Samuel 20:4"]},
+ {"why": "1 Samuel 26:23 switches from Saul speaking to David speaking with no signal; restore 26:22 ('And David answered... Behold the king's spear!') and drop 26:20, whose flea image duplicates 24:14",
+  "keep": ["1 Samuel 26:22"], "drop": ["1 Samuel 26:20"]}
+]

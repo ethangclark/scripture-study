@@ -1,0 +1,22 @@
+[
+ {"why": "The 14:25 bridge repeats Amaziah's killing, which 14:19 has just narrated; trim it to the succession and name Jeroboam II so 'He restored' has a subject",
+  "bridges": {"2 Kings 14:25": "Amaziah's son Azariah takes Judah's throne. In Israel, Jehoash's son Jeroboam II reigns forty-one years and does evil, yet wins back Israel's lost land."}},
+ {"why": "Judah's king is Azariah at 15:1 but 'Uzziah' from 15:13 on (and in 2 Chronicles 26) with no hint they are the same man",
+  "bridges": {"2 Kings 15:5": "Azariah, also called Uzziah, reigns fifty-two years and does right, though the high places remain."}},
+ {"why": "12:16 jumps back from David's coronation at Hebron to his outlaw days in 'the hold' with no signal, so 'betray me to mine enemies' is baffling",
+  "bridges": {"1 Chronicles 12:16": "Earlier, while David was still hiding from Saul, warriors from many tribes had come over to him."}},
+ {"why": "17:4 'Go and tell David my servant' has no speaker or addressee; restore 17:3 (God's word comes to Nathan that night) and drop one line of the long psalm",
+  "keep": ["1 Chronicles 17:3"], "drop": ["1 Chronicles 16:10"]},
+ {"why": "David chooses the LORD's hand at 21:13, and at 21:15 the angel is suddenly destroying Jerusalem; the plague itself (seventy thousand dead) is missing. Drop the stray one-verse Ahithophel list entry instead",
+  "keep": ["1 Chronicles 21:14"], "drop": ["1 Chronicles 27:33"]},
+ {"why": "12:9 'So Shishak king of Egypt came up' follows from nothing: Shishak is never introduced and the prophet's rebuke and Rehoboam's repentance are skipped",
+  "bridges": {"2 Chronicles 12:9": "In Rehoboam's fifth year Shishak king of Egypt invades. When the prophet Shemaiah rebukes them, the king and princes humble themselves, so God spares Jerusalem from destruction."}},
+ {"why": "17:1 'Jehoshaphat his son reigned in his stead' comes right after Hanani's rebuke; Asa's death is never mentioned",
+  "bridges": {"2 Chronicles 17:1": "Asa dies after a severe disease in his feet, during which he sought physicians rather than the LORD."}},
+ {"why": "23:13 'And she looked' has no antecedent (Athaliah is last named in 22:11 and the bridge doesn't mention her); restore 23:12 and drop a lone list verse about the treasurers",
+  "keep": ["2 Chronicles 23:12"], "drop": ["1 Chronicles 26:20"]},
+ {"why": "34:14 'when they brought out the money that was brought into the house' refers to a temple repair the reader never saw",
+  "bridges": {"2 Chronicles 34:14": "In his eighteenth year Josiah sends men to repair the temple with the money the Levites have collected."}},
+ {"why": "13:4 'And before this' points at nothing, and Tobiah's being an Ammonite is what makes his lodging in the temple an offense",
+  "bridges": {"Nehemiah 13:4": "Reading the law, the people find that no Ammonite or Moabite may enter God's congregation, and they separate themselves from all foreigners."}}
+]
