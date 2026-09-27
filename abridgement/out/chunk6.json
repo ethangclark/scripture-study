@@ -1,0 +1,2896 @@
+{
+ "Alma 42:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:3": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 42:4": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 42:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:8": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 42:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:10": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 42:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 42:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:13": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 42:14": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 42:15": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 42:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:18": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 42:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 42:20": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 42:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:22": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 42:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 42:24": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 42:25": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 42:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:27": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 42:28": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 42:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 42:30": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 42:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:3": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:16": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 43:17": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 43:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:20": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 43:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:23": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 43:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:37": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 43:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:42": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:43": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:44": {
+  "keep": false,
+  "score": 58
+ },
+ "Alma 43:45": {
+  "keep": true,
+  "score": 88,
+  "bridge": "Guided by Alma's prophecy, Moroni ambushes the Lamanites at the river Sidon with the help of his captain Lehi. Led by Amalekite and Zoramite captains, the Lamanites fight back with unprecedented fury."
+ },
+ "Alma 43:46": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 43:47": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 43:48": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:49": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 43:50": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 43:51": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:52": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 43:53": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:54": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 44:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 44:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:3": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 44:4": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 44:5": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 44:6": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 44:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 44:9": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 44:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 44:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 44:12": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 44:13": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 44:14": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 44:15": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 44:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:19": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 44:20": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Many Lamanites surrender and swear peace, but Zerahemnah rallies the rest; as they are cut down, he finally begs Moroni to spare them and promises never to return."
+ },
+ "Alma 44:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 44:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:1": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 45:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 45:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 45:4": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 45:5": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 45:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:8": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 45:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 45:10": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 45:11": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 45:12": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 45:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 45:15": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 45:16": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 45:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:18": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 45:19": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 45:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 45:23": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 45:24": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 46:1": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Helaman and his brethren go out to set the church in order, but many, grown proud through their riches, refuse to listen to them."
+ },
+ "Alma 46:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:3": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 46:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:8": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 46:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:10": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 46:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:12": {
+  "keep": true,
+  "score": 97
+ },
+ "Alma 46:13": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 46:14": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 46:15": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 46:16": {
+  "keep": false,
+  "score": 48
+ },
+ "Alma 46:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:18": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 46:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:20": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 46:21": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 46:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:25": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 46:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:30": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 46:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:33": {
+  "keep": false,
+  "score": 48
+ },
+ "Alma 46:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:36": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 46:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 46:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:39": {
+  "keep": false,
+  "score": 58
+ },
+ "Alma 46:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 46:41": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 47:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:8": {
+  "keep": true,
+  "score": 72,
+  "bridge": "The Lamanites who refuse the king's order flee to Mount Antipas under a leader of their own, and Amalickiah marches after them."
+ },
+ "Alma 47:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:15": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 47:16": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 47:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:18": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 47:19": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 47:20": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 47:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:24": {
+  "keep": true,
+  "score": 90
+ },
+ "Alma 47:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:26": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 47:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 47:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 47:33": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 47:34": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 47:35": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 47:36": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 48:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 48:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 48:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 48:8": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 48:9": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 48:10": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 48:11": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 48:12": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 48:13": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 48:14": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 48:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 48:16": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 48:17": {
+  "keep": true,
+  "score": 97
+ },
+ "Alma 48:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 48:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 48:22": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 48:23": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 48:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 48:25": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 49:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 49:2": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 49:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 49:5": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 49:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:8": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 49:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:14": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Finding Ammonihah too strong to attack, the Lamanite captains march on the city of Noah, once the weakest in the land, swearing to destroy it."
+ },
+ "Alma 49:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:16": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 49:17": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 49:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 49:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 49:23": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 49:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:25": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 49:26": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 49:27": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Their captains dead, the survivors flee home and report the defeat to King Amalickiah."
+ },
+ "Alma 49:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 49:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:4": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 50:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:17": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 50:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:19": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 50:20": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 50:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:22": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 50:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 50:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 50:35": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Years of peace follow. Then a land dispute leads a man named Morianton to take his people toward the land northward, and Moroni sends an army to stop them."
+ },
+ "Alma 50:36": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 50:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:38": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 50:39": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 50:40": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 51:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 51:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:5": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 51:6": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 51:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 51:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:9": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 51:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 51:14": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 51:15": {
+  "keep": false,
+  "score": 42
+ },
+ "Alma 51:16": {
+  "keep": false,
+  "score": 42
+ },
+ "Alma 51:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 51:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:19": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 51:20": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 51:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 51:22": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 51:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 51:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:29": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Amalickiah goes on to seize a string of fortified cities along the east coast, then marches toward the land Bountiful."
+ },
+ "Alma 51:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:31": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 51:32": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 51:33": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 51:34": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 51:35": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 51:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 51:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:1": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 52:2": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 52:3": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 52:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:20": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 52:21": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Teancum holds the line until Moroni arrives at Bountiful. The Lamanites in the city of Mulek, under a Zoramite named Jacob, refuse to come out and fight in the open."
+ },
+ "Alma 52:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:26": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 52:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:28": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 52:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:35": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 52:36": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 52:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 52:38": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 52:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 52:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:2": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 53:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:6": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 53:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 53:11": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 53:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 53:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 53:14": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 53:15": {
+  "keep": false,
+  "score": 62
+ },
+ "Alma 53:16": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 53:17": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 53:18": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 53:19": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 53:20": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 53:21": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 53:22": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 53:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 54:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:3": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 54:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 54:5": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 54:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 54:7": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 54:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:11": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 54:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 54:13": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 54:14": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 54:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 54:16": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 54:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 54:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 54:21": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 54:22": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 54:23": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 54:24": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 55:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:3": {
+  "keep": false,
+  "score": 58
+ },
+ "Alma 55:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:8": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Moroni sends Laman with a few men to the city of Gid, where the Lamanites hold Nephite prisoners."
+ },
+ "Alma 55:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:14": {
+  "keep": true,
+  "score": 80
+ },
+ "Alma 55:15": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 55:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:17": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 55:18": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 55:19": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 55:20": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 55:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 55:24": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 55:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:31": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 55:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 55:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:8": {
+  "keep": false,
+  "score": 62
+ },
+ "Alma 56:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:10": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 56:11": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 56:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:15": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 56:16": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 56:17": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 56:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:19": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 56:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:27": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 56:28": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 56:29": {
+  "keep": true,
+  "score": 72,
+  "bridge": "On Ammoron's orders the Lamanites hold their captured cities rather than attack. Over the next year reinforcements and provisions reach Helaman and Antipus, some sent by the young men's own fathers."
+ },
+ "Alma 56:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:36": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:37": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 56:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 56:39": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:40": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 56:41": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:42": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:43": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:44": {
+  "keep": true,
+  "score": 90
+ },
+ "Alma 56:45": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 56:46": {
+  "keep": true,
+  "score": 97
+ },
+ "Alma 56:47": {
+  "keep": true,
+  "score": 99
+ },
+ "Alma 56:48": {
+  "keep": true,
+  "score": 99
+ },
+ "Alma 56:49": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:50": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:51": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:52": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:53": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 56:54": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 56:55": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 56:56": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 56:57": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 57:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:4": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 57:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 57:19": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 57:20": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 57:21": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 57:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 57:24": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 57:25": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 57:26": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 57:27": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 57:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 57:35": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 57:36": {
+  "keep": false,
+  "score": 62
+ },
+ "Alma 58:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 58:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 58:8": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 58:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 58:10": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 58:11": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 58:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 58:13": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 58:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:21": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 58:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:28": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Helaman lures the Lamanite army out of Manti into the wilderness while two hidden detachments seize the city behind them, then marches back by night to hold it."
+ },
+ "Alma 58:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:30": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 58:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:33": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 58:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 58:35": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 58:36": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 58:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 58:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 58:39": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 58:40": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 58:41": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 59:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 59:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:3": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 59:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:9": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 59:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 59:11": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Moroni asks Pahoran to reinforce Helaman, but no help comes, and the Lamanites overrun the city of Nephihah."
+ },
+ "Alma 59:12": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 59:13": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 60:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 60:2": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 60:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 60:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:5": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 60:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:7": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 60:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:9": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 60:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:11": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 60:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 60:13": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 60:14": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 60:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:16": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 60:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 60:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:20": {
+  "keep": false,
+  "score": 58
+ },
+ "Alma 60:21": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 60:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 60:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 60:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 60:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 60:33": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 60:34": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 60:35": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 60:36": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 61:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 61:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 61:4": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 61:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 61:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:8": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 61:9": {
+  "keep": true,
+  "score": 95
+ },
+ "Alma 61:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:12": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 61:13": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 61:14": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 61:15": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 61:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:19": {
+  "keep": false,
+  "score": 48
+ },
+ "Alma 61:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 61:21": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 62:1": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 62:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:3": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 62:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 62:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 62:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 62:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:21": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 62:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:23": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 62:24": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 62:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:26": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 62:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:35": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Moroni sends men and food to Helaman, Lehi, and Teancum, retakes Nephihah by scaling its walls at night, and drives the Lamanites and King Ammoron into a final corner by the east sea."
+ },
+ "Alma 62:36": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 62:37": {
+  "keep": true,
+  "score": 90
+ },
+ "Alma 62:38": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 62:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:40": {
+  "keep": false,
+  "score": 58
+ },
+ "Alma 62:41": {
+  "keep": true,
+  "score": 92
+ },
+ "Alma 62:42": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 62:43": {
+  "keep": true,
+  "score": 85
+ },
+ "Alma 62:44": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 62:45": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 62:46": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:47": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:48": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 62:49": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 62:50": {
+  "keep": false,
+  "score": 60
+ },
+ "Alma 62:51": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 62:52": {
+  "keep": true,
+  "score": 72
+ }
+}
