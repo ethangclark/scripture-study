@@ -1,0 +1,301 @@
+<title>Book of Mormon, Abridged</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Sans+Condensed:wght@400;500&display=swap">
+<style>
+:root {
+  --paper: #F1F2EE;
+  --paper-2: #E6E8E1;
+  --ink: #1D2130;
+  --ink-soft: #4A4F5E;
+  --muted: #7A7E88;
+  --rule: #D3D5CD;
+  --brass: #8E6420;
+  --brass-soft: #EDE3CF;
+  --cut: #A7AAB1;
+  --serif: "Literata", "Iowan Old Style", Georgia, serif;
+  --display: "Cormorant Garamond", "Garamond", "Times New Roman", serif;
+  --ui: "IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --measure: 38rem;
+  --fs: 1.125rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper: #15171D; --paper-2: #1D2029; --ink: #E3E1D8; --ink-soft: #B9B7AF;
+    --muted: #868A94; --rule: #2C303A; --brass: #D3A24E; --brass-soft: #2B2518; --cut: #5A5E68;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #15171D; --paper-2: #1D2029; --ink: #E3E1D8; --ink-soft: #B9B7AF;
+  --muted: #868A94; --rule: #2C303A; --brass: #D3A24E; --brass-soft: #2B2518; --cut: #5A5E68;
+}
+* { box-sizing: border-box; }
+html, body { background: var(--paper); color: var(--ink); }
+body { font-family: var(--serif); font-size: var(--fs); line-height: 1.7; }
+button, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--brass); outline-offset: 2px; border-radius: 3px; }
+
+.bar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: color-mix(in srgb, var(--paper) 92%, transparent);
+  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--rule);
+  font-family: var(--ui); font-size: 0.9rem; line-height: 1.2;
+}
+.bar-in {
+  max-width: 52rem; margin: 0 auto; padding: 0.6rem 16px;
+  display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap;
+}
+.brand { font-family: var(--display); font-weight: 600; font-size: 1.25rem; letter-spacing: 0.01em; white-space: nowrap; margin-right: auto; background: none; border: 0; padding: 0; cursor: pointer; }
+.brand span { color: var(--brass); }
+.picker { display: flex; gap: 0.4rem; }
+.picker select {
+  background: var(--paper-2); border: 1px solid var(--rule); border-radius: 6px;
+  padding: 0.35rem 0.5rem; max-width: 9.5rem;
+}
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 999px; padding: 2px; background: var(--paper-2); }
+.seg button { border: 0; background: none; padding: 0.3rem 0.75rem; border-radius: 999px; cursor: pointer; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.75rem; color: var(--ink-soft); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.icon-btn { border: 1px solid var(--rule); background: var(--paper-2); border-radius: 6px; padding: 0.3rem 0.55rem; cursor: pointer; }
+
+main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-block: 2.5rem 5rem; }
+
+/* Contents */
+.contents h1 { font-family: var(--display); font-weight: 500; font-size: clamp(2.2rem, 7vw, 3.4rem); line-height: 1.05; margin: 0 0 0.75rem; text-wrap: balance; }
+.lede { color: var(--ink-soft); margin: 0 0 2rem; max-width: 34rem; }
+.toc { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.toc li { border-bottom: 1px solid var(--rule); }
+.toc button {
+  width: 100%; display: grid; grid-template-columns: 1fr auto; gap: 0.25rem 1rem; align-items: baseline;
+  background: none; border: 0; padding: 0.8rem 0; text-align: left; cursor: pointer;
+}
+.toc .t { font-family: var(--display); font-size: 1.4rem; font-weight: 600; }
+.toc .m { font-family: var(--ui); font-size: 0.8rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.meter { grid-column: 1 / -1; height: 3px; background: var(--rule); border-radius: 2px; overflow: hidden; }
+.meter i { display: block; height: 100%; background: var(--brass); }
+.resume { margin: 0 0 2rem; font-family: var(--ui); font-size: 0.9rem; }
+.resume button { background: var(--brass-soft); border: 1px solid var(--rule); color: var(--ink); border-radius: 6px; padding: 0.5rem 0.8rem; cursor: pointer; }
+.fine { font-family: var(--ui); font-size: 0.8rem; color: var(--muted); margin-top: 2rem; line-height: 1.5; }
+
+/* Chapter */
+.eyebrow { font-family: var(--ui); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--brass); margin: 0; }
+.chapter h1 { font-family: var(--display); font-weight: 500; font-size: clamp(2rem, 6vw, 2.8rem); line-height: 1.1; margin: 0.2rem 0 0.3rem; }
+.count { font-family: var(--ui); font-size: 0.85rem; color: var(--muted); margin: 0 0 2rem; font-variant-numeric: tabular-nums; }
+.v { margin: 0 0 0.9rem; }
+.v sup { font-family: var(--ui); font-size: 0.68rem; color: var(--brass); font-weight: 500; margin-right: 0.3rem; vertical-align: 0.45em; font-variant-numeric: tabular-nums; }
+.v.cut { color: var(--cut); }
+.v.cut sup { color: var(--cut); }
+.gap {
+  font-family: var(--ui); font-size: 0.78rem; color: var(--muted); letter-spacing: 0.06em;
+  margin: 0.2rem 0 1.1rem; display: flex; align-items: center; gap: 0.6rem;
+}
+.gap::before, .gap::after { content: ""; flex: 1; height: 1px; background: var(--rule); }
+.bridge { margin: 0.4rem 0 1.4rem; padding: 0.8rem 1rem; background: var(--brass-soft); border-radius: 4px; }
+.bridge .lbl { font-family: var(--ui); font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--brass); margin: 0 0 0.25rem; }
+.bridge p { margin: 0; font-style: italic; font-size: 0.98rem; line-height: 1.55; color: var(--ink-soft); }
+.nav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--rule); font-family: var(--ui); }
+.nav button { background: none; border: 1px solid var(--rule); border-radius: 6px; padding: 0.55rem 0.9rem; cursor: pointer; font-size: 0.9rem; }
+.nav button:disabled { opacity: 0.35; cursor: default; }
+.nav .next { margin-left: auto; }
+
+@media (max-width: 520px) {
+  .bar-in { gap: 0.5rem; }
+  .brand { width: 100%; margin-right: 0; }
+  .picker select { max-width: 6.6rem; padding-inline: 0.35rem; }
+  .seg button { padding: 0.3rem 0.5rem; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  main { animation: rise 0.25s ease-out; }
+  @keyframes rise { from { transform: translateY(4px); } to { transform: none; } }
+}
+</style>
+
+<header class="bar">
+  <div class="bar-in">
+    <button class="brand" id="home" type="button">Book of Mormon <span>Abridged</span></button>
+    <div class="picker">
+      <select id="book" aria-label="Book"></select>
+      <select id="chap" aria-label="Chapter"></select>
+    </div>
+    <div class="seg" role="group" aria-label="Text">
+      <button type="button" id="m-abr" aria-pressed="true">Abridged</button>
+      <button type="button" id="m-full" aria-pressed="false">Full</button>
+    </div>
+    <button class="icon-btn" id="size" type="button" aria-label="Text size">Aa</button>
+  </div>
+</header>
+<main id="main"></main>
+
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(function () {
+  const BOOKS = JSON.parse(document.getElementById("data").textContent);
+  const $ = (id) => document.getElementById(id);
+  const main = $("main"), selBook = $("book"), selChap = $("chap");
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("bom-abr:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("bom-abr:" + k, JSON.stringify(v)); } catch (e) {} }
+  };
+  let mode = store.get("mode", "abr");
+  let size = store.get("size", 0);
+  const SIZES = ["1.125rem", "1.25rem", "1.0rem"];
+  let view = null; // {b, c} or null for contents
+
+  const esc = (s) => s.replace(/[&<>]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[ch]);
+  const kept = (vs) => vs.reduce((n, v) => n + v[1], 0);
+  const plural = (n, w) => n + " " + w + (n === 1 ? "" : "s");
+  const abbrev = { "1 Nephi": "1 Ne", "2 Nephi": "2 Ne", "3 Nephi": "3 Ne", "4 Nephi": "4 Ne", "Words of Mormon": "W of M", "Helaman": "Hel", "Mormon": "Morm", "Moroni": "Moro" };
+  const short = (n) => abbrev[n] || n;
+
+  // Flat index for chapter-crossing gap ranges.
+  const flat = [];
+  BOOKS.forEach((bk, b) => bk.c.forEach((vs, c) => vs.forEach((v, i) => flat.push([b, c, i]))));
+  const pos = new Map(flat.map((p, i) => [p.join(","), i]));
+  function refOf(p) { const bk = BOOKS[p[0]]; return short(bk.n) + " " + (p[1] + 1) + ":" + (p[2] + 1); }
+  function skippedRange(b, c, i) {
+    let j = pos.get([b, c, i].join(",")) - 1, end = j;
+    while (j >= 0 && !BOOKS[flat[j][0]].c[flat[j][1]][flat[j][2]][1]) j--;
+    if (end < j + 1) return "";
+    const a = flat[j + 1], z = flat[end];
+    const ra = refOf(a), rz = refOf(z);
+    if (ra === rz) return ra;
+    if (a[0] === z[0] && a[1] === z[1]) return ra + "–" + (z[2] + 1);
+    if (a[0] === z[0]) return ra + "–" + (z[1] + 1) + ":" + (z[2] + 1);
+    return ra + " – " + rz;
+  }
+
+  BOOKS.forEach((bk, i) => selBook.add(new Option(bk.n, i)));
+  selBook.add(new Option("Contents", -1), 0);
+
+  function fillChapters(b) {
+    selChap.innerHTML = "";
+    if (b < 0) { selChap.hidden = true; return; }
+    selChap.hidden = false;
+    BOOKS[b].c.forEach((vs, c) => {
+      const o = new Option("Chapter " + (c + 1), c);
+      if (mode === "abr" && !kept(vs)) o.text += " (skipped)";
+      selChap.add(o);
+    });
+  }
+
+  function setMode(m) {
+    mode = m; store.set("mode", m);
+    $("m-abr").setAttribute("aria-pressed", m === "abr");
+    $("m-full").setAttribute("aria-pressed", m === "full");
+    if (view) { fillChapters(view.b); selChap.value = view.c; }
+    render(false);
+  }
+
+  function slug(b, c) { return BOOKS[b].s + "-" + (c + 1); }
+  function go(b, c, scroll) {
+    view = b == null ? null : { b, c };
+    if (view) store.set("pos", view);
+    try { history.replaceState(null, "", view ? "#" + slug(b, c) : location.pathname + location.search); } catch (e) {}
+    render(scroll !== false);
+  }
+
+  function contents() {
+    const total = flat.length;
+    const k = BOOKS.reduce((n, bk) => n + bk.c.reduce((m, vs) => m + kept(vs), 0), 0);
+    const last = store.get("pos", null);
+    let h = '<section class="contents"><p class="eyebrow">The Book of Mormon</p><h1>Half the verses, the whole story</h1>';
+    h += '<p class="lede">' + k.toLocaleString() + " of " + total.toLocaleString() + " verses, chosen to keep the narrative moving and the teaching whole. Where a cut would leave you lost, a short note fills in what was skipped. Switch to Full at any time to see every verse, with the cut ones greyed out.</p>";
+    if (last && BOOKS[last.b]) h += '<p class="resume"><button type="button" data-b="' + last.b + '" data-c="' + last.c + '">Continue at ' + esc(BOOKS[last.b].n) + " " + (last.c + 1) + " →</button></p>";
+    h += '<ul class="toc">';
+    BOOKS.forEach((bk, b) => {
+      const n = bk.c.reduce((m, vs) => m + vs.length, 0), kk = bk.c.reduce((m, vs) => m + kept(vs), 0);
+      const pct = Math.round((100 * kk) / n);
+      h += '<li><button type="button" data-b="' + b + '" data-c="0"><span class="t">' + esc(bk.n) + '</span><span class="m">' + kk + " / " + n + " verses · " + pct + "% · " + plural(bk.c.length, "chapter") + '</span><span class="meter"><i style="width:' + pct + '%"></i></span></button></li>';
+    });
+    h += '</ul><p class="fine">Text: the 2013 edition via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.</p></section>';
+    return h;
+  }
+
+  function chapter(b, c) {
+    const bk = BOOKS[b], vs = bk.c[c], k = kept(vs);
+    let h = '<article class="chapter"><p class="eyebrow">' + esc(bk.n) + '</p><h1>Chapter ' + (c + 1) + '</h1>';
+    h += '<p class="count">' + (mode === "abr" ? k + " of " + plural(vs.length, "verse") + " kept" : plural(vs.length, "verse") + " · " + k + " kept, " + (vs.length - k) + " cut") + "</p>";
+    if (mode === "abr" && !k) {
+      h += '<div class="gap">All ' + vs.length + " verses skipped</div>";
+    }
+    let run = 0;
+    vs.forEach((v, i) => {
+      if (mode === "full") {
+        h += '<p class="v' + (v[1] ? "" : " cut") + '"><sup>' + (i + 1) + "</sup>" + esc(v[0]) + "</p>";
+        return;
+      }
+      if (!v[1]) { run++; return; }
+      if (v[2]) {
+        const r = skippedRange(b, c, i);
+        h += '<aside class="bridge"><p class="lbl">Skipped' + (r ? " · " + esc(r) : "") + "</p><p>" + esc(v[2]) + "</p></aside>";
+      } else if (run) {
+        h += '<div class="gap">' + plural(run, "verse") + " skipped</div>";
+      }
+      run = 0;
+      h += '<p class="v"><sup>' + (i + 1) + "</sup>" + esc(v[0]) + "</p>";
+    });
+    if (mode === "abr" && run && k) h += '<div class="gap">' + plural(run, "verse") + " skipped</div>";
+    const prev = step(b, c, -1), next = step(b, c, 1);
+    h += '<nav class="nav">';
+    h += '<button type="button" class="prev"' + (prev ? ' data-b="' + prev[0] + '" data-c="' + prev[1] + '"' : " disabled") + ">← " + (prev ? esc(short(BOOKS[prev[0]].n)) + " " + (prev[1] + 1) : "Start") + "</button>";
+    h += '<button type="button" class="next"' + (next ? ' data-b="' + next[0] + '" data-c="' + next[1] + '"' : " disabled") + ">" + (next ? esc(short(BOOKS[next[0]].n)) + " " + (next[1] + 1) : "End") + " →</button>";
+    h += "</nav></article>";
+    return h;
+  }
+
+  // Step to the adjacent chapter; in abridged mode skip chapters with nothing kept.
+  function step(b, c, d) {
+    for (;;) {
+      c += d;
+      if (c < 0) { b--; if (b < 0) return null; c = BOOKS[b].c.length - 1; }
+      else if (c >= BOOKS[b].c.length) { b++; if (b >= BOOKS.length) return null; c = 0; }
+      if (mode === "full" || kept(BOOKS[b].c[c])) return [b, c];
+    }
+  }
+
+  function render(scroll) {
+    document.documentElement.style.setProperty("--fs", SIZES[size]);
+    if (!view) { selBook.value = -1; fillChapters(-1); main.innerHTML = contents(); }
+    else {
+      if (+selBook.value !== view.b) { selBook.value = view.b; fillChapters(view.b); }
+      selChap.value = view.c;
+      main.innerHTML = chapter(view.b, view.c);
+    }
+    if (scroll) window.scrollTo(0, 0);
+  }
+
+  main.addEventListener("click", (e) => {
+    const t = e.target.closest("button[data-b]");
+    if (t) go(+t.dataset.b, +t.dataset.c);
+  });
+  selBook.addEventListener("change", () => {
+    const b = +selBook.value;
+    if (b < 0) return go(null);
+    fillChapters(b);
+    let c = 0;
+    if (mode === "abr") while (c < BOOKS[b].c.length - 1 && !kept(BOOKS[b].c[c])) c++;
+    go(b, c);
+  });
+  selChap.addEventListener("change", () => go(view.b, +selChap.value));
+  $("home").addEventListener("click", () => go(null));
+  $("m-abr").addEventListener("click", () => setMode("abr"));
+  $("m-full").addEventListener("click", () => setMode("full"));
+  $("size").addEventListener("click", () => { size = (size + 1) % SIZES.length; store.set("size", size); render(false); });
+  document.addEventListener("keydown", (e) => {
+    if (!view || e.target.closest("select") || e.metaKey || e.ctrlKey || e.altKey) return;
+    const s = e.key === "ArrowRight" ? step(view.b, view.c, 1) : e.key === "ArrowLeft" ? step(view.b, view.c, -1) : null;
+    if (s) go(s[0], s[1]);
+  });
+
+  // Initial view: a #slug deep link, otherwise the contents page.
+  const hash = location.hash.slice(1);
+  const m = hash.match(/^(.+)-(\d+)$/);
+  const b0 = m ? BOOKS.findIndex((bk) => bk.s === m[1]) : -1;
+  $("m-abr").setAttribute("aria-pressed", mode === "abr");
+  $("m-full").setAttribute("aria-pressed", mode === "full");
+  if (b0 >= 0 && BOOKS[b0].c[+m[2] - 1]) { fillChapters(b0); go(b0, +m[2] - 1); }
+  else go(null);
+})();
+</script>
