@@ -1,8 +1,13 @@
 """Build a reader page for one volume: embeds its JSON (with abridgement fields) into template.html.
 
-Usage: python3 build.py [bom|ot]   -> writes <vol>.html (bom also writes index.html)
+Usage:
+  python3 build.py [bom|ot]   -> writes <vol>.html for publishing as an Artifact
+                                 (bom also writes index.html)
+  python3 build.py site       -> writes _site/ for GitHub Pages: a landing page
+                                 plus bom/ and ot/ readers
 """
 import json
+import os
 import shutil
 import sys
 
@@ -28,7 +33,7 @@ VOLUMES = {
 }
 
 
-def build(vol):
+def load(vol):
     cfg = VOLUMES[vol]
     d = json.load(open(cfg["src"], encoding="utf-8"))
     books = []
@@ -43,11 +48,21 @@ def build(vol):
                 verses.append(e)
             chapters.append(verses)
         books.append({"n": b["book"], "a": cfg["abbrev"].get(b["book"], b["book"]), "s": b["lds_slug"], "c": chapters})
-    data = json.dumps(books, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    return books
+
+
+def render(vol, library=""):
+    cfg = VOLUMES[vol]
+    data = json.dumps(load(vol), ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     html = open("template.html", encoding="utf-8").read()
     for k, v in {"__NAME__": cfg["name"], "__EYEBROW__": cfg["eyebrow"], "__SOURCE__": cfg["source"],
-                 "__KEY__": vol + "-abr", "__DATA__": data}.items():
+                 "__KEY__": vol + "-abr", "__LIBRARY__": library, "__DATA__": data}.items():
         html = html.replace(k, v)
+    return html
+
+
+def build(vol):
+    html = render(vol)
     out = f"{vol}.html"
     open(out, "w", encoding="utf-8").write(html)
     if vol == "bom":
@@ -55,5 +70,53 @@ def build(vol):
     print("wrote", out, len(html.encode()), "bytes")
 
 
+# Artifacts wrap pages in a document skeleton with a small reset; standalone
+# pages supply their own.
+def standalone(html):
+    head, body = html.split("</style>", 1)
+    reset = "html,body{margin:0}img{max-width:100%}[hidden]{display:none!important}\n"
+    return ("<!doctype html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n"
+            "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n"
+            + head.replace("<style>", "<style>\n" + reset, 1) + "</style>\n</head>\n<body>\n"
+            + body + "\n</body>\n</html>\n")
+
+
+def site():
+    shutil.rmtree("_site", ignore_errors=True)
+    link = ' <a href="../" style="color:inherit">All volumes</a>'
+    for vol in VOLUMES:
+        os.makedirs(f"_site/{vol}", exist_ok=True)
+        open(f"_site/{vol}/index.html", "w", encoding="utf-8").write(standalone(render(vol, link)))
+    # Landing page: reuse the reader's head and tokens.
+    tmpl = open("template.html", encoding="utf-8").read()
+    head = tmpl.split("</style>", 1)[0].replace("__NAME__, Abridged", "Scriptures, Abridged")
+    rows = ""
+    for vol, cfg in VOLUMES.items():
+        books = load(vol)
+        n = sum(len(vs) for b in books for vs in b["c"])
+        k = sum(v[1] for b in books for vs in b["c"] for v in vs)
+        rows += (f'<li><a class="vol" href="{vol}/"><span class="t">{cfg["name"]}</span>'
+                 f'<span class="m">{k:,} of {n:,} verses · {len(books)} books</span></a></li>')
+    extra = """
+.lib { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-block: 3rem 4rem; }
+.lib h1 { font-family: var(--display); font-weight: 500; font-size: clamp(2.2rem, 7vw, 3.4rem); line-height: 1.05; margin: 0.3rem 0 0.75rem; text-wrap: balance; }
+.lib ul { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--rule); }
+.lib li { border-bottom: 1px solid var(--rule); }
+.vol { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 0.25rem 1rem; padding: 1rem 0; color: inherit; text-decoration: none; }
+.vol .t { font-family: var(--display); font-size: 1.6rem; font-weight: 600; }
+.vol:hover .t { color: var(--brass); }
+.vol .m { font-family: var(--ui); font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+"""
+    body = ('<main class="lib"><p class="eyebrow">Scripture study</p><h1>Scriptures, abridged</h1>'
+            '<p class="lede">Each volume keeps half its verses, chosen to keep the story moving and the teaching whole, '
+            'with short notes wherever a cut would leave you lost. Every reader can switch to the full text.</p>'
+            f'<ul>{rows}</ul><p class="fine">Text via the public-domain scriptures-json project. '
+            'An editorial abridgement, not an official edition.</p></main>')
+    open("_site/index.html", "w", encoding="utf-8").write(standalone(head + extra + "</style>" + body))
+    open("_site/.nojekyll", "w").write("")
+    print("wrote _site/:", sorted(os.listdir("_site")))
+
+
 if __name__ == "__main__":
-    build(sys.argv[1] if len(sys.argv) > 1 else "bom")
+    arg = sys.argv[1] if len(sys.argv) > 1 else "bom"
+    site() if arg == "site" else build(arg)
