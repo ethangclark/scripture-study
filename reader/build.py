@@ -83,7 +83,7 @@ def standalone(html):
 
 def site():
     shutil.rmtree("_site", ignore_errors=True)
-    link = ' <a href="../" style="color:inherit">All volumes</a>'
+    link = '<a class="lib-link" href="../" aria-label="All volumes">← All volumes</a>'
     for vol in VOLUMES:
         os.makedirs(f"_site/{vol}", exist_ok=True)
         open(f"_site/{vol}/index.html", "w", encoding="utf-8").write(standalone(render(vol, link)))
