@@ -81,6 +81,28 @@ def standalone(html):
             + body + "\n</body>\n</html>\n")
 
 
+# The readers save bookmarks under "<vol>-abr:bookmarks"; on the site they share
+# one origin, so the library page can list them all.
+LIBRARY_BOOKMARKS_JS = """<script>
+(function () {
+  var vols = [["bom", "Book of Mormon"], ["ot", "Old Testament"]], items = [];
+  vols.forEach(function (p) {
+    try { (JSON.parse(localStorage.getItem(p[0] + "-abr:bookmarks")) || []).forEach(function (m) { if (m.ref && m.slug) items.push([p, m]); }); } catch (e) {}
+  });
+  if (!items.length) return;
+  items.sort(function (x, y) { return y[1].t - x[1].t; });
+  var ul = document.getElementById("libbm-l");
+  items.forEach(function (it) {
+    var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), m = document.createElement("span");
+    a.className = "vol"; a.href = it[0][0] + "/#" + it[1].slug;
+    t.className = "t"; t.textContent = it[1].ref; m.className = "m"; m.textContent = it[0][1];
+    a.appendChild(t); a.appendChild(m); li.appendChild(a); ul.appendChild(li);
+  });
+  document.getElementById("libbm").hidden = false;
+})();
+</script>"""
+
+
 def site():
     shutil.rmtree("_site", ignore_errors=True)
     link = '<a class="lib-link" href="../" aria-label="All volumes">← All volumes</a>'
@@ -106,12 +128,15 @@ def site():
 .vol .t { font-family: var(--display); font-size: 1.6rem; font-weight: 600; }
 .vol:hover .t { color: var(--brass); }
 .vol .m { font-family: var(--ui); font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.libbm h2 { font-family: var(--ui); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--brass); font-weight: 500; margin: 2.5rem 0 0.6rem; }
+.libbm .vol .t { font-size: 1.2rem; }
 """
     body = ('<main class="lib"><p class="eyebrow">Scripture study</p><h1>Scriptures, abridged</h1>'
             '<p class="lede">Each volume keeps half its verses, chosen to keep the story moving and the teaching whole, '
             'with short notes wherever a cut would leave you lost. Every reader can switch to the full text.</p>'
-            f'<ul>{rows}</ul><p class="fine">Text via the public-domain scriptures-json project. '
-            'An editorial abridgement, not an official edition.</p></main>')
+            f'<ul>{rows}</ul><section class="libbm" id="libbm" hidden><h2>Bookmarks</h2><ul id="libbm-l"></ul></section>'
+            '<p class="fine">Text via the public-domain scriptures-json project. '
+            'An editorial abridgement, not an official edition.</p></main>' + LIBRARY_BOOKMARKS_JS)
     open("_site/index.html", "w", encoding="utf-8").write(standalone(head + extra + "</style>" + body))
     open("_site/.nojekyll", "w").write("")
     print("wrote _site/:", sorted(os.listdir("_site")))
