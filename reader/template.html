@@ -45,10 +45,13 @@ button, select { font: inherit; color: inherit; }
   font-family: var(--ui); font-size: 0.9rem; line-height: 1.2;
 }
 .bar-in {
-  max-width: 52rem; margin: 0 auto; padding: 0.6rem 16px;
+  max-width: 64rem; margin: 0 auto; padding: 0.6rem 16px;
   display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap;
 }
-.brand { font-family: var(--display); font-weight: 600; font-size: 1.25rem; letter-spacing: 0.01em; white-space: nowrap; margin-right: auto; background: none; border: 0; padding: 0; cursor: pointer; }
+.ident { display: flex; align-items: center; gap: 0.6rem; margin-right: auto; min-width: 0; }
+.brand { font-family: var(--display); font-weight: 600; font-size: 1.25rem; letter-spacing: 0.01em; white-space: nowrap; background: none; border: 0; padding: 0; cursor: pointer; }
+.lib-link { display: inline-flex; align-items: center; gap: 0.3rem; color: var(--ink-soft); text-decoration: none; border: 1px solid var(--rule); background: var(--paper-2); border-radius: 6px; padding: 0.3rem 0.55rem; white-space: nowrap; }
+.lib-link:hover { color: var(--brass); border-color: var(--brass); }
 .brand span { color: var(--brass); }
 .picker { display: flex; gap: 0.4rem; }
 .picker select {
@@ -102,9 +105,10 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 
 @media (max-width: 520px) {
   .bar-in { gap: 0.5rem; }
-  .brand { width: 100%; margin-right: 0; }
-  .picker select { max-width: 6.6rem; padding-inline: 0.35rem; }
-  .seg button { padding: 0.3rem 0.5rem; }
+  .ident { width: 100%; margin-right: 0; }
+  .picker select { max-width: 6rem; padding-inline: 0.3rem; }
+  .seg button { padding: 0.3rem 0.45rem; }
+  .bar-in > .icon-btn { padding-inline: 0.45rem; }
 }
 @media (prefers-reduced-motion: no-preference) {
   main { animation: rise 0.25s ease-out; }
@@ -114,7 +118,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 
 <header class="bar">
   <div class="bar-in">
-    <button class="brand" id="home" type="button">__NAME__ <span>Abridged</span></button>
+    <div class="ident">__LIBRARY__<button class="brand" id="home" type="button">__NAME__ <span>Abridged</span></button></div>
     <div class="picker">
       <select id="book" aria-label="Book"></select>
       <select id="chap" aria-label="Chapter"></select>
@@ -208,7 +212,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
       const pct = Math.round((100 * kk) / n);
       h += '<li><button type="button" data-b="' + b + '" data-c="0"><span class="t">' + esc(bk.n) + '</span><span class="m">' + kk + " / " + n + " verses · " + pct + "% · " + plural(bk.c.length, "chapter") + '</span><span class="meter"><i style="width:' + pct + '%"></i></span></button></li>';
     });
-    h += '</ul><p class="fine">Text: __SOURCE__ via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.__LIBRARY__</p></section>';
+    h += '</ul><p class="fine">Text: __SOURCE__ via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.</p></section>';
     return h;
   }
 
