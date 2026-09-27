@@ -58,6 +58,7 @@ button, select { font: inherit; color: inherit; }
   background: var(--paper-2); border: 1px solid var(--rule); border-radius: 6px;
   padding: 0.35rem 0.5rem; max-width: 9.5rem;
 }
+.seg .sm { display: none; }
 .seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 999px; padding: 2px; background: var(--paper-2); }
 .seg button { border: 0; background: none; padding: 0.3rem 0.75rem; border-radius: 999px; cursor: pointer; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.75rem; color: var(--ink-soft); }
 .seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
@@ -66,7 +67,7 @@ button, select { font: inherit; color: inherit; }
 main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-block: 2.5rem 5rem; }
 
 /* Contents */
-.contents h1 { font-family: var(--display); font-weight: 500; font-size: clamp(2.2rem, 7vw, 3.4rem); line-height: 1.05; margin: 0 0 0.75rem; text-wrap: balance; }
+.contents h1, .bm-h { font-family: var(--display); font-weight: 500; font-size: clamp(2.2rem, 7vw, 3.4rem); line-height: 1.05; margin: 0 0 0.75rem; text-wrap: balance; }
 .lede { color: var(--ink-soft); margin: 0 0 2rem; max-width: 34rem; }
 .toc { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
 .toc li { border-bottom: 1px solid var(--rule); }
@@ -89,7 +90,36 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 .v { margin: 0 0 0.9rem; }
 .v sup { font-family: var(--ui); font-size: 0.68rem; color: var(--brass); font-weight: 500; margin-right: 0.3rem; vertical-align: 0.45em; font-variant-numeric: tabular-nums; }
 .v.cut { color: var(--cut); }
-.v.cut sup { color: var(--cut); }
+.vn {
+  font-family: var(--ui); font-size: 0.68rem; font-weight: 500; line-height: 1; color: var(--brass);
+  background: none; border: 1px solid transparent; border-radius: 4px; padding: 0.15rem 0.25rem; margin: 0 0.2rem 0 -0.25rem;
+  vertical-align: 0.45em; cursor: pointer; font-variant-numeric: tabular-nums;
+}
+.vn:hover { border-color: var(--rule); }
+.v.cut .vn { color: var(--cut); }
+.v.marked .vn { background: var(--brass); color: var(--paper); border-color: var(--brass); }
+.v.flash { background: var(--brass-soft); border-radius: 4px; box-shadow: 0 0 0 0.4rem var(--brass-soft); }
+@media (prefers-reduced-motion: no-preference) { .v { transition: background 1.2s ease, box-shadow 1.2s ease; } }
+.bm-btn { display: inline-flex; align-items: center; gap: 0.3rem; }
+.bm-btn svg { width: 0.8rem; height: 0.95rem; fill: none; stroke: currentColor; stroke-width: 1.6; }
+.bm-btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.bm-btn .n { font-variant-numeric: tabular-nums; }
+.bms { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.bms li { display: flex; gap: 0.75rem; align-items: flex-start; border-bottom: 1px solid var(--rule); padding: 0.85rem 0; }
+.bms .go { flex: 1; min-width: 0; text-align: left; background: none; border: 0; padding: 0; cursor: pointer; }
+.bms .r { font-family: var(--display); font-size: 1.3rem; font-weight: 600; display: block; }
+.bms .x { font-size: 0.95rem; color: var(--ink-soft); display: block; line-height: 1.5; }
+.bms .tag { font-family: var(--ui); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.bms .del { font-family: var(--ui); font-size: 0.8rem; color: var(--muted); background: none; border: 1px solid var(--rule); border-radius: 6px; padding: 0.3rem 0.55rem; cursor: pointer; }
+.bms .del:hover { color: var(--ink); }
+.empty { color: var(--ink-soft); }
+.toast {
+  position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); z-index: 10;
+  display: flex; gap: 0.9rem; align-items: center; max-width: calc(100% - 32px);
+  background: var(--ink); color: var(--paper); border-radius: 8px; padding: 0.6rem 0.9rem;
+  font-family: var(--ui); font-size: 0.9rem; line-height: 1.3; box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+}
+.toast button { background: none; border: 0; color: var(--brass-soft); font-weight: 500; cursor: pointer; padding: 0; text-decoration: underline; }
 .gap {
   font-family: var(--ui); font-size: 0.78rem; color: var(--muted); letter-spacing: 0.06em;
   margin: 0.2rem 0 1.1rem; display: flex; align-items: center; gap: 0.6rem;
@@ -104,9 +134,14 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 .nav .next { margin-left: auto; }
 
 @media (max-width: 520px) {
-  .bar-in { gap: 0.5rem; }
+  .bar-in { gap: 0.5rem 0.35rem; }
+  .picker { gap: 0.3rem; }
   .ident { width: 100%; margin-right: 0; }
   .picker select { max-width: 6rem; padding-inline: 0.3rem; }
+  #book { max-width: 5.6rem; }
+  #chap { max-width: 4.9rem; }
+  .seg .lg { display: none; }
+  .seg .sm { display: inline; }
   .seg button { padding: 0.3rem 0.45rem; }
   .bar-in > .icon-btn { padding-inline: 0.45rem; }
 }
@@ -124,13 +159,15 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
       <select id="chap" aria-label="Chapter"></select>
     </div>
     <div class="seg" role="group" aria-label="Text">
-      <button type="button" id="m-abr" aria-pressed="true">Abridged</button>
+      <button type="button" id="m-abr" aria-pressed="true"><span class="lg">Abridged</span><span class="sm" aria-hidden="true">Abr.</span></button>
       <button type="button" id="m-full" aria-pressed="false">Full</button>
     </div>
+    <button class="icon-btn bm-btn" id="bm" type="button" aria-pressed="false" aria-label="Bookmarks"><svg viewBox="0 0 12 15" aria-hidden="true"><path d="M1.5 1.5h9v12L6 10.2 1.5 13.5z"/></svg><span class="n" id="bm-n">0</span></button>
     <button class="icon-btn" id="size" type="button" aria-label="Text size">Aa</button>
   </div>
 </header>
 <main id="main"></main>
+<div class="toast" id="toast" role="status" hidden><span id="toast-t"></span><button type="button" id="toast-u">Undo</button></div>
 
 <script type="application/json" id="data">__DATA__</script>
 <script>
@@ -183,21 +220,74 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     });
   }
 
-  function setMode(m) {
+  function setMode(m, quiet) {
     mode = m; store.set("mode", m);
     $("m-abr").setAttribute("aria-pressed", m === "abr");
     $("m-full").setAttribute("aria-pressed", m === "full");
-    if (view) { fillChapters(view.b); selChap.value = view.c; }
-    render(false);
+    if (view && !view.bm) { fillChapters(view.b); selChap.value = view.c; }
+    if (!quiet) render(false);
   }
 
   function slug(b, c) { return BOOKS[b].s + "-" + (c + 1); }
-  function go(b, c, scroll) {
-    view = b == null ? null : { b, c };
-    if (view) store.set("pos", view);
-    try { history.replaceState(null, "", view ? "#" + slug(b, c) : location.pathname + location.search); } catch (e) {}
+  function go(b, c, scroll, v) {
+    view = b == null ? null : b === "bm" ? { bm: true } : { b, c };
+    if (view && !view.bm) store.set("pos", view);
+    const h = !view ? "" : view.bm ? "#bookmarks" : "#" + slug(b, c) + (v != null ? "." + (v + 1) : "");
+    try { history.replaceState(null, "", h || location.pathname + location.search); } catch (e) {}
     render(scroll !== false);
   }
+
+  // Bookmarks: {b, c, v, t, ref, slug}; ref and slug let the site's library page list them.
+  let marks = store.get("bookmarks", []).filter((m) => BOOKS[m.b] && BOOKS[m.b].c[m.c] && BOOKS[m.b].c[m.c][m.v]);
+  const refLabel = (b, c, v) => BOOKS[b].n + " " + (c + 1) + ":" + (v + 1);
+  const markIndex = (b, c, v) => marks.findIndex((m) => m.b === b && m.c === c && m.v === v);
+  function saveMarks() { store.set("bookmarks", marks); $("bm-n").textContent = marks.length; }
+  function toggleMark(b, c, v) {
+    const i = markIndex(b, c, v), ref = refLabel(b, c, v);
+    if (i >= 0) {
+      const old = marks.splice(i, 1)[0];
+      toast("Removed " + ref, () => { marks.splice(i, 0, old); saveMarks(); render(false); });
+    } else {
+      marks.push({ b, c, v, t: Date.now(), ref, slug: slug(b, c) + "." + (v + 1) });
+      toast("Bookmarked " + ref, () => { marks.splice(markIndex(b, c, v), 1); saveMarks(); render(false); });
+    }
+    saveMarks();
+    render(false);
+  }
+  function goVerse(b, c, v) {
+    if (mode === "abr" && !BOOKS[b].c[c][v][1]) {
+      setMode("full", true);
+      toast("Showing the full text: " + refLabel(b, c, v) + " is cut from the abridgement");
+    }
+    go(b, c, false, v);
+    const el = document.getElementById("v-" + v);
+    if (!el) return window.scrollTo(0, 0);
+    el.scrollIntoView({ block: "center" });
+    el.classList.add("flash");
+    setTimeout(() => el.classList.remove("flash"), 1600);
+  }
+  function bookmarks() {
+    let h = '<section class="bookmarks"><p class="eyebrow">__EYEBROW__</p><h1 class="bm-h">Bookmarks</h1>';
+    if (!marks.length) return h + '<p class="empty">Tap a verse number to bookmark that verse. Your bookmarks are saved in this browser.</p></section>';
+    h += '<ul class="bms">';
+    marks.slice().sort((x, y) => y.t - x.t).forEach((m) => {
+      const v = BOOKS[m.b].c[m.c][m.v], txt = v[0].length > 140 ? v[0].slice(0, 137) + "…" : v[0];
+      h += '<li><button type="button" class="go" data-b="' + m.b + '" data-c="' + m.c + '" data-v="' + m.v + '"><span class="r">' + esc(m.ref) + "</span>" +
+        (v[1] ? "" : '<span class="tag">Cut from the abridgement</span>') + '<span class="x">' + esc(txt) + "</span></button>" +
+        '<button type="button" class="del" data-del="' + m.b + "." + m.c + "." + m.v + '" aria-label="Remove ' + esc(m.ref) + '">Remove</button></li>';
+    });
+    return h + '</ul><p class="fine">Saved in this browser only.</p></section>';
+  }
+  let toastTimer = 0, toastUndo = null;
+  function toast(text, undo) {
+    $("toast-t").textContent = text;
+    toastUndo = undo || null;
+    $("toast-u").hidden = !undo;
+    $("toast").hidden = false;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => { $("toast").hidden = true; }, 4000);
+  }
+  $("toast-u").addEventListener("click", () => { if (toastUndo) toastUndo(); toastUndo = null; $("toast").hidden = true; });
 
   function contents() {
     const total = flat.length;
@@ -205,7 +295,12 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     const last = store.get("pos", null);
     let h = '<section class="contents"><p class="eyebrow">__EYEBROW__</p><h1>Half the verses, the whole story</h1>';
     h += '<p class="lede">' + k.toLocaleString() + " of " + total.toLocaleString() + " verses, chosen to keep the narrative moving and the teaching whole. Where a cut would leave you lost, a short note fills in what was skipped. Switch to Full at any time to see every verse, with the cut ones greyed out.</p>";
-    if (last && BOOKS[last.b]) h += '<p class="resume"><button type="button" data-b="' + last.b + '" data-c="' + last.c + '">Continue at ' + esc(BOOKS[last.b].n) + " " + (last.c + 1) + " →</button></p>";
+    if ((last && BOOKS[last.b]) || marks.length) {
+      h += '<p class="resume">';
+      if (last && BOOKS[last.b]) h += '<button type="button" data-b="' + last.b + '" data-c="' + last.c + '">Continue at ' + esc(BOOKS[last.b].n) + " " + (last.c + 1) + " →</button> ";
+      if (marks.length) h += '<button type="button" data-bm="1">' + plural(marks.length, "bookmark") + " →</button>";
+      h += "</p>";
+    }
     h += '<ul class="toc">';
     BOOKS.forEach((bk, b) => {
       const n = bk.c.reduce((m, vs) => m + vs.length, 0), kk = bk.c.reduce((m, vs) => m + kept(vs), 0);
@@ -214,6 +309,12 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     });
     h += '</ul><p class="fine">Text: __SOURCE__ via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.</p></section>';
     return h;
+  }
+
+  function verse(b, c, i, v) {
+    const on = markIndex(b, c, i) >= 0;
+    return '<p class="v' + (v[1] ? "" : " cut") + (on ? " marked" : "") + '" id="v-' + i + '"><button type="button" class="vn" data-mark="' + i +
+      '" aria-pressed="' + on + '" aria-label="' + (on ? "Remove bookmark from" : "Bookmark") + " verse " + (i + 1) + '">' + (i + 1) + "</button>" + esc(v[0]) + "</p>";
   }
 
   function chapter(b, c) {
@@ -226,7 +327,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     let run = 0;
     vs.forEach((v, i) => {
       if (mode === "full") {
-        h += '<p class="v' + (v[1] ? "" : " cut") + '"><sup>' + (i + 1) + "</sup>" + esc(v[0]) + "</p>";
+        h += verse(b, c, i, v);
         return;
       }
       if (!v[1]) { run++; return; }
@@ -237,7 +338,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
         h += '<div class="gap">' + plural(run, "verse") + " skipped</div>";
       }
       run = 0;
-      h += '<p class="v"><sup>' + (i + 1) + "</sup>" + esc(v[0]) + "</p>";
+      h += verse(b, c, i, v);
     });
     if (mode === "abr" && run && k) h += '<div class="gap">' + plural(run, "verse") + " skipped</div>";
     const prev = step(b, c, -1), next = step(b, c, 1);
@@ -260,7 +361,8 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 
   function render(scroll) {
     document.documentElement.style.setProperty("--fs", SIZES[size]);
-    if (!view) { selBook.value = -1; fillChapters(-1); main.innerHTML = contents(); }
+    $("bm").setAttribute("aria-pressed", !!(view && view.bm));
+    if (!view || view.bm) { selBook.value = -1; fillChapters(-1); main.innerHTML = view ? bookmarks() : contents(); }
     else {
       if (+selBook.value !== view.b) { selBook.value = view.b; fillChapters(view.b); }
       selChap.value = view.c;
@@ -270,9 +372,17 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   }
 
   main.addEventListener("click", (e) => {
+    const mk = e.target.closest("button[data-mark]");
+    if (mk && view && !view.bm) return toggleMark(view.b, view.c, +mk.dataset.mark);
+    const del = e.target.closest("button[data-del]");
+    if (del) { const [b, c, v] = del.dataset.del.split(".").map(Number); return toggleMark(b, c, v); }
+    if (e.target.closest("button[data-bm]")) return go("bm");
     const t = e.target.closest("button[data-b]");
-    if (t) go(+t.dataset.b, +t.dataset.c);
+    if (!t) return;
+    if (t.dataset.v != null) goVerse(+t.dataset.b, +t.dataset.c, +t.dataset.v);
+    else go(+t.dataset.b, +t.dataset.c);
   });
+  $("bm").addEventListener("click", () => (view && view.bm ? go(null) : go("bm")));
   selBook.addEventListener("change", () => {
     const b = +selBook.value;
     if (b < 0) return go(null);
@@ -281,24 +391,34 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     if (mode === "abr") while (c < BOOKS[b].c.length - 1 && !kept(BOOKS[b].c[c])) c++;
     go(b, c);
   });
-  selChap.addEventListener("change", () => go(view.b, +selChap.value));
+  selChap.addEventListener("change", () => { if (view && !view.bm) go(view.b, +selChap.value); });
   $("home").addEventListener("click", () => go(null));
   $("m-abr").addEventListener("click", () => setMode("abr"));
   $("m-full").addEventListener("click", () => setMode("full"));
   $("size").addEventListener("click", () => { size = (size + 1) % SIZES.length; store.set("size", size); render(false); });
   document.addEventListener("keydown", (e) => {
-    if (!view || e.target.closest("select") || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (!view || view.bm || e.target.closest("select") || e.metaKey || e.ctrlKey || e.altKey) return;
     const s = e.key === "ArrowRight" ? step(view.b, view.c, 1) : e.key === "ArrowLeft" ? step(view.b, view.c, -1) : null;
     if (s) go(s[0], s[1]);
   });
 
-  // Initial view: a #slug deep link, otherwise the contents page.
-  const hash = location.hash.slice(1);
-  const m = hash.match(/^(.+)-(\d+)$/);
-  const b0 = m ? BOOKS.findIndex((bk) => bk.s === m[1]) : -1;
+  // Route from the URL: #bookmarks, #<book>-<chapter>[.<verse>], or the contents page.
+  function route() {
+    const hash = location.hash.slice(1);
+    const m = hash.match(/^(.+)-(\d+)(?:\.(\d+))?$/);
+    const b0 = m ? BOOKS.findIndex((bk) => bk.s === m[1]) : -1;
+    if (hash === "bookmarks") return go("bm");
+    if (b0 >= 0 && BOOKS[b0].c[+m[2] - 1]) {
+      fillChapters(b0);
+      const v0 = m[3] ? +m[3] - 1 : null;
+      return v0 != null && BOOKS[b0].c[+m[2] - 1][v0] ? goVerse(b0, +m[2] - 1, v0) : go(b0, +m[2] - 1);
+    }
+    go(null);
+  }
   $("m-abr").setAttribute("aria-pressed", mode === "abr");
   $("m-full").setAttribute("aria-pressed", mode === "full");
-  if (b0 >= 0 && BOOKS[b0].c[+m[2] - 1]) { fillChapters(b0); go(b0, +m[2] - 1); }
-  else go(null);
+  saveMarks();
+  window.addEventListener("hashchange", route);
+  route();
 })();
 </script>
