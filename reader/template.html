@@ -208,7 +208,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
       const pct = Math.round((100 * kk) / n);
       h += '<li><button type="button" data-b="' + b + '" data-c="0"><span class="t">' + esc(bk.n) + '</span><span class="m">' + kk + " / " + n + " verses · " + pct + "% · " + plural(bk.c.length, "chapter") + '</span><span class="meter"><i style="width:' + pct + '%"></i></span></button></li>';
     });
-    h += '</ul><p class="fine">Text: __SOURCE__ via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.</p></section>';
+    h += '</ul><p class="fine">Text: __SOURCE__ via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.__LIBRARY__</p></section>';
     return h;
   }
 
