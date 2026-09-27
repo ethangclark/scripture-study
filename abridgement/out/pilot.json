@@ -1,0 +1,704 @@
+{
+ "1 Nephi 3:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Nephi 3:2": {
+  "keep": true,
+  "score": 85
+ },
+ "1 Nephi 3:3": {
+  "keep": true,
+  "score": 80
+ },
+ "1 Nephi 3:4": {
+  "keep": true,
+  "score": 78
+ },
+ "1 Nephi 3:5": {
+  "keep": true,
+  "score": 75
+ },
+ "1 Nephi 3:6": {
+  "keep": true,
+  "score": 78
+ },
+ "1 Nephi 3:7": {
+  "keep": true,
+  "score": 100
+ },
+ "1 Nephi 3:8": {
+  "keep": false,
+  "score": 40
+ },
+ "1 Nephi 3:9": {
+  "keep": true,
+  "score": 68
+ },
+ "1 Nephi 3:10": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Nephi 3:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Nephi 3:12": {
+  "keep": false,
+  "score": 38
+ },
+ "1 Nephi 3:13": {
+  "keep": true,
+  "score": 80
+ },
+ "1 Nephi 3:14": {
+  "keep": true,
+  "score": 72
+ },
+ "1 Nephi 3:15": {
+  "keep": true,
+  "score": 88
+ },
+ "1 Nephi 3:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Nephi 3:17": {
+  "keep": false,
+  "score": 35
+ },
+ "1 Nephi 3:18": {
+  "keep": false,
+  "score": 30
+ },
+ "1 Nephi 3:19": {
+  "keep": true,
+  "score": 66
+ },
+ "1 Nephi 3:20": {
+  "keep": true,
+  "score": 64
+ },
+ "1 Nephi 3:21": {
+  "keep": false,
+  "score": 40
+ },
+ "1 Nephi 3:22": {
+  "keep": true,
+  "score": 62
+ },
+ "1 Nephi 3:23": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Nephi 3:24": {
+  "keep": true,
+  "score": 74
+ },
+ "1 Nephi 3:25": {
+  "keep": true,
+  "score": 80
+ },
+ "1 Nephi 3:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Nephi 3:27": {
+  "keep": true,
+  "score": 68
+ },
+ "1 Nephi 3:28": {
+  "keep": true,
+  "score": 78
+ },
+ "1 Nephi 3:29": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Nephi 3:30": {
+  "keep": false,
+  "score": 20
+ },
+ "1 Nephi 3:31": {
+  "keep": true,
+  "score": 80
+ },
+ "Mosiah 3:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Mosiah 3:2": {
+  "keep": true,
+  "score": 78
+ },
+ "Mosiah 3:3": {
+  "keep": true,
+  "score": 75
+ },
+ "Mosiah 3:4": {
+  "keep": false,
+  "score": 38
+ },
+ "Mosiah 3:5": {
+  "keep": true,
+  "score": 95
+ },
+ "Mosiah 3:6": {
+  "keep": false,
+  "score": 40
+ },
+ "Mosiah 3:7": {
+  "keep": true,
+  "score": 98
+ },
+ "Mosiah 3:8": {
+  "keep": true,
+  "score": 92
+ },
+ "Mosiah 3:9": {
+  "keep": true,
+  "score": 88
+ },
+ "Mosiah 3:10": {
+  "keep": true,
+  "score": 85
+ },
+ "Mosiah 3:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Mosiah 3:12": {
+  "keep": true,
+  "score": 78
+ },
+ "Mosiah 3:13": {
+  "keep": true,
+  "score": 74
+ },
+ "Mosiah 3:14": {
+  "keep": true,
+  "score": 68
+ },
+ "Mosiah 3:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Mosiah 3:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Mosiah 3:17": {
+  "keep": true,
+  "score": 92
+ },
+ "Mosiah 3:18": {
+  "keep": true,
+  "score": 84
+ },
+ "Mosiah 3:19": {
+  "keep": true,
+  "score": 100
+ },
+ "Mosiah 3:20": {
+  "keep": false,
+  "score": 44
+ },
+ "Mosiah 3:21": {
+  "keep": false,
+  "score": 36
+ },
+ "Mosiah 3:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Mosiah 3:23": {
+  "keep": true,
+  "score": 60
+ },
+ "Mosiah 3:24": {
+  "keep": true,
+  "score": 62
+ },
+ "Mosiah 3:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Mosiah 3:26": {
+  "keep": true,
+  "score": 66
+ },
+ "Mosiah 3:27": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 12:1": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 12:2": {
+  "keep": true,
+  "score": 92,
+  "bridge": "Nephi begins quoting a long prophecy of Isaiah concerning Judah and Jerusalem."
+ },
+ "2 Nephi 12:3": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 12:4": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 12:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:6": {
+  "keep": false,
+  "score": 10
+ },
+ "2 Nephi 12:7": {
+  "keep": false,
+  "score": 12
+ },
+ "2 Nephi 12:8": {
+  "keep": false,
+  "score": 12
+ },
+ "2 Nephi 12:9": {
+  "keep": false,
+  "score": 8
+ },
+ "2 Nephi 12:10": {
+  "keep": false,
+  "score": 15
+ },
+ "2 Nephi 12:11": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Nephi 12:12": {
+  "keep": false,
+  "score": 15
+ },
+ "2 Nephi 12:13": {
+  "keep": false,
+  "score": 8
+ },
+ "2 Nephi 12:14": {
+  "keep": false,
+  "score": 6
+ },
+ "2 Nephi 12:15": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Nephi 12:16": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Nephi 12:17": {
+  "keep": false,
+  "score": 20
+ },
+ "2 Nephi 12:18": {
+  "keep": false,
+  "score": 10
+ },
+ "2 Nephi 12:19": {
+  "keep": false,
+  "score": 12
+ },
+ "2 Nephi 12:20": {
+  "keep": false,
+  "score": 12
+ },
+ "2 Nephi 12:21": {
+  "keep": false,
+  "score": 8
+ },
+ "2 Nephi 12:22": {
+  "keep": false,
+  "score": 18
+ },
+ "Alma 43:1": {
+  "keep": false,
+  "score": 30
+ },
+ "Alma 43:2": {
+  "keep": false,
+  "score": 15
+ },
+ "Alma 43:3": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:4": {
+  "keep": true,
+  "score": 80
+ },
+ "Alma 43:5": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 43:6": {
+  "keep": false,
+  "score": 35
+ },
+ "Alma 43:7": {
+  "keep": false,
+  "score": 22
+ },
+ "Alma 43:8": {
+  "keep": false,
+  "score": 30
+ },
+ "Alma 43:9": {
+  "keep": false,
+  "score": 55
+ },
+ "Alma 43:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Alma 43:11": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Alma 43:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:14": {
+  "keep": false,
+  "score": 30
+ },
+ "Alma 43:15": {
+  "keep": false,
+  "score": 20
+ },
+ "Alma 43:16": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 43:17": {
+  "keep": true,
+  "score": 90
+ },
+ "Alma 43:18": {
+  "keep": false,
+  "score": 48
+ },
+ "Alma 43:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Alma 43:20": {
+  "keep": true,
+  "score": 76
+ },
+ "Alma 43:21": {
+  "keep": true,
+  "score": 74
+ },
+ "Alma 43:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Alma 43:23": {
+  "keep": false,
+  "score": 58
+ },
+ "Alma 43:24": {
+  "keep": false,
+  "score": 50
+ },
+ "Alma 43:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:27": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:28": {
+  "keep": false,
+  "score": 18
+ },
+ "Alma 43:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:30": {
+  "keep": false,
+  "score": 48
+ },
+ "Alma 43:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:32": {
+  "keep": false,
+  "score": 20
+ },
+ "Alma 43:33": {
+  "keep": false,
+  "score": 15
+ },
+ "Alma 43:34": {
+  "keep": false,
+  "score": 28
+ },
+ "Alma 43:35": {
+  "keep": false,
+  "score": 56
+ },
+ "Alma 43:36": {
+  "keep": false,
+  "score": 30
+ },
+ "Alma 43:37": {
+  "keep": false,
+  "score": 57
+ },
+ "Alma 43:38": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:39": {
+  "keep": false,
+  "score": 35
+ },
+ "Alma 43:40": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 43:41": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Warned through the prophet Alma, Moroni ambushes the Lamanites at the river Sidon near Manti; his captain Lehi strikes their rear and drives them across the river."
+ },
+ "Alma 43:42": {
+  "keep": false,
+  "score": 25
+ },
+ "Alma 43:43": {
+  "keep": true,
+  "score": 74
+ },
+ "Alma 43:44": {
+  "keep": true,
+  "score": 82
+ },
+ "Alma 43:45": {
+  "keep": true,
+  "score": 88
+ },
+ "Alma 43:46": {
+  "keep": false,
+  "score": 54
+ },
+ "Alma 43:47": {
+  "keep": false,
+  "score": 52
+ },
+ "Alma 43:48": {
+  "keep": true,
+  "score": 84
+ },
+ "Alma 43:49": {
+  "keep": true,
+  "score": 80
+ },
+ "Alma 43:50": {
+  "keep": true,
+  "score": 80
+ },
+ "Alma 43:51": {
+  "keep": false,
+  "score": 40
+ },
+ "Alma 43:52": {
+  "keep": false,
+  "score": 45
+ },
+ "Alma 43:53": {
+  "keep": true,
+  "score": 78
+ },
+ "Alma 43:54": {
+  "keep": true,
+  "score": 86
+ },
+ "3 Nephi 11:1": {
+  "keep": true,
+  "score": 85
+ },
+ "3 Nephi 11:2": {
+  "keep": true,
+  "score": 80
+ },
+ "3 Nephi 11:3": {
+  "keep": true,
+  "score": 95
+ },
+ "3 Nephi 11:4": {
+  "keep": false,
+  "score": 30
+ },
+ "3 Nephi 11:5": {
+  "keep": true,
+  "score": 78
+ },
+ "3 Nephi 11:6": {
+  "keep": true,
+  "score": 75
+ },
+ "3 Nephi 11:7": {
+  "keep": true,
+  "score": 100
+ },
+ "3 Nephi 11:8": {
+  "keep": true,
+  "score": 98
+ },
+ "3 Nephi 11:9": {
+  "keep": true,
+  "score": 80
+ },
+ "3 Nephi 11:10": {
+  "keep": true,
+  "score": 100
+ },
+ "3 Nephi 11:11": {
+  "keep": true,
+  "score": 95
+ },
+ "3 Nephi 11:12": {
+  "keep": true,
+  "score": 88
+ },
+ "3 Nephi 11:13": {
+  "keep": true,
+  "score": 72
+ },
+ "3 Nephi 11:14": {
+  "keep": true,
+  "score": 98
+ },
+ "3 Nephi 11:15": {
+  "keep": true,
+  "score": 96
+ },
+ "3 Nephi 11:16": {
+  "keep": true,
+  "score": 74
+ },
+ "3 Nephi 11:17": {
+  "keep": true,
+  "score": 92
+ },
+ "3 Nephi 11:18": {
+  "keep": true,
+  "score": 75
+ },
+ "3 Nephi 11:19": {
+  "keep": true,
+  "score": 78
+ },
+ "3 Nephi 11:20": {
+  "keep": true,
+  "score": 66
+ },
+ "3 Nephi 11:21": {
+  "keep": true,
+  "score": 80
+ },
+ "3 Nephi 11:22": {
+  "keep": true,
+  "score": 72
+ },
+ "3 Nephi 11:23": {
+  "keep": true,
+  "score": 78
+ },
+ "3 Nephi 11:24": {
+  "keep": true,
+  "score": 66
+ },
+ "3 Nephi 11:25": {
+  "keep": true,
+  "score": 84
+ },
+ "3 Nephi 11:26": {
+  "keep": true,
+  "score": 70
+ },
+ "3 Nephi 11:27": {
+  "keep": true,
+  "score": 76
+ },
+ "3 Nephi 11:28": {
+  "keep": true,
+  "score": 72
+ },
+ "3 Nephi 11:29": {
+  "keep": true,
+  "score": 90
+ },
+ "3 Nephi 11:30": {
+  "keep": true,
+  "score": 70
+ },
+ "3 Nephi 11:31": {
+  "keep": true,
+  "score": 50
+ },
+ "3 Nephi 11:32": {
+  "keep": true,
+  "score": 82
+ },
+ "3 Nephi 11:33": {
+  "keep": true,
+  "score": 84
+ },
+ "3 Nephi 11:34": {
+  "keep": true,
+  "score": 66
+ },
+ "3 Nephi 11:35": {
+  "keep": true,
+  "score": 70
+ },
+ "3 Nephi 11:36": {
+  "keep": false,
+  "score": 40
+ },
+ "3 Nephi 11:37": {
+  "keep": true,
+  "score": 86
+ },
+ "3 Nephi 11:38": {
+  "keep": false,
+  "score": 35
+ },
+ "3 Nephi 11:39": {
+  "keep": true,
+  "score": 88
+ },
+ "3 Nephi 11:40": {
+  "keep": true,
+  "score": 78
+ },
+ "3 Nephi 11:41": {
+  "keep": true,
+  "score": 74
+ }
+}

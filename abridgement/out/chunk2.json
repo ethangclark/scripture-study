@@ -1,0 +1,3289 @@
+{
+ "2 Nephi 5:1": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Nephi 5:2": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:3": {
+  "keep": true,
+  "score": 78
+ },
+ "2 Nephi 5:4": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 5:5": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 5:6": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 5:7": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:8": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 5:10": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 5:11": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:12": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 5:13": {
+  "keep": false,
+  "score": 35
+ },
+ "2 Nephi 5:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:15": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:16": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 5:17": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 5:18": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:19": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:20": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:21": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Nephi 5:22": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 5:23": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 5:24": {
+  "keep": false,
+  "score": 52
+ },
+ "2 Nephi 5:25": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:26": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:27": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 5:28": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 5:29": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 5:30": {
+  "keep": true,
+  "score": 75
+ },
+ "2 Nephi 5:31": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 5:32": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 5:33": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 5:34": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 6:1": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 6:2": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 6:3": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 6:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 6:5": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 6:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:8": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 6:9": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Nephi 6:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:11": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 6:12": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 6:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 6:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:2": {
+  "keep": false,
+  "score": 35
+ },
+ "2 Nephi 7:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:4": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 7:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:6": {
+  "keep": true,
+  "score": 75,
+  "bridge": "Jacob goes on to read two long chapters of Isaiah (Isaiah 50–51). In them the Lord's servant speaks of his suffering, and Zion is called to awake."
+ },
+ "2 Nephi 7:7": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 7:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 7:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:3": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 8:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:6": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 8:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:11": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 8:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 8:24": {
+  "keep": true,
+  "score": 74
+ },
+ "2 Nephi 8:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Nephi 9:1": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:2": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 9:3": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:5": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:6": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 9:7": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 9:8": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 9:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:10": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 9:11": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 9:12": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:13": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 9:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:15": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:16": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:17": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 9:18": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 9:19": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:20": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 9:21": {
+  "keep": true,
+  "score": 96
+ },
+ "2 Nephi 9:22": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 9:23": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 9:24": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:25": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:26": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 9:27": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:28": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 9:29": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 9:30": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:31": {
+  "keep": false,
+  "score": 35
+ },
+ "2 Nephi 9:32": {
+  "keep": false,
+  "score": 35
+ },
+ "2 Nephi 9:33": {
+  "keep": false,
+  "score": 35
+ },
+ "2 Nephi 9:34": {
+  "keep": false,
+  "score": 38
+ },
+ "2 Nephi 9:35": {
+  "keep": false,
+  "score": 38
+ },
+ "2 Nephi 9:36": {
+  "keep": false,
+  "score": 38
+ },
+ "2 Nephi 9:37": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 9:38": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:39": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 9:40": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:41": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 9:42": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:43": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:44": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 9:45": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 9:46": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:47": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:48": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:49": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:50": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 9:51": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 9:52": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:53": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 9:54": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 10:1": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 10:2": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 10:3": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 10:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:7": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 10:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:10": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 10:11": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Nephi 10:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 10:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 10:19": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 10:20": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 10:21": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 10:22": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 10:23": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 10:24": {
+  "keep": true,
+  "score": 94
+ },
+ "2 Nephi 10:25": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 11:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 11:2": {
+  "keep": true,
+  "score": 78
+ },
+ "2 Nephi 11:3": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Nephi 11:4": {
+  "keep": false,
+  "score": 62
+ },
+ "2 Nephi 11:5": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 11:6": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 11:7": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 11:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:2": {
+  "keep": true,
+  "score": 85,
+  "bridge": "Nephi now copies thirteen chapters of Isaiah (Isaiah 2–14) into his record. Only a few of the best-known lines are kept here."
+ },
+ "2 Nephi 12:3": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Nephi 12:4": {
+  "keep": false,
+  "score": 60
+ },
+ "2 Nephi 12:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:11": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 12:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 12:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Nephi 13:11": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 13:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:15": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 13:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:24": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:25": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 13:26": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 14:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 14:2": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 14:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 14:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 14:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Nephi 14:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:4": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 15:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:20": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Nephi 15:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:24": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:25": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:26": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 15:27": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:28": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:29": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 15:30": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:1": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 16:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:3": {
+  "keep": false,
+  "score": 60
+ },
+ "2 Nephi 16:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:5": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 16:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:7": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 16:8": {
+  "keep": true,
+  "score": 85,
+  "bridge": "In a vision of the Lord enthroned in the temple, Isaiah confesses his unworthiness, and a seraph cleanses his lips with a live coal."
+ },
+ "2 Nephi 16:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 16:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:12": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 17:13": {
+  "keep": true,
+  "score": 70,
+  "bridge": "When Judah is threatened by Syria and Israel, the faithless King Ahaz refuses God's offer of a sign. Isaiah answers him."
+ },
+ "2 Nephi 17:14": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 17:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:24": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 17:25": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:13": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Nephi 18:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:19": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Nephi 18:20": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 18:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 18:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:2": {
+  "keep": false,
+  "score": 65
+ },
+ "2 Nephi 19:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:6": {
+  "keep": true,
+  "score": 98
+ },
+ "2 Nephi 19:7": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 19:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 19:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:24": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:25": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:26": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:27": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:28": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:29": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:30": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:31": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:32": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:33": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 20:34": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:1": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 21:2": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 21:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:6": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 21:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:9": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 21:10": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 21:11": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 21:12": {
+  "keep": false,
+  "score": 62
+ },
+ "2 Nephi 21:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 21:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 22:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 22:2": {
+  "keep": true,
+  "score": 78
+ },
+ "2 Nephi 22:3": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 22:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 22:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 22:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:11": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Nephi 23:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:19": {
+  "keep": true,
+  "score": 66,
+  "bridge": "Isaiah foretells the fall of proud Babylon and mocks its king."
+ },
+ "2 Nephi 23:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 23:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:12": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Nephi 24:13": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 24:14": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 24:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:17": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:20": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:24": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:25": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:26": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:27": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:28": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:29": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:30": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:31": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 24:32": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:1": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Nephi 25:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:7": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 25:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:10": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:11": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:12": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:13": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 25:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:16": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 25:17": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:18": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 25:19": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 25:20": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 25:21": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 25:22": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 25:23": {
+  "keep": true,
+  "score": 98
+ },
+ "2 Nephi 25:24": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:25": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:26": {
+  "keep": true,
+  "score": 98
+ },
+ "2 Nephi 25:27": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 25:28": {
+  "keep": false,
+  "score": 62
+ },
+ "2 Nephi 25:29": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 25:30": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:1": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:3": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:6": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:7": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 26:8": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:10": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:11": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Nephi 26:12": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 26:13": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 26:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:15": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:16": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:17": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 26:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:19": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:20": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:21": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:22": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:23": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 26:24": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 26:25": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 26:26": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:27": {
+  "keep": false,
+  "score": 60
+ },
+ "2 Nephi 26:28": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 26:29": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 26:30": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 26:31": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 26:32": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 26:33": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 27:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:3": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:4": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:6": {
+  "keep": true,
+  "score": 78,
+  "bridge": "Nephi turns to the last days, when the nations will be drunk with iniquity and spiritually asleep, their prophets and seers covered."
+ },
+ "2 Nephi 27:7": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:11": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 27:12": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:14": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 27:15": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:17": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:18": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:19": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Nephi 27:20": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Nephi 27:21": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 27:22": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:23": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 27:24": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 27:25": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:26": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 27:27": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:28": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:29": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 27:30": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 27:31": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:32": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:33": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:34": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 27:35": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:2": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:3": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:5": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:6": {
+  "keep": false,
+  "score": 60
+ },
+ "2 Nephi 28:7": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 28:8": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 28:9": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 28:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:13": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:15": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 28:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:17": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 28:18": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:19": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:20": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:21": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 28:22": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 28:23": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:24": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:25": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:26": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 28:27": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 28:28": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 28:29": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 28:30": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 28:31": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 28:32": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 29:1": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 29:2": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 29:3": {
+  "keep": true,
+  "score": 88,
+  "bridge": "The Lord speaks of the day he will send the words of Nephi's descendants to the ends of the earth as a standard to Israel."
+ },
+ "2 Nephi 29:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 29:5": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 29:6": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 29:7": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 29:8": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Nephi 29:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 29:10": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 29:11": {
+  "keep": false,
+  "score": 58
+ },
+ "2 Nephi 29:12": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 29:13": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 29:14": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 30:1": {
+  "keep": true,
+  "score": 78
+ },
+ "2 Nephi 30:2": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 30:3": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 30:4": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 30:5": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 30:6": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 30:7": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:8": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:9": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:10": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:11": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:12": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:13": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:14": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:15": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:16": {
+  "keep": false,
+  "score": 30
+ },
+ "2 Nephi 30:17": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Nephi 30:18": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Nephi 31:1": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:2": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:3": {
+  "keep": false,
+  "score": 68
+ },
+ "2 Nephi 31:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:5": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 31:6": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:7": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:8": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:10": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:11": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:12": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:13": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 31:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:15": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:16": {
+  "keep": false,
+  "score": 65
+ },
+ "2 Nephi 31:17": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 31:18": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 31:19": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 31:20": {
+  "keep": true,
+  "score": 98
+ },
+ "2 Nephi 31:21": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 32:1": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 32:2": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 32:3": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 32:4": {
+  "keep": false,
+  "score": 60
+ },
+ "2 Nephi 32:5": {
+  "keep": false,
+  "score": 65
+ },
+ "2 Nephi 32:6": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 32:7": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Nephi 32:8": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 32:9": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 33:1": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 33:2": {
+  "keep": false,
+  "score": 60
+ },
+ "2 Nephi 33:3": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 33:4": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 33:5": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Nephi 33:6": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Nephi 33:7": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 33:8": {
+  "keep": false,
+  "score": 62
+ },
+ "2 Nephi 33:9": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 33:10": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Nephi 33:11": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Nephi 33:12": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 33:13": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Nephi 33:14": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Nephi 33:15": {
+  "keep": false,
+  "score": 70
+ },
+ "Jacob 1:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 1:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 1:3": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 1:4": {
+  "keep": false,
+  "score": 62
+ },
+ "Jacob 1:5": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 1:6": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 1:7": {
+  "keep": false,
+  "score": 60
+ },
+ "Jacob 1:8": {
+  "keep": true,
+  "score": 80
+ },
+ "Jacob 1:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 1:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 1:11": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 1:12": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 1:13": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 1:14": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 1:15": {
+  "keep": true,
+  "score": 80
+ },
+ "Jacob 1:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 1:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 1:18": {
+  "keep": false,
+  "score": 58
+ },
+ "Jacob 1:19": {
+  "keep": false,
+  "score": 50
+ },
+ "Jacob 2:1": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 2:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:3": {
+  "keep": false,
+  "score": 60
+ },
+ "Jacob 2:4": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 2:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:8": {
+  "keep": true,
+  "score": 78
+ },
+ "Jacob 2:9": {
+  "keep": false,
+  "score": 65
+ },
+ "Jacob 2:10": {
+  "keep": false,
+  "score": 62
+ },
+ "Jacob 2:11": {
+  "keep": false,
+  "score": 50
+ },
+ "Jacob 2:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:15": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 2:16": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 2:17": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 2:18": {
+  "keep": true,
+  "score": 95
+ },
+ "Jacob 2:19": {
+  "keep": true,
+  "score": 95
+ },
+ "Jacob 2:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:21": {
+  "keep": true,
+  "score": 90
+ },
+ "Jacob 2:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:25": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 2:26": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 2:27": {
+  "keep": true,
+  "score": 85
+ },
+ "Jacob 2:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:29": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 2:30": {
+  "keep": false,
+  "score": 60
+ },
+ "Jacob 2:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 2:32": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 2:33": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 2:34": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 2:35": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 3:1": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 3:2": {
+  "keep": true,
+  "score": 85
+ },
+ "Jacob 3:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 3:4": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 3:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 3:6": {
+  "keep": false,
+  "score": 50
+ },
+ "Jacob 3:7": {
+  "keep": true,
+  "score": 85
+ },
+ "Jacob 3:8": {
+  "keep": false,
+  "score": 62
+ },
+ "Jacob 3:9": {
+  "keep": false,
+  "score": 65
+ },
+ "Jacob 3:10": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 3:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 3:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 3:13": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 3:14": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 4:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 4:2": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 4:3": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 4:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 4:5": {
+  "keep": false,
+  "score": 62
+ },
+ "Jacob 4:6": {
+  "keep": true,
+  "score": 85
+ },
+ "Jacob 4:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Jacob 4:8": {
+  "keep": true,
+  "score": 82
+ },
+ "Jacob 4:9": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 4:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Jacob 4:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 4:12": {
+  "keep": false,
+  "score": 58
+ },
+ "Jacob 4:13": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 4:14": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 4:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 4:16": {
+  "keep": false,
+  "score": 62
+ },
+ "Jacob 4:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 4:18": {
+  "keep": false,
+  "score": 65
+ },
+ "Jacob 5:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:2": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:3": {
+  "keep": true,
+  "score": 95
+ },
+ "Jacob 5:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:5": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:9": {
+  "keep": false,
+  "score": 50
+ },
+ "Jacob 5:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:11": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:13": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:14": {
+  "keep": false,
+  "score": 58
+ },
+ "Jacob 5:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:16": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:18": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 5:19": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:23": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:24": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:26": {
+  "keep": false,
+  "score": 60
+ },
+ "Jacob 5:27": {
+  "keep": false,
+  "score": 62
+ },
+ "Jacob 5:28": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:31": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:33": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:34": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:35": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:36": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:37": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 5:38": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:39": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:40": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:41": {
+  "keep": true,
+  "score": 95
+ },
+ "Jacob 5:42": {
+  "keep": false,
+  "score": 60
+ },
+ "Jacob 5:43": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:44": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:45": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:46": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:47": {
+  "keep": true,
+  "score": 92
+ },
+ "Jacob 5:48": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:49": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:50": {
+  "keep": true,
+  "score": 85
+ },
+ "Jacob 5:51": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 5:52": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:53": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:54": {
+  "keep": false,
+  "score": 55
+ },
+ "Jacob 5:55": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:56": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:57": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:58": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:59": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:60": {
+  "keep": false,
+  "score": 52
+ },
+ "Jacob 5:61": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:62": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:63": {
+  "keep": false,
+  "score": 58
+ },
+ "Jacob 5:64": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:65": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:66": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:67": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:68": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:69": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:70": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:71": {
+  "keep": true,
+  "score": 85
+ },
+ "Jacob 5:72": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:73": {
+  "keep": true,
+  "score": 82
+ },
+ "Jacob 5:74": {
+  "keep": true,
+  "score": 72
+ },
+ "Jacob 5:75": {
+  "keep": true,
+  "score": 88
+ },
+ "Jacob 5:76": {
+  "keep": false,
+  "score": 30
+ },
+ "Jacob 5:77": {
+  "keep": true,
+  "score": 72
+ }
+}

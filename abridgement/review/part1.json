@@ -1,0 +1,18 @@
+[
+ {"why": "2 Nephi 12-24 reads as a highlight reel of lone Isaiah verses; consolidate to the famous few under one bridge, clearing the per-chapter bridges (the dropped 17:13 and 23:19 bridges would otherwise migrate onto 19:6 and 25:1)",
+  "bridges": {
+   "2 Nephi 12:2": "Nephi copies thirteen chapters of Isaiah (Isaiah 2–14): judgments on proud Judah, Isaiah's call in the temple, a promised royal child, and Babylon's fall. Only a few of the best-known lines are kept.",
+   "2 Nephi 16:8": "", "2 Nephi 17:13": "", "2 Nephi 23:19": ""}},
+ {"why": "1 Ne 8:7 'as I followed him' follows nothing; restore the man in white bidding Lehi follow", "keep": ["1 Nephi 8:6"], "drop": ["2 Nephi 13:10"]},
+ {"why": "1 Ne 10:2 ends 'concerning the Jews—' and 10:4 does not complete it", "keep": ["1 Nephi 10:3"], "drop": ["2 Nephi 14:5"]},
+ {"why": "Lehi's covenant refrain (keep commandments, prosper in the land) missing from his final exhortation", "keep": ["2 Nephi 1:20"], "drop": ["2 Nephi 15:20"]},
+ {"why": "2 Ne 4:15 'upon these I write' points at nothing; 4:14 contrasts the other plates", "keep": ["2 Nephi 4:14"], "drop": ["2 Nephi 17:13"]},
+ {"why": "Restore a strong line of Nephi's psalm (robe of thy righteousness)", "keep": ["2 Nephi 4:33"], "drop": ["2 Nephi 17:14"]},
+ {"why": "2 Ne 6:8 'concerning these words' refers to Isaiah verses the reader never saw", "bridges": {"2 Nephi 6:8": "Jacob reads Isaiah's promise that the Gentiles will carry Israel's scattered children home, with kings and queens as their nursing parents."}},
+ {"why": "2 Ne 9:1 ends with a dash that 9:3 does not complete", "keep": ["2 Nephi 9:2"], "drop": ["2 Nephi 19:7"]},
+ {"why": "Restore 9:22, which completes 9:21's thought on why he suffers", "keep": ["2 Nephi 9:22"], "drop": ["2 Nephi 21:6"]},
+ {"why": "Restore the strong atonement verse 9:26 between 9:25 and the 'But wo' of 9:27", "keep": ["2 Nephi 9:26"], "drop": ["2 Nephi 21:9"]},
+ {"why": "2 Ne 11:7 'For if there be no Christ' does not follow from 11:2", "keep": ["2 Nephi 11:6"], "drop": ["2 Nephi 22:2"]},
+ {"why": "Restore the well-known 32:5 (the Holy Ghost will show you all things)", "keep": ["2 Nephi 32:5"], "drop": ["2 Nephi 23:19"]},
+ {"why": "Jacob 1:10 ends mid-sentence with a dash; 1:11 completes it and explains 'the second king' in 1:15", "keep": ["Jacob 1:11"], "drop": ["2 Nephi 24:12"]}
+]
