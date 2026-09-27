@@ -1,0 +1,6841 @@
+{
+ "Job 29:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:4": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 29:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:15": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 29:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 29:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:18": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 29:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 29:25": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 30:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 30:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 30:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 31:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:24": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 31:25": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 31:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 31:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 31:40": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 32:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:8": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 32:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 32:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 32:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:19": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 33:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 33:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 33:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 34:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 34:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 35:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 35:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 36:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 36:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:4": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 37:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 37:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 37:23": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 37:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:2": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:8": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:9": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:31": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 38:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:38": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:39": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:40": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 38:41": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:16": {
+  "keep": false,
+  "score": 45
+ },
+ "Job 39:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:19": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 39:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:25": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 39:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 39:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 39:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 40:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 40:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 40:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 40:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 40:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 40:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 40:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 40:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Job 41:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 41:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:2": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 42:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 42:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 42:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Job 42:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Job 42:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 1:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 1:2": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 1:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 1:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 1:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 1:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 2:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 2:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 2:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 2:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 2:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 2:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 2:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 2:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 2:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 2:10": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 2:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 2:12": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 3:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 3:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 3:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 3:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 3:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 3:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 3:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 3:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 4:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 4:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 4:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 4:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 4:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 4:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 4:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 4:8": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 5:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 5:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 5:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 5:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 5:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 5:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 5:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 5:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 5:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 5:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 5:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 5:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 6:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 6:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 6:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 6:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 6:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 6:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 6:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 6:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 6:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 6:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 7:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 7:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 8:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 8:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 8:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 8:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 8:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 8:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 8:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 8:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 8:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 9:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 9:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 10:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 10:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 11:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 11:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 11:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 11:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 11:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 11:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 11:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 12:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 12:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 12:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 12:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 12:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 12:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 12:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 12:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 13:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 13:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 13:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 13:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 13:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 13:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 14:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 14:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 14:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 14:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 14:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 14:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 14:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 15:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 15:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 15:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 15:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 15:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 16:1": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 16:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 16:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 16:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 16:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 16:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 16:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 16:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 16:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 16:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 16:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 17:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 17:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 17:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:2": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 18:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:42": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:43": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:44": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:45": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:46": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:47": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:48": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 18:49": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 18:50": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 19:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 19:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 19:14": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 20:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 20:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 20:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 20:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 20:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 20:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 20:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 20:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 20:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 21:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 21:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 21:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 21:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 21:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 21:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 21:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 22:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:16": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 22:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:18": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 22:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 22:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 23:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 23:2": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 23:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 23:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 23:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 23:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 24:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 24:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 24:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 24:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 24:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 24:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 24:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 24:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 24:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 24:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 25:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 25:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 26:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 26:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 26:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 26:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 26:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 26:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 27:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 27:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 27:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 27:14": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 28:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 28:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 28:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 28:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 28:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 28:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 28:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 28:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 28:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 29:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 29:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 29:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 29:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 29:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 29:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 29:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 29:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 29:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 29:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 29:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 30:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 30:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 30:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 30:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 30:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 30:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 30:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 30:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 30:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 30:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 30:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 30:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 31:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 31:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 31:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 32:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 32:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 32:3": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 32:4": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 32:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 32:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 32:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 32:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 32:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 32:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 32:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 33:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 33:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 34:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:5": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 34:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:8": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 34:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:10": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 34:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 34:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:18": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 34:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 34:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 34:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 35:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 35:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 36:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 36:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 36:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 36:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 36:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 36:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 37:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 37:6": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 37:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 37:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:25": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 37:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:28": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 37:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 37:39": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 37:40": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 38:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 38:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 39:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 39:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 39:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 39:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 39:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 39:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 39:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 40:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 40:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 41:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 41:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 41:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 41:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 41:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 41:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 41:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 42:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 42:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 42:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 42:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 43:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 43:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 43:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 43:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 43:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 44:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 44:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 45:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 45:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 46:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 46:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 46:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 47:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 47:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 47:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 47:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 47:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 47:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 47:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 47:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 47:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 48:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 48:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 48:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 48:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 48:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 48:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 48:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 49:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 49:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:9": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 50:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 50:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 50:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 51:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 51:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 51:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 51:12": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 51:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:17": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 51:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 51:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 52:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 52:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 52:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 52:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 52:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 52:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 52:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 52:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 52:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 53:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 53:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 53:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 53:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 53:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 53:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 54:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 54:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 54:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 54:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 54:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 54:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 54:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 55:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 55:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 55:22": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 55:23": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 56:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 56:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 56:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 56:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 56:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 56:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 56:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 56:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 56:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 56:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 56:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 56:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 56:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 57:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 57:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 57:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 57:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 57:5": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 57:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 57:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 57:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 57:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 57:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 57:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 58:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 58:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 58:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 58:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 58:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 58:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 58:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 58:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 58:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 58:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 58:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 59:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 59:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 60:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 60:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 60:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 60:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 60:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 60:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 60:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 60:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 60:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 60:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 60:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 60:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 61:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 61:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 61:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 61:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 61:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 61:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 61:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 61:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 62:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 62:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 62:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 62:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 62:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 62:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 63:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 63:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 63:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 63:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 64:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 64:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 64:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 64:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 64:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 64:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 64:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 64:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 64:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 64:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 65:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 65:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 65:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 65:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 65:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 65:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 65:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 66:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 66:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 67:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 67:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 67:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 67:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 67:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 67:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 67:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 68:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 68:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 69:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 69:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 70:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 70:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 70:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 70:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 70:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 71:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 71:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 72:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:18": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 72:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 72:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 73:25": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 73:26": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 73:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 73:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 74:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 74:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 75:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 75:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 75:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 75:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 75:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 75:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 75:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 75:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 75:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 75:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 76:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 76:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 76:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 76:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 76:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 76:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 76:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 76:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 76:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 76:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 76:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 76:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 77:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 77:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:7": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 78:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:35": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 78:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:38": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Even after the manna and quail, Israel keeps sinning and doubting; God strikes them down, and they repent only with their lips."
+ },
+ "Psalms 78:39": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:42": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:43": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:44": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:45": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:46": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:47": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:48": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:49": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:50": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:51": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:52": {
+  "keep": true,
+  "score": 70,
+  "bridge": "The psalm recalls how Israel forgot the plagues God sent on Egypt, ending with the death of Egypt's firstborn."
+ },
+ "Psalms 78:53": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:54": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:55": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:56": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:57": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:58": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:59": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:60": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 78:61": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:62": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:63": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:64": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:65": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:66": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:67": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:68": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:69": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 78:70": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Settled in the land, Israel turns to idols; God abandons the shrine at Shiloh to its enemies, then passes over Ephraim and chooses Judah and Mount Zion."
+ },
+ "Psalms 78:71": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 78:72": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 79:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 79:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 79:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 79:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 79:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 79:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 79:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:7": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 80:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 80:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 80:18": {
+  "keep": false,
+  "score": 45
+ },
+ "Psalms 80:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 81:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 81:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 82:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 82:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 82:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 82:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 82:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Psalms 82:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Psalms 82:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Psalms 82:8": {
+  "keep": false,
+  "score": 45
+ }
+}

@@ -1,0 +1,4001 @@
+{
+ "Jeremiah 20:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 20:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 20:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 20:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:9": {
+  "keep": true,
+  "score": 95
+ },
+ "Jeremiah 20:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:12": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 20:13": {
+  "keep": false,
+  "score": 42
+ },
+ "Jeremiah 20:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 20:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 20:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 20:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 21:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 21:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 21:3": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 21:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 21:5": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 21:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 21:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 21:8": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 21:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 21:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 21:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 21:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 21:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 21:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:3": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 22:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:14": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 22:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:16": {
+  "keep": true,
+  "score": 88
+ },
+ "Jeremiah 22:17": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 22:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 22:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:28": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 22:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 22:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:5": {
+  "keep": true,
+  "score": 92
+ },
+ "Jeremiah 23:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Jeremiah 23:7": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 23:8": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 23:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:24": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 23:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 23:29": {
+  "keep": true,
+  "score": 88
+ },
+ "Jeremiah 23:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 23:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 24:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 24:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 24:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 24:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 24:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 24:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 24:7": {
+  "keep": false,
+  "score": 55
+ },
+ "Jeremiah 24:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 24:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 24:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:11": {
+  "keep": true,
+  "score": 88
+ },
+ "Jeremiah 25:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:19": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:20": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:21": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:22": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:23": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:24": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:25": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:26": {
+  "keep": false,
+  "score": 10
+ },
+ "Jeremiah 25:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 25:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 25:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 26:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 26:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 26:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 26:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:10": {
+  "keep": false,
+  "score": 48
+ },
+ "Jeremiah 26:11": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 26:12": {
+  "keep": true,
+  "score": 70,
+  "bridge": "The princes of Judah come up from the palace to sit in judgment, and the priests and prophets demand Jeremiah's death."
+ },
+ "Jeremiah 26:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 26:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 26:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 26:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 26:24": {
+  "keep": true,
+  "score": 78
+ },
+ "Jeremiah 27:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 27:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 27:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 28:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 28:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 28:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 28:13": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 28:14": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 28:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 28:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 28:17": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 29:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:7": {
+  "keep": true,
+  "score": 88
+ },
+ "Jeremiah 29:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:11": {
+  "keep": true,
+  "score": 97
+ },
+ "Jeremiah 29:12": {
+  "keep": true,
+  "score": 90
+ },
+ "Jeremiah 29:13": {
+  "keep": true,
+  "score": 95
+ },
+ "Jeremiah 29:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 29:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Jeremiah 29:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:26": {
+  "keep": false,
+  "score": 40
+ },
+ "Jeremiah 29:27": {
+  "keep": false,
+  "score": 42
+ },
+ "Jeremiah 29:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 29:31": {
+  "keep": true,
+  "score": 70,
+  "bridge": "A captive named Shemaiah writes from Babylon urging the temple priests in Jerusalem to lock Jeremiah up for sending this letter."
+ },
+ "Jeremiah 29:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 30:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 30:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 31:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:3": {
+  "keep": true,
+  "score": 92
+ },
+ "Jeremiah 31:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:5": {
+  "keep": false,
+  "score": 55
+ },
+ "Jeremiah 31:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:14": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 31:15": {
+  "keep": true,
+  "score": 93
+ },
+ "Jeremiah 31:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:21": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 31:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 31:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 31:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:26": {
+  "keep": false,
+  "score": 48
+ },
+ "Jeremiah 31:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:29": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 31:30": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 31:31": {
+  "keep": true,
+  "score": 98
+ },
+ "Jeremiah 31:32": {
+  "keep": true,
+  "score": 92
+ },
+ "Jeremiah 31:33": {
+  "keep": true,
+  "score": 98
+ },
+ "Jeremiah 31:34": {
+  "keep": true,
+  "score": 96
+ },
+ "Jeremiah 31:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 31:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 31:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 31:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:13": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 32:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:16": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 32:17": {
+  "keep": true,
+  "score": 92
+ },
+ "Jeremiah 32:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:27": {
+  "keep": true,
+  "score": 92
+ },
+ "Jeremiah 32:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:38": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 32:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:40": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 32:42": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 32:43": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 32:44": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Jeremiah 33:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:6": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 33:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:16": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 33:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 33:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 33:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 34:18": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 34:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 34:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 35:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 35:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 35:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 35:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 35:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 35:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 35:19": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jeremiah then turns to the Rechabites themselves with a blessing for their faithfulness."
+ },
+ "Jeremiah 36:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 36:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 36:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 36:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:17": {
+  "keep": false,
+  "score": 55
+ },
+ "Jeremiah 36:18": {
+  "keep": false,
+  "score": 55
+ },
+ "Jeremiah 36:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:23": {
+  "keep": true,
+  "score": 92
+ },
+ "Jeremiah 36:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:25": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 36:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 36:31": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 36:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 37:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 37:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 37:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 37:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 37:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:16": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 37:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:19": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 37:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 37:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:3": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 38:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Jeremiah 38:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:8": {
+  "keep": false,
+  "score": 52
+ },
+ "Jeremiah 38:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 38:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 39:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:7": {
+  "keep": true,
+  "score": 88
+ },
+ "Jeremiah 39:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 39:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 39:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 39:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 39:17": {
+  "keep": false,
+  "score": 48
+ },
+ "Jeremiah 39:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 40:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:2": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jeremiah is swept up in chains among the captives and taken to Ramah, where the Babylonian captain of the guard finds him."
+ },
+ "Jeremiah 40:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 40:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 40:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 40:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:13": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 40:14": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Scattered Judean army captains, led by Johanan son of Kareah, rally to Gedaliah, and Johanan warns him of a plot."
+ },
+ "Jeremiah 40:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 40:16": {
+  "keep": false,
+  "score": 42
+ },
+ "Jeremiah 41:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 41:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 41:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 41:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 41:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 41:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 41:15": {
+  "keep": false,
+  "score": 48
+ },
+ "Jeremiah 41:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 41:17": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 41:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:1": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Ishmael escapes to the Ammonites. Fearing Babylonian reprisal for the governor's murder, Johanan and the survivors camp near Bethlehem, planning to flee to Egypt."
+ },
+ "Jeremiah 42:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 42:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:5": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 42:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 42:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 42:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 42:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 42:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 42:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:19": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 42:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 42:22": {
+  "keep": false,
+  "score": 42
+ },
+ "Jeremiah 43:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 43:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 43:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 43:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 43:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 43:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:17": {
+  "keep": true,
+  "score": 82
+ },
+ "Jeremiah 44:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 44:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 44:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 45:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 45:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 45:3": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 45:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 45:5": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 46:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 46:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 46:27": {
+  "keep": false,
+  "score": 50
+ },
+ "Jeremiah 46:28": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 47:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 47:2": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 47:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 47:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 47:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 47:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 47:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Jeremiah 48:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:21": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 48:22": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 48:23": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 48:24": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 48:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:38": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:40": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:42": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:43": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:44": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 48:45": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:46": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 48:47": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 49:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 49:39": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:8": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 50:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:20": {
+  "keep": true,
+  "score": 82
+ },
+ "Jeremiah 50:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 50:34": {
+  "keep": true,
+  "score": 82
+ },
+ "Jeremiah 50:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:37": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:42": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:43": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:44": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:45": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 50:46": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:28": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:32": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:33": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:39": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:40": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:41": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:42": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:43": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:44": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 51:45": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:46": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:47": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:48": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:49": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:50": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:51": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:52": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:53": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 51:54": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:55": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:56": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:57": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 51:58": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:59": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:60": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:61": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:62": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 51:63": {
+  "keep": true,
+  "score": 85
+ },
+ "Jeremiah 51:64": {
+  "keep": true,
+  "score": 88
+ },
+ "Jeremiah 52:1": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:13": {
+  "keep": false,
+  "score": 45
+ },
+ "Jeremiah 52:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:17": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:18": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:19": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:20": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:21": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:22": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:23": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Jeremiah 52:28": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:29": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:30": {
+  "keep": false,
+  "score": 5
+ },
+ "Jeremiah 52:31": {
+  "keep": true,
+  "score": 85,
+  "bridge": "An appendix retells the fall of Jerusalem and the burning of the temple. Decades later, the exiled king Jehoiachin (Jeconiah) is still a prisoner in Babylon."
+ },
+ "Jeremiah 52:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 52:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Jeremiah 52:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:1": {
+  "keep": true,
+  "score": 95
+ },
+ "Lamentations 1:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:7": {
+  "keep": false,
+  "score": 45
+ },
+ "Lamentations 1:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:12": {
+  "keep": true,
+  "score": 95
+ },
+ "Lamentations 1:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 1:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 1:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:2": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:3": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:8": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:13": {
+  "keep": false,
+  "score": 50
+ },
+ "Lamentations 2:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:18": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 2:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 2:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:1": {
+  "keep": true,
+  "score": 88
+ },
+ "Lamentations 3:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:13": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:21": {
+  "keep": true,
+  "score": 92
+ },
+ "Lamentations 3:22": {
+  "keep": true,
+  "score": 98
+ },
+ "Lamentations 3:23": {
+  "keep": true,
+  "score": 98
+ },
+ "Lamentations 3:24": {
+  "keep": true,
+  "score": 92
+ },
+ "Lamentations 3:25": {
+  "keep": true,
+  "score": 90
+ },
+ "Lamentations 3:26": {
+  "keep": true,
+  "score": 90
+ },
+ "Lamentations 3:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:28": {
+  "keep": false,
+  "score": 52
+ },
+ "Lamentations 3:29": {
+  "keep": false,
+  "score": 52
+ },
+ "Lamentations 3:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:33": {
+  "keep": true,
+  "score": 88
+ },
+ "Lamentations 3:34": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:35": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:36": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:38": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:39": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:40": {
+  "keep": true,
+  "score": 88
+ },
+ "Lamentations 3:41": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:42": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:43": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:44": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:45": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:46": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:47": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:48": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:49": {
+  "keep": false,
+  "score": 48
+ },
+ "Lamentations 3:50": {
+  "keep": false,
+  "score": 50
+ },
+ "Lamentations 3:51": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:52": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:53": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:54": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:55": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:56": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:57": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:58": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:59": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:60": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:61": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:62": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:63": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:64": {
+  "keep": true,
+  "score": 70
+ },
+ "Lamentations 3:65": {
+  "keep": false,
+  "score": 25
+ },
+ "Lamentations 3:66": {
+  "keep": false,
+  "score": 25
+ }
+}

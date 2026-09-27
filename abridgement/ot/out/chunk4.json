@@ -1,0 +1,4768 @@
+{
+ "Leviticus 27:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Leviticus 27:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Leviticus 27:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Leviticus 27:29": {
+  "keep": false,
+  "score": 30
+ },
+ "Leviticus 27:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Leviticus 27:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:32": {
+  "keep": false,
+  "score": 40
+ },
+ "Leviticus 27:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Leviticus 27:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 1:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 1:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 1:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 1:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:44": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:45": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:46": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 1:47": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 1:48": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:49": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 1:50": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 1:51": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:52": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:53": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 1:54": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:1": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:2": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 2:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 2:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 3:1": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:4": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 3:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:10": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 3:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 3:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 3:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 3:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:44": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:45": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 3:46": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:47": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:48": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:49": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:50": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 3:51": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:1": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 4:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:4": {
+  "keep": true,
+  "score": 72,
+  "bridge": "God assigns each Levite clan (Kohath, Gershon and Merari) its share of the work of carrying the tabernacle."
+ },
+ "Numbers 4:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 4:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:20": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 4:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:44": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:45": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:46": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:47": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:48": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 4:49": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:1": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:2": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 5:3": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 5:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:5": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 5:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:18": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 5:19": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 5:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:21": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 5:22": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 5:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 5:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 5:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:4": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 6:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:8": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 6:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 6:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 6:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 6:24": {
+  "keep": true,
+  "score": 98
+ },
+ "Numbers 6:25": {
+  "keep": true,
+  "score": 98
+ },
+ "Numbers 6:26": {
+  "keep": true,
+  "score": 98
+ },
+ "Numbers 6:27": {
+  "keep": true,
+  "score": 90
+ },
+ "Numbers 7:1": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 7:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:3": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 7:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:9": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 7:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 7:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:44": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:45": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:46": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:47": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:48": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:49": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:50": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:51": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:52": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:53": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:54": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:55": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:56": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:57": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:58": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:59": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:60": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:61": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:62": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:63": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:64": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:65": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:66": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:67": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:68": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:69": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:70": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:71": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:72": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:73": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:74": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:75": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:76": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:77": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:78": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:79": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:80": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:81": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:82": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:83": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:84": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:85": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:86": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:87": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:88": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 7:89": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Over twelve days, the leader of each tribe brings an identical dedication gift of silver, gold, incense and animals."
+ },
+ "Numbers 8:1": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:2": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 8:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:16": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 8:17": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 8:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 8:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 8:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:1": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:2": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 9:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:9": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 9:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:11": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 9:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:14": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 9:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Numbers 9:17": {
+  "keep": true,
+  "score": 80
+ },
+ "Numbers 9:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 9:19": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 9:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 9:23": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 10:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:3": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 10:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:13": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 10:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 10:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 10:35": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 10:36": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 11:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:3": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 11:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:5": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 11:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:9": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 11:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:12": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 11:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:14": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 11:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:23": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 11:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:29": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 11:30": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 11:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:33": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 11:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 11:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:3": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 12:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:6": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 12:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Numbers 12:8": {
+  "keep": true,
+  "score": 90
+ },
+ "Numbers 12:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 12:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:19": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 13:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 13:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 13:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:27": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 13:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:29": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 13:30": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 13:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 13:33": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 14:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:9": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 14:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:18": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 14:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:21": {
+  "keep": true,
+  "score": 90
+ },
+ "Numbers 14:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:24": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 14:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:30": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 14:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:33": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 14:34": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 14:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:36": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:38": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:39": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:40": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:41": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:42": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:43": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:44": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 14:45": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:1": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:15": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 15:16": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 15:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:25": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 15:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 15:27": {
+  "keep": true,
+  "score": 72,
+  "bridge": "God gives Moses further laws for life in the promised land, including the grain and drink offerings and atonement for sins committed unknowingly."
+ },
+ "Numbers 15:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:29": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 15:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:33": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 15:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:36": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:38": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:39": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 15:40": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 15:41": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 16:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:3": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 16:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:16": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 16:17": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 16:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:22": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 16:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:25": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 16:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:30": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 16:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:32": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 16:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:36": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 16:37": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 16:38": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 16:39": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 16:40": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 16:41": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:42": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:43": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 16:44": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:45": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:46": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:47": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 16:48": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 16:49": {
+  "keep": false,
+  "score": 48
+ },
+ "Numbers 16:50": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 17:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:4": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 17:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:7": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 17:8": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 17:9": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 17:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:11": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 17:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 17:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:5": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 18:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:20": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 18:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:23": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 18:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 18:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 18:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 18:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:4": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 19:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:13": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 19:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:17": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 19:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 19:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:20": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 19:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 19:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 20:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:8": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 20:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:10": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 20:11": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 20:12": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 20:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:19": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 20:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:25": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 20:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 20:28": {
+  "keep": true,
+  "score": 90
+ },
+ "Numbers 20:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:6": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 21:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:8": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 21:9": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 21:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 21:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 21:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 21:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 21:14": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 21:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 21:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 21:20": {
+  "keep": false,
+  "score": 25
+ },
+ "Numbers 21:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 21:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:12": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 22:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:18": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 22:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:28": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 22:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:30": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 22:31": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 22:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:36": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:38": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:39": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:40": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 22:41": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:4": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 23:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:6": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 23:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:8": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 23:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:10": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 23:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:15": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 23:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:19": {
+  "keep": true,
+  "score": 98
+ },
+ "Numbers 23:20": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 23:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:22": {
+  "keep": false,
+  "score": 48
+ },
+ "Numbers 23:23": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 23:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 23:29": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 23:30": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 24:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:4": {
+  "keep": false,
+  "score": 48
+ },
+ "Numbers 24:5": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 24:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:9": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 24:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:13": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 24:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:16": {
+  "keep": false,
+  "score": 48
+ },
+ "Numbers 24:17": {
+  "keep": true,
+  "score": 98
+ },
+ "Numbers 24:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:21": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 24:22": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 24:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 24:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 24:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:2": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 25:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:4": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 25:5": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 25:6": {
+  "keep": true,
+  "score": 72,
+  "bridge": "God sends a plague on the people, and Moses orders the judges to execute those who joined in the worship of Baal of Peor."
+ },
+ "Numbers 25:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:8": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 25:9": {
+  "keep": false,
+  "score": 48
+ },
+ "Numbers 25:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 25:13": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 25:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 25:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 25:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 25:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 25:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:1": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 26:2": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 26:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:9": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 26:10": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 26:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:33": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 26:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:44": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:45": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:46": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:47": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:48": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:49": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:50": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:51": {
+  "keep": true,
+  "score": 72,
+  "bridge": "After the plague, God orders a second census of the fighting men, taken tribe by tribe on the plains of Moab near Jericho."
+ },
+ "Numbers 26:52": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:53": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:54": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:55": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:56": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:57": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:58": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:59": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 26:60": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:61": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:62": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:63": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 26:64": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 26:65": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:6": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 27:7": {
+  "keep": true,
+  "score": 85
+ },
+ "Numbers 27:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:9": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 27:10": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 27:11": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 27:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:14": {
+  "keep": false,
+  "score": 48
+ },
+ "Numbers 27:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:16": {
+  "keep": true,
+  "score": 88
+ },
+ "Numbers 27:17": {
+  "keep": true,
+  "score": 92
+ },
+ "Numbers 27:18": {
+  "keep": true,
+  "score": 90
+ },
+ "Numbers 27:19": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 27:20": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 27:21": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 27:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 27:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 28:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 28:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 28:3": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 28:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:16": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 28:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 28:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:1": {
+  "keep": true,
+  "score": 72,
+  "bridge": "God sets out the offerings for each day, sabbath, new moon, Passover and the feast of firstfruits."
+ },
+ "Numbers 29:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 29:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:12": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 29:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 29:39": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 29:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 30:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 30:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 30:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 30:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 30:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:8": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 30:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 30:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 30:15": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 30:16": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 31:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:6": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 31:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:10": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 31:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 31:13": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 31:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 31:19": {
+  "keep": false,
+  "score": 30
+ },
+ "Numbers 31:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:44": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:45": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:46": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:47": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:48": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:49": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 31:50": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 31:51": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:52": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:53": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 31:54": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:4": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 32:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:9": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 32:10": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 32:11": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 32:12": {
+  "keep": false,
+  "score": 42
+ },
+ "Numbers 32:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:15": {
+  "keep": false,
+  "score": 45
+ },
+ "Numbers 32:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:19": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 32:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:23": {
+  "keep": true,
+  "score": 95
+ },
+ "Numbers 32:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 32:25": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 32:26": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 32:27": {
+  "keep": false,
+  "score": 35
+ },
+ "Numbers 32:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:31": {
+  "keep": false,
+  "score": 40
+ },
+ "Numbers 32:32": {
+  "keep": false,
+  "score": 38
+ },
+ "Numbers 32:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Numbers 32:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:41": {
+  "keep": false,
+  "score": 12
+ },
+ "Numbers 32:42": {
+  "keep": false,
+  "score": 12
+ }
+}

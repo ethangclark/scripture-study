@@ -1,0 +1,4600 @@
+{
+ "Genesis 43:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:5": {
+  "keep": false,
+  "score": 37
+ },
+ "Genesis 43:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:10": {
+  "keep": false,
+  "score": 37
+ },
+ "Genesis 43:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:22": {
+  "keep": false,
+  "score": 37
+ },
+ "Genesis 43:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:30": {
+  "keep": true,
+  "score": 88
+ },
+ "Genesis 43:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 43:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:18": {
+  "keep": true,
+  "score": 85
+ },
+ "Genesis 44:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 44:33": {
+  "keep": true,
+  "score": 92
+ },
+ "Genesis 44:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:1": {
+  "keep": true,
+  "score": 92
+ },
+ "Genesis 45:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:3": {
+  "keep": true,
+  "score": 95
+ },
+ "Genesis 45:4": {
+  "keep": true,
+  "score": 95
+ },
+ "Genesis 45:5": {
+  "keep": true,
+  "score": 96
+ },
+ "Genesis 45:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Genesis 45:8": {
+  "keep": true,
+  "score": 92
+ },
+ "Genesis 45:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 45:28": {
+  "keep": true,
+  "score": 90
+ },
+ "Genesis 46:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 46:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 46:3": {
+  "keep": true,
+  "score": 88
+ },
+ "Genesis 46:4": {
+  "keep": true,
+  "score": 88
+ },
+ "Genesis 46:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 46:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 46:7": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:8": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:9": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:10": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:11": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:12": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:13": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:14": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:15": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:16": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:17": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:18": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:19": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:20": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:21": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:22": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:23": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:24": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:25": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:26": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:27": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 46:29": {
+  "keep": true,
+  "score": 90
+ },
+ "Genesis 46:30": {
+  "keep": true,
+  "score": 88
+ },
+ "Genesis 46:31": {
+  "keep": false,
+  "score": 40
+ },
+ "Genesis 46:32": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:33": {
+  "keep": false,
+  "score": 16
+ },
+ "Genesis 46:34": {
+  "keep": false,
+  "score": 45
+ },
+ "Genesis 47:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:9": {
+  "keep": true,
+  "score": 85
+ },
+ "Genesis 47:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:13": {
+  "keep": false,
+  "score": 50
+ },
+ "Genesis 47:14": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:15": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:16": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:17": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:18": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:19": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:21": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:22": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:23": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:24": {
+  "keep": false,
+  "score": 42
+ },
+ "Genesis 47:25": {
+  "keep": false,
+  "score": 45
+ },
+ "Genesis 47:26": {
+  "keep": false,
+  "score": 26
+ },
+ "Genesis 47:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 47:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Genesis 48:7": {
+  "keep": false,
+  "score": 45
+ },
+ "Genesis 48:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Genesis 48:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Genesis 48:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Genesis 48:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Genesis 48:14": {
+  "keep": true,
+  "score": 85
+ },
+ "Genesis 48:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Genesis 48:19": {
+  "keep": true,
+  "score": 85
+ },
+ "Genesis 48:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 48:22": {
+  "keep": false,
+  "score": 45
+ },
+ "Genesis 49:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:2": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:6": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:10": {
+  "keep": true,
+  "score": 92
+ },
+ "Genesis 49:11": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:12": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:13": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:14": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:15": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:16": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:17": {
+  "keep": false,
+  "score": 42
+ },
+ "Genesis 49:18": {
+  "keep": false,
+  "score": 50
+ },
+ "Genesis 49:19": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:20": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:21": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:27": {
+  "keep": false,
+  "score": 50
+ },
+ "Genesis 49:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:29": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:30": {
+  "keep": false,
+  "score": 45
+ },
+ "Genesis 49:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Genesis 49:32": {
+  "keep": false,
+  "score": 24
+ },
+ "Genesis 49:33": {
+  "keep": true,
+  "score": 88
+ },
+ "Genesis 50:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:11": {
+  "keep": false,
+  "score": 37
+ },
+ "Genesis 50:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:19": {
+  "keep": true,
+  "score": 90
+ },
+ "Genesis 50:20": {
+  "keep": true,
+  "score": 98
+ },
+ "Genesis 50:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Genesis 50:23": {
+  "keep": false,
+  "score": 37
+ },
+ "Genesis 50:24": {
+  "keep": true,
+  "score": 90
+ },
+ "Genesis 50:25": {
+  "keep": true,
+  "score": 88
+ },
+ "Genesis 50:26": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 1:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:8": {
+  "keep": true,
+  "score": 95
+ },
+ "Exodus 1:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:17": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 1:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 1:22": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 2:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:3": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 2:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:10": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 2:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:22": {
+  "keep": true,
+  "score": 82
+ },
+ "Exodus 2:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 2:24": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 2:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:1": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 3:2": {
+  "keep": true,
+  "score": 96
+ },
+ "Exodus 3:3": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 3:4": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 3:5": {
+  "keep": true,
+  "score": 97
+ },
+ "Exodus 3:6": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 3:7": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 3:8": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 3:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:10": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 3:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 3:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:14": {
+  "keep": true,
+  "score": 100
+ },
+ "Exodus 3:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 3:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:10": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 4:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 4:12": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 4:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:22": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 4:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 4:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:28": {
+  "keep": false,
+  "score": 38
+ },
+ "Exodus 4:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 4:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 5:1": {
+  "keep": true,
+  "score": 96
+ },
+ "Exodus 5:2": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 5:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:5": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 5:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:9": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 5:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:11": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 5:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:13": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 5:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:19": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 5:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 5:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:3": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 6:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:6": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 6:7": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 6:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:13": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 6:14": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:15": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:16": {
+  "keep": false,
+  "score": 38
+ },
+ "Exodus 6:17": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:18": {
+  "keep": false,
+  "score": 40
+ },
+ "Exodus 6:19": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:20": {
+  "keep": true,
+  "score": 70,
+  "bridge": "The narrative pauses to list the heads of Israel's families, tracing the tribe of Levi down to Moses and Aaron."
+ },
+ "Exodus 6:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:22": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:24": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 6:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:28": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 6:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 6:30": {
+  "keep": false,
+  "score": 35
+ },
+ "Exodus 7:1": {
+  "keep": true,
+  "score": 82
+ },
+ "Exodus 7:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:6": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 7:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:8": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 7:9": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 7:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:12": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 7:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:15": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 7:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:18": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 7:19": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 7:20": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 7:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 7:25": {
+  "keep": false,
+  "score": 31
+ },
+ "Exodus 8:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:4": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:7": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 8:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:9": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:19": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 8:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:23": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 8:25": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:26": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:27": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:28": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 8:29": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 8:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:4": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:5": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:9": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:14": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:15": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:16": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 9:17": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:19": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:20": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:21": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:22": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:24": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:29": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 9:30": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:31": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:32": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 9:33": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 9:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 9:35": {
+  "keep": false,
+  "score": 24
+ },
+ "Exodus 10:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:6": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:8": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:9": {
+  "keep": false,
+  "score": 48
+ },
+ "Exodus 10:10": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:11": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:12": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:14": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 10:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:18": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 10:23": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 10:24": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 10:25": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:26": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 10:27": {
+  "keep": false,
+  "score": 26
+ },
+ "Exodus 10:28": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Pharaoh summons Moses and offers to let the people go if they leave their flocks and herds behind; Moses refuses."
+ },
+ "Exodus 10:29": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 11:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 11:2": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 11:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 11:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 11:5": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 11:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 11:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 11:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 11:9": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 11:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:4": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:9": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:11": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 12:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:13": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 12:14": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 12:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:16": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:18": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:19": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:20": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:21": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:24": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:26": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 12:27": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 12:28": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:29": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 12:30": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 12:31": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:32": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:34": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:35": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:36": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:37": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:38": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:39": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:40": {
+  "keep": true,
+  "score": 82
+ },
+ "Exodus 12:41": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:42": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:43": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:44": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:45": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:46": {
+  "keep": true,
+  "score": 80
+ },
+ "Exodus 12:47": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:48": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:49": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 12:50": {
+  "keep": false,
+  "score": 33
+ },
+ "Exodus 12:51": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:5": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:6": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:7": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:8": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 13:9": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 13:10": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:11": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:12": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:13": {
+  "keep": false,
+  "score": 40
+ },
+ "Exodus 13:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:16": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 13:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:18": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:19": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 13:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 13:21": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 13:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 14:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:13": {
+  "keep": true,
+  "score": 97
+ },
+ "Exodus 14:14": {
+  "keep": true,
+  "score": 96
+ },
+ "Exodus 14:15": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 14:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:21": {
+  "keep": true,
+  "score": 97
+ },
+ "Exodus 14:22": {
+  "keep": true,
+  "score": 97
+ },
+ "Exodus 14:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:27": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 14:28": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 14:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 14:31": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 15:1": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 15:2": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 15:3": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 15:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:7": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 15:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:10": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:11": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 15:12": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 15:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:15": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 15:16": {
+  "keep": false,
+  "score": 55
+ },
+ "Exodus 15:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:18": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 15:19": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 15:20": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 15:21": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 15:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 15:26": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 15:27": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 16:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:3": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 16:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 16:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:15": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 16:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:18": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 16:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 16:34": {
+  "keep": false,
+  "score": 38
+ },
+ "Exodus 16:35": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 16:36": {
+  "keep": false,
+  "score": 38
+ },
+ "Exodus 17:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:3": {
+  "keep": false,
+  "score": 38
+ },
+ "Exodus 17:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 17:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:11": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 17:12": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 17:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 17:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 18:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:2": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:3": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:4": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:6": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:10": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:14": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:17": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:18": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 18:19": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:21": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 18:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:23": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 18:26": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 18:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 19:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:4": {
+  "keep": true,
+  "score": 94
+ },
+ "Exodus 19:5": {
+  "keep": true,
+  "score": 95
+ },
+ "Exodus 19:6": {
+  "keep": true,
+  "score": 96
+ },
+ "Exodus 19:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:16": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 19:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:18": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 19:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 19:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:1": {
+  "keep": true,
+  "score": 95
+ },
+ "Exodus 20:2": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:3": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:4": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:5": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:6": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:7": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:8": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:9": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:10": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:11": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:12": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:13": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:14": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:15": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:16": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:17": {
+  "keep": true,
+  "score": 99
+ },
+ "Exodus 20:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:21": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 20:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 20:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Exodus 21:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:3": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:4": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:7": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:8": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:9": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:10": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:11": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:13": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:14": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:15": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:17": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 21:18": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:19": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:20": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:21": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:23": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 21:24": {
+  "keep": true,
+  "score": 92
+ },
+ "Exodus 21:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 21:27": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:28": {
+  "keep": false,
+  "score": 35
+ },
+ "Exodus 21:29": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:30": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:31": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:32": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:33": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:34": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:35": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 21:36": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 22:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 22:2": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:3": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:4": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:5": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:6": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:7": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:8": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:9": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:10": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:11": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:12": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:13": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:14": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:15": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:16": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:17": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:18": {
+  "keep": false,
+  "score": 40
+ },
+ "Exodus 22:19": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:20": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:21": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 22:22": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 22:23": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 22:24": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 22:25": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 22:26": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 22:27": {
+  "keep": true,
+  "score": 84
+ },
+ "Exodus 22:28": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:29": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:30": {
+  "keep": false,
+  "score": 16
+ },
+ "Exodus 22:31": {
+  "keep": false,
+  "score": 38
+ },
+ "Exodus 23:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:2": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 23:3": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:5": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:6": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:7": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:9": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 23:10": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:11": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:12": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 23:13": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:14": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:15": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:16": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:17": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:18": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:19": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:21": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 23:22": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:23": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:24": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:25": {
+  "keep": false,
+  "score": 48
+ },
+ "Exodus 23:26": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:27": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:28": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:29": {
+  "keep": false,
+  "score": 50
+ },
+ "Exodus 23:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 23:31": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:32": {
+  "keep": false,
+  "score": 18
+ },
+ "Exodus 23:33": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:2": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 24:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:4": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:5": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 24:6": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:7": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 24:8": {
+  "keep": true,
+  "score": 93
+ },
+ "Exodus 24:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:10": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 24:11": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:14": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 24:15": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 24:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 24:17": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 24:18": {
+  "keep": true,
+  "score": 90
+ },
+ "Exodus 25:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 25:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 25:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:8": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 25:9": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 25:10": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 25:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:12": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:16": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 25:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:21": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 25:22": {
+  "keep": true,
+  "score": 84,
+  "bridge": "God lists the materials for the sanctuary and describes the ark of the covenant: a gold-covered chest with a gold lid, the \"mercy seat\", flanked by two gold cherubim."
+ },
+ "Exodus 25:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:30": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 25:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 26:1": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:2": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:3": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:4": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:5": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:6": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:7": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:8": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:9": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:10": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:11": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:12": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:13": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:14": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:15": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:16": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:17": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:18": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:19": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:20": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:21": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:22": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:23": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:24": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:25": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:26": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:27": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:28": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:29": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:30": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 26:31": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 26:32": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:33": {
+  "keep": true,
+  "score": 70,
+  "bridge": "God gives detailed plans for the tabernacle itself: its linen curtains, coverings, gold-plated frames, and a woven veil to screen off the innermost room."
+ },
+ "Exodus 26:34": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:35": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:36": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 26:37": {
+  "keep": false,
+  "score": 8
+ },
+ "Exodus 27:1": {
+  "keep": false,
+  "score": 22
+ },
+ "Exodus 27:2": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:3": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:4": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:5": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:6": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:7": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:8": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:9": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:10": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:11": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:12": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:13": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:14": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:15": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:16": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:17": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:18": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:19": {
+  "keep": false,
+  "score": 9
+ },
+ "Exodus 27:20": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 27:21": {
+  "keep": false,
+  "score": 25
+ },
+ "Exodus 28:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 28:2": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 28:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:7": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:8": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:10": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:12": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 28:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:15": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:29": {
+  "keep": true,
+  "score": 76,
+  "bridge": "God chooses Aaron and his sons as priests and describes Aaron's vestments, including an ornate ephod and a jeweled breastplate engraved with the names of the twelve tribes."
+ },
+ "Exodus 28:30": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 28:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:35": {
+  "keep": false,
+  "score": 35
+ },
+ "Exodus 28:36": {
+  "keep": true,
+  "score": 80
+ },
+ "Exodus 28:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:38": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 28:39": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:40": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:41": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 28:42": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 28:43": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 29:1": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:2": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:3": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:4": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:5": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:6": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:7": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 29:8": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:9": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:10": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:11": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:12": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:13": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:14": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:15": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:16": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:17": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:18": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:19": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:20": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 29:21": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:22": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:23": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:24": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:25": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:26": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:27": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:28": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:29": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:30": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:31": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:32": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:33": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:34": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:35": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:36": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:37": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:38": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:39": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:40": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:41": {
+  "keep": false,
+  "score": 11
+ },
+ "Exodus 29:42": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Moses is told how to ordain Aaron and his sons over seven days of sacrifice and anointing, and to offer a lamb on the altar every morning and evening."
+ },
+ "Exodus 29:43": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 29:44": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 29:45": {
+  "keep": true,
+  "score": 88
+ },
+ "Exodus 29:46": {
+  "keep": true,
+  "score": 86
+ },
+ "Exodus 30:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 30:2": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:3": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:4": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:5": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:6": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:7": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 30:8": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 30:9": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:10": {
+  "keep": false,
+  "score": 32
+ },
+ "Exodus 30:11": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:12": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 30:13": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:14": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:15": {
+  "keep": true,
+  "score": 78
+ },
+ "Exodus 30:16": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:17": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:18": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:19": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:20": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:21": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:22": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:23": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:24": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:25": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:26": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:27": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:28": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:29": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:30": {
+  "keep": false,
+  "score": 30
+ },
+ "Exodus 30:31": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:32": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:33": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:34": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:35": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:36": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:37": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 30:38": {
+  "keep": false,
+  "score": 12
+ },
+ "Exodus 31:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 31:2": {
+  "keep": true,
+  "score": 76
+ },
+ "Exodus 31:3": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 31:4": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:5": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:6": {
+  "keep": false,
+  "score": 40
+ },
+ "Exodus 31:7": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:8": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:9": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:10": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:11": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:12": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:13": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 31:14": {
+  "keep": false,
+  "score": 20
+ },
+ "Exodus 31:15": {
+  "keep": false,
+  "score": 45
+ },
+ "Exodus 31:16": {
+  "keep": true,
+  "score": 70
+ },
+ "Exodus 31:17": {
+  "keep": true,
+  "score": 85
+ },
+ "Exodus 31:18": {
+  "keep": true,
+  "score": 93
+ }
+}

@@ -1,0 +1,3993 @@
+{
+ "2 Chronicles 2:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 2:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:5": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 2:6": {
+  "keep": true,
+  "score": 85,
+  "bridge": "Solomon writes to Huram, king of Tyre, asking for cedar and skilled craftsmen, since the house he will build must be great, for God is great."
+ },
+ "2 Chronicles 2:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:12": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 2:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 2:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:1": {
+  "keep": true,
+  "score": 75
+ },
+ "2 Chronicles 3:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:14": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 3:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 3:17": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 4:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:2": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 4:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:4": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 4:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:18": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 4:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 4:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:10": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 5:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 5:13": {
+  "keep": true,
+  "score": 88,
+  "bridge": "The temple is finished. Solomon assembles Israel, and the priests carry the ark into the most holy place while Levite singers and trumpeters stand by the altar."
+ },
+ "2 Chronicles 5:14": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Chronicles 6:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:12": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Solomon blesses the people and recalls God's promise that David's son would build the temple."
+ },
+ "2 Chronicles 6:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:14": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 6:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:18": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Chronicles 6:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:21": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 6:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:29": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:30": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:31": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:32": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:33": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 6:34": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:35": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:36": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 6:37": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 6:38": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:39": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:40": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 6:41": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Chronicles 6:42": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 7:1": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Chronicles 7:2": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 7:3": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 7:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:10": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 7:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:12": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 7:13": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 7:14": {
+  "keep": true,
+  "score": 98
+ },
+ "2 Chronicles 7:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 7:16": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 7:17": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 7:18": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 7:19": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 7:20": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 7:21": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 7:22": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 8:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 8:17": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 8:18": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 9:1": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 9:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:5": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 9:6": {
+  "keep": true,
+  "score": 75
+ },
+ "2 Chronicles 9:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:22": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 9:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:29": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 9:30": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 9:31": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 10:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 10:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:11": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 10:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:14": {
+  "keep": false,
+  "score": 55
+ },
+ "2 Chronicles 10:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:16": {
+  "keep": true,
+  "score": 85,
+  "bridge": "The people ask Rehoboam to lighten Solomon's heavy yoke. Rejecting the elders' advice, he answers harshly: \"My father chastised you with whips, but I will chastise you with scorpions.\""
+ },
+ "2 Chronicles 10:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 10:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 11:2": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 11:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:4": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 11:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:14": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 11:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:16": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 11:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 11:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 12:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:5": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 12:6": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 12:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:9": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 12:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:12": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 12:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 12:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:4": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Rehoboam dies and his son Abijah reigns over Judah. He goes to war against Jeroboam, whose army is twice the size of his."
+ },
+ "2 Chronicles 13:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:12": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 13:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:15": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Jeroboam's ambush surrounds Judah front and rear; they cry to the LORD and the priests sound the trumpets."
+ },
+ "2 Chronicles 13:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:18": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 13:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 13:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:11": {
+  "keep": true,
+  "score": 88,
+  "bridge": "Abijah dies and his son Asa, a reformer who removes the idols, becomes king. When Zerah the Ethiopian invades with a huge army, Asa prays:"
+ },
+ "2 Chronicles 14:12": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 14:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 14:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 15:2": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Chronicles 15:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:7": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 15:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:12": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 15:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:15": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 15:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 15:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:7": {
+  "keep": true,
+  "score": 78,
+  "bridge": "Years later, when Baasha king of Israel threatens Judah, Asa pays the king of Syria with temple treasure to attack Israel instead."
+ },
+ "2 Chronicles 16:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:9": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Chronicles 16:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:12": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 16:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 16:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 17:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:3": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 17:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:9": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Jehoshaphat seeks the LORD and sends princes, Levites and priests through the cities of Judah."
+ },
+ "2 Chronicles 17:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 17:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:1": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 18:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:13": {
+  "keep": true,
+  "score": 85,
+  "bridge": "Jehoshaphat allies with Ahab of Israel against Ramoth-gilead. Ahab's four hundred prophets promise victory, but Jehoshaphat asks for a prophet of the LORD, so Micaiah is summoned and urged to agree."
+ },
+ "2 Chronicles 18:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:16": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 18:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:18": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 18:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:21": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 18:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:27": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 18:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:29": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:30": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:31": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:32": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 18:33": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Micaiah sees God sending a lying spirit to Ahab's prophets. Ahab jails him and goes into battle in disguise."
+ },
+ "2 Chronicles 18:34": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 19:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:2": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 19:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:6": {
+  "keep": true,
+  "score": 80,
+  "bridge": "Jehoshaphat returns home, is rebuked by a seer for helping Ahab, and appoints judges throughout Judah."
+ },
+ "2 Chronicles 19:7": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 19:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 19:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:2": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:3": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:4": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:5": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:6": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 20:7": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 20:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:9": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:12": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Chronicles 20:13": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:14": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:15": {
+  "keep": true,
+  "score": 95
+ },
+ "2 Chronicles 20:16": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 20:17": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Chronicles 20:18": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:19": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 20:20": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Chronicles 20:21": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 20:22": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 20:23": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:24": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:25": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:26": {
+  "keep": false,
+  "score": 52
+ },
+ "2 Chronicles 20:27": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:29": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:30": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 20:31": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:32": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 20:33": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:34": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:35": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:36": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 20:37": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 21:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Chronicles 21:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:12": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 21:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:15": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 21:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 21:19": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 21:20": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Jehoram leads Judah into idolatry. A letter from Elijah foretells his doom, and after raids by Philistines and Arabs he dies of a terrible disease."
+ },
+ "2 Chronicles 22:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 22:10": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Jehoram's youngest son Ahaziah reigns one year, guided by his mother Athaliah of Ahab's house, until Jehu kills him."
+ },
+ "2 Chronicles 22:11": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 22:12": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 23:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:11": {
+  "keep": true,
+  "score": 85,
+  "bridge": "After six years hidden in the temple, the priest Jehoiada gathers the Levites and captains and arms them to guard the young prince."
+ },
+ "2 Chronicles 23:12": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 23:13": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Chronicles 23:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:15": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 23:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 23:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Chronicles 24:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:2": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 24:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:17": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 24:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:20": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Joash repairs the temple, but after Jehoiada dies he and the princes turn to idols and ignore the prophets."
+ },
+ "2 Chronicles 24:21": {
+  "keep": true,
+  "score": 78
+ },
+ "2 Chronicles 24:22": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Chronicles 24:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:25": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 24:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 24:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:1": {
+  "keep": true,
+  "score": 68,
+  "bridge": "A Syrian army defeats Judah, and Joash is murdered in his bed by his own servants."
+ },
+ "2 Chronicles 25:2": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 25:3": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 25:4": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 25:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:9": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 25:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:14": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 25:15": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 25:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 25:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:3": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 26:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:5": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:15": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:16": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 26:17": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:18": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:19": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 26:20": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:21": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 26:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 26:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:6": {
+  "keep": true,
+  "score": 75
+ },
+ "2 Chronicles 27:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 27:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 28:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:3": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 28:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:9": {
+  "keep": true,
+  "score": 78,
+  "bridge": "Judah is defeated by Syria and by Israel, whose army carries off two hundred thousand captives toward Samaria."
+ },
+ "2 Chronicles 28:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:15": {
+  "keep": true,
+  "score": 85,
+  "bridge": "Leaders of Ephraim support the prophet, and the soldiers release the captives and spoil."
+ },
+ "2 Chronicles 28:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:23": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 28:24": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 28:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 28:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 29:2": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 29:3": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 29:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:5": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 29:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:10": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 29:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:27": {
+  "keep": true,
+  "score": 80,
+  "bridge": "The Levites cleanse the temple in sixteen days, and Hezekiah offers sin offerings for all Israel."
+ },
+ "2 Chronicles 29:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:29": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:30": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:31": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:32": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:33": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:34": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:35": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 29:36": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 30:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 30:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:6": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 30:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:9": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Chronicles 30:10": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 30:11": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 30:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:18": {
+  "keep": true,
+  "score": 78,
+  "bridge": "Though many scoff, some from the northern tribes come, and a great crowd gathers at Jerusalem for the feast."
+ },
+ "2 Chronicles 30:19": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 30:20": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 30:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 30:26": {
+  "keep": false,
+  "score": 52
+ },
+ "2 Chronicles 30:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 31:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:5": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 31:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:10": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 31:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 31:20": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 31:21": {
+  "keep": true,
+  "score": 78
+ },
+ "2 Chronicles 32:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 32:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:7": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Hezekiah blocks the springs outside the city, rebuilds the walls, and rallies his captains:"
+ },
+ "2 Chronicles 32:8": {
+  "keep": true,
+  "score": 88
+ },
+ "2 Chronicles 32:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:20": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 32:21": {
+  "keep": true,
+  "score": 82,
+  "bridge": "Sennacherib's envoys mock the LORD before the people on the wall, and Hezekiah and the prophet Isaiah cry to heaven."
+ },
+ "2 Chronicles 32:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:25": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 32:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:29": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:30": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:31": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 32:32": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 32:33": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:1": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Hezekiah dies, and his son Manasseh succeeds him."
+ },
+ "2 Chronicles 33:2": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:6": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:9": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:10": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:11": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:12": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Chronicles 33:13": {
+  "keep": true,
+  "score": 92
+ },
+ "2 Chronicles 33:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:15": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:16": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 33:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:18": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:21": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:23": {
+  "keep": false,
+  "score": 42
+ },
+ "2 Chronicles 33:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 33:25": {
+  "keep": false,
+  "score": 40
+ },
+ "2 Chronicles 34:1": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Manasseh's son Amon reigns wickedly for two years until his servants kill him; his son Josiah is made king."
+ },
+ "2 Chronicles 34:2": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 34:3": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 34:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:14": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 34:15": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 34:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:18": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 34:19": {
+  "keep": true,
+  "score": 80
+ },
+ "2 Chronicles 34:20": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:21": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 34:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:23": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:24": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:25": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:27": {
+  "keep": true,
+  "score": 85,
+  "bridge": "Josiah sends to the prophetess Huldah, who declares that the book's curses will fall on Judah, but has this message for the king:"
+ },
+ "2 Chronicles 34:28": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:29": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:30": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 34:31": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 34:32": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 34:33": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 35:1": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 35:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:11": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:12": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:14": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:15": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:16": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:17": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:18": {
+  "keep": true,
+  "score": 72
+ },
+ "2 Chronicles 35:19": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:20": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 35:21": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 35:22": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:23": {
+  "keep": false,
+  "score": 48
+ },
+ "2 Chronicles 35:24": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Josiah ignores Necho's warning, fights him at Megiddo, and is badly wounded by archers."
+ },
+ "2 Chronicles 35:25": {
+  "keep": false,
+  "score": 50
+ },
+ "2 Chronicles 35:26": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 35:27": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:1": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:2": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:3": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:4": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:5": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:6": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:7": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:8": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:9": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:10": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:11": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 36:12": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Josiah's sons and grandson reign briefly under Egypt and then Babylon, whose king Nebuchadnezzar deports them in turn and makes Zedekiah the last king of Judah."
+ },
+ "2 Chronicles 36:13": {
+  "keep": false,
+  "score": 18
+ },
+ "2 Chronicles 36:14": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 36:15": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Chronicles 36:16": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Chronicles 36:17": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 36:18": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Chronicles 36:19": {
+  "keep": true,
+  "score": 85
+ },
+ "2 Chronicles 36:20": {
+  "keep": true,
+  "score": 68
+ },
+ "2 Chronicles 36:21": {
+  "keep": true,
+  "score": 82
+ },
+ "2 Chronicles 36:22": {
+  "keep": false,
+  "score": 35
+ },
+ "2 Chronicles 36:23": {
+  "keep": false,
+  "score": 35
+ },
+ "Ezra 1:1": {
+  "keep": true,
+  "score": 90
+ },
+ "Ezra 1:2": {
+  "keep": true,
+  "score": 88
+ },
+ "Ezra 1:3": {
+  "keep": true,
+  "score": 88
+ },
+ "Ezra 1:4": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 1:5": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 1:6": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 1:7": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 1:8": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 1:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezra 1:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezra 1:11": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 2:1": {
+  "keep": true,
+  "score": 70
+ },
+ "Ezra 2:2": {
+  "keep": false,
+  "score": 40
+ },
+ "Ezra 2:3": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:4": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:5": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:6": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:7": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:8": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:9": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:10": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:11": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:12": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:13": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:14": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:15": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:16": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:17": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:18": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:19": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:20": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:21": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:22": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:23": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:24": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:25": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:26": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:27": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:28": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:29": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:30": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:31": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:32": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:33": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:34": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:35": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:36": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:37": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:38": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:39": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:40": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:41": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:42": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:43": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:44": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:45": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:46": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:47": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:48": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:49": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:50": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:51": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:52": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:53": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:54": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:55": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:56": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:57": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:58": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:59": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:60": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:61": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:62": {
+  "keep": false,
+  "score": 30
+ },
+ "Ezra 2:63": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:64": {
+  "keep": true,
+  "score": 65
+ },
+ "Ezra 2:65": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:66": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:67": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:68": {
+  "keep": false,
+  "score": 35
+ },
+ "Ezra 2:69": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 2:70": {
+  "keep": false,
+  "score": 30
+ },
+ "Ezra 3:1": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:2": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:3": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:4": {
+  "keep": false,
+  "score": 35
+ },
+ "Ezra 3:5": {
+  "keep": false,
+  "score": 30
+ },
+ "Ezra 3:6": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:7": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:8": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:9": {
+  "keep": false,
+  "score": 30
+ },
+ "Ezra 3:10": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 3:11": {
+  "keep": true,
+  "score": 92
+ },
+ "Ezra 3:12": {
+  "keep": true,
+  "score": 92
+ },
+ "Ezra 3:13": {
+  "keep": true,
+  "score": 90
+ },
+ "Ezra 4:1": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 4:2": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 4:3": {
+  "keep": true,
+  "score": 78
+ },
+ "Ezra 4:4": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 4:5": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 4:6": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:7": {
+  "keep": false,
+  "score": 35
+ },
+ "Ezra 4:8": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 4:9": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:10": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:11": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:12": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 4:13": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:14": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:15": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:16": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:17": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezra 4:18": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:19": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:20": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:21": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Artaxerxes has the records searched, confirms that Jerusalem has rebelled against kings before, and replies:"
+ },
+ "Ezra 4:22": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 4:23": {
+  "keep": false,
+  "score": 50
+ },
+ "Ezra 4:24": {
+  "keep": true,
+  "score": 75
+ },
+ "Ezra 5:1": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 5:2": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 5:3": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 5:4": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:5": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 5:6": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:7": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:8": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:9": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:10": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:11": {
+  "keep": true,
+  "score": 82,
+  "bridge": "In their letter to Darius, the governors report the Jews' answer:"
+ },
+ "Ezra 5:12": {
+  "keep": true,
+  "score": 82
+ },
+ "Ezra 5:13": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezra 5:14": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:15": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:16": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 5:17": {
+  "keep": false,
+  "score": 40
+ },
+ "Ezra 6:1": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 6:2": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 6:3": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 6:4": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:5": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:6": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezra 6:7": {
+  "keep": true,
+  "score": 68,
+  "bridge": "Darius confirms Cyrus's decree and orders the governors:"
+ },
+ "Ezra 6:8": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:9": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:10": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:11": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:12": {
+  "keep": false,
+  "score": 48
+ },
+ "Ezra 6:13": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:14": {
+  "keep": true,
+  "score": 85
+ },
+ "Ezra 6:15": {
+  "keep": true,
+  "score": 78
+ },
+ "Ezra 6:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Ezra 6:17": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:18": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:19": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:20": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:21": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 6:22": {
+  "keep": false,
+  "score": 50
+ },
+ "Ezra 7:1": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:2": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:3": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:4": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:5": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:6": {
+  "keep": true,
+  "score": 88
+ },
+ "Ezra 7:7": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:8": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezra 7:9": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:10": {
+  "keep": true,
+  "score": 95
+ },
+ "Ezra 7:11": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:12": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:13": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:14": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:15": {
+  "keep": false,
+  "score": 40
+ },
+ "Ezra 7:16": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:17": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:18": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:19": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:20": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:21": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:22": {
+  "keep": false,
+  "score": 18
+ },
+ "Ezra 7:23": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:24": {
+  "keep": false,
+  "score": 40
+ },
+ "Ezra 7:25": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:26": {
+  "keep": true,
+  "score": 68
+ },
+ "Ezra 7:27": {
+  "keep": true,
+  "score": 85
+ },
+ "Ezra 7:28": {
+  "keep": true,
+  "score": 80
+ }
+}
