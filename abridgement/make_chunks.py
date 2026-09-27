@@ -1,12 +1,16 @@
-"""Split the Book of Mormon into chapter-aligned chunks for selection agents."""
+"""Split a volume into chapter-aligned chunks for selection agents.
+
+Run from the volume's working directory; ABR_SRC and ABR_CHUNKS override the
+source JSON and the number of chunks.
+"""
 import json
 import os
 
-d = json.load(open("../scriptures-json/book-of-mormon.json"))
+d = json.load(open(os.environ.get("ABR_SRC", "../scriptures-json/book-of-mormon.json")))
 budgets = json.load(open("budgets.json"))
 chaps = [c for b in d["books"] for c in b["chapters"]]
 total = sum(len(v["text"]) for c in chaps for v in c["verses"])
-N = 9
+N = int(os.environ.get("ABR_CHUNKS", 9))
 os.makedirs("chunks", exist_ok=True)
 chunk, size, idx = [], 0, 1
 

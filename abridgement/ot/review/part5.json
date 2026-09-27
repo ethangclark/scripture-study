@@ -1,0 +1,20 @@
+[
+ {"why": "2 Samuel 3:27 has Abner 'returned to Hebron' right after David sent him away in peace; restore 3:26 (Joab secretly sends after him) and drop 5:5, whose reign breakdown 5:4 already covers",
+  "keep": ["2 Samuel 3:26"], "drop": ["2 Samuel 5:5"]},
+ {"why": "2 Samuel 20:12 'when the man saw' points at no man; the soldier who rallies the troops (20:11) was dropped",
+  "bridges": {"2 Samuel 20:12": "One of Joab's men stands by Amasa's body and calls on the troops to follow Joab."}},
+ {"why": "2 Samuel 21:6 switches from David to the Gibeonites speaking, and 'his sons' has no referent; restore 21:5 (their answer naming Saul as the man who consumed them) and drop the psalm verse 22:34",
+  "keep": ["2 Samuel 21:5"], "drop": ["2 Samuel 22:34"]},
+ {"why": "2 Samuel 21:10 Rizpah's vigil makes no sense without learning that two of the hanged men were her sons, and Mephibosheth's sparing is unmentioned",
+  "bridges": {"2 Samuel 21:9": "David spares Jonathan's son Mephibosheth, but hands over seven of Saul's descendants, among them two sons of Saul's concubine Rizpah."}},
+ {"why": "2 Samuel 24:22 Araunah answers a request the reader never heard; restore 24:21 (David asks to buy the threshingfloor) and drop 23:21, Benaiah's second exploit",
+  "keep": ["2 Samuel 24:21"], "drop": ["2 Samuel 23:21"]},
+ {"why": "1 Kings 1:41 mentions Adonijah's 'guests' finishing a feast never shown, and 'Wherefore Nathan' (1:11) follows nothing; restore 1:9-10 (the feast, with Solomon and Nathan not invited) and drop 1:8, which 1:10 now duplicates, and 1:12, whose loss leaves 1:11 to 1:13 smooth",
+  "keep": ["1 Kings 1:9", "1 Kings 1:10"], "drop": ["1 Kings 1:8", "1 Kings 1:12"]},
+ {"why": "1 Kings 2:25 'he fell upon him' follows a sentence naming Adonijah, Abiathar and Joab, with no verdict given; restore Solomon's oath 2:24 and drop 3:2, since 3:3 already says Solomon sacrificed on high places",
+  "keep": ["1 Kings 2:24"], "drop": ["1 Kings 3:2"]},
+ {"why": "2 Kings 3:14 has Elisha refusing to look at 'thee' with no scene of the kings coming to him; restore 3:13 and drop the travel note 2:25",
+  "keep": ["2 Kings 3:13"], "drop": ["2 Kings 2:25"]},
+ {"why": "2 Kings 3:27 'Then he took his eldest son' has no referent; the king of Moab's failed breakout (3:26) was dropped",
+  "bridges": {"2 Kings 3:27": "Seeing the battle go against him, the king of Moab tries to break out through the lines and fails."}}
+]

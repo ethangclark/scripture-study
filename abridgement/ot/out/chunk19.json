@@ -1,0 +1,4019 @@
+{
+ "Ezekiel 39:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 39:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 39:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 39:22": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezekiel 39:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 39:24": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 39:25": {
+  "keep": true,
+  "score": 80
+ },
+ "Ezekiel 39:26": {
+  "keep": false,
+  "score": 40
+ },
+ "Ezekiel 39:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 39:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 39:29": {
+  "keep": true,
+  "score": 85
+ },
+ "Ezekiel 40:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:2": {
+  "keep": false,
+  "score": 50
+ },
+ "Ezekiel 40:3": {
+  "keep": false,
+  "score": 48
+ },
+ "Ezekiel 40:4": {
+  "keep": true,
+  "score": 72,
+  "bridge": "Years later, in the twenty-fifth year of exile, Ezekiel is carried in a vision to a high mountain in Israel, where a man shining like bronze and holding a measuring rod meets him at a gate."
+ },
+ "Ezekiel 40:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:23": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:25": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:26": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:27": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:28": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:29": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:30": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:31": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:32": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:33": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:34": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:35": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:36": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:37": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:38": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:39": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:40": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:41": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:42": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:43": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:44": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:45": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:46": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:47": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:48": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 40:49": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:2": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:4": {
+  "keep": true,
+  "score": 72,
+  "bridge": "The man measures the new temple's gates, courts, chambers and porch in detail, then leads Ezekiel into the sanctuary and measures its inner room."
+ },
+ "Ezekiel 41:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:23": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:25": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 41:26": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:2": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:4": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 42:20": {
+  "keep": true,
+  "score": 72,
+  "bridge": "After measuring the priests' chambers, the man measures the outer wall of the whole temple area."
+ },
+ "Ezekiel 43:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:2": {
+  "keep": true,
+  "score": 85,
+  "bridge": "The man brings Ezekiel to the temple's east gate."
+ },
+ "Ezekiel 43:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:4": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:5": {
+  "keep": false,
+  "score": 50
+ },
+ "Ezekiel 43:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:7": {
+  "keep": false,
+  "score": 55
+ },
+ "Ezekiel 43:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:23": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:25": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:26": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 43:27": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:2": {
+  "keep": true,
+  "score": 72,
+  "bridge": "The glory enters and fills the temple, and God promises to dwell among Israel forever; laws for the altar follow. Later Ezekiel is brought back to the east gate and finds it shut."
+ },
+ "Ezekiel 44:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:4": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:23": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezekiel 44:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:25": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:26": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:27": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:28": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:29": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:30": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 44:31": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:2": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:4": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:9": {
+  "keep": true,
+  "score": 72,
+  "bridge": "God gives rules for temple service and priests, and sets apart holy land for the sanctuary, the priests, the city and a ruling prince. He then addresses Israel's rulers."
+ },
+ "Ezekiel 45:10": {
+  "keep": false,
+  "score": 40
+ },
+ "Ezekiel 45:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:23": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 45:25": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:1": {
+  "keep": false,
+  "score": 35
+ },
+ "Ezekiel 46:2": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:4": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 46:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:23": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 46:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 47:1": {
+  "keep": true,
+  "score": 85,
+  "bridge": "After further rules for offerings, the guide leads Ezekiel back to the temple entrance."
+ },
+ "Ezekiel 47:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:5": {
+  "keep": true,
+  "score": 85
+ },
+ "Ezekiel 47:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:9": {
+  "keep": true,
+  "score": 85
+ },
+ "Ezekiel 47:10": {
+  "keep": false,
+  "score": 55
+ },
+ "Ezekiel 47:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:12": {
+  "keep": true,
+  "score": 88
+ },
+ "Ezekiel 47:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:14": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezekiel 47:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:21": {
+  "keep": false,
+  "score": 28
+ },
+ "Ezekiel 47:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Ezekiel 47:23": {
+  "keep": false,
+  "score": 45
+ },
+ "Ezekiel 48:1": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:2": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:3": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:4": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:5": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:6": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:7": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:8": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:9": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:10": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:11": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:12": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:13": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:14": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:15": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:16": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:17": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:18": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:19": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:20": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:21": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:22": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:23": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:24": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:25": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:26": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:27": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:28": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:29": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:30": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:31": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:32": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:33": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:34": {
+  "keep": false,
+  "score": 15
+ },
+ "Ezekiel 48:35": {
+  "keep": true,
+  "score": 90,
+  "bridge": "The land is divided among the twelve tribes around a holy district, and the new city is given twelve gates named for the tribes."
+ },
+ "Daniel 1:1": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:2": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:3": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:4": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:5": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:6": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:7": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:8": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:9": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:10": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:12": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:13": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:14": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:15": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:17": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:18": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:19": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:20": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 1:21": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:1": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:2": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:3": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:4": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:5": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:6": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:7": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:8": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:9": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:10": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:12": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:13": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:14": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:15": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:17": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:18": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:19": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:20": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:21": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:22": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:23": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:24": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:25": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:26": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:27": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:28": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:29": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:30": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:31": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:32": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:33": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:34": {
+  "keep": true,
+  "score": 92
+ },
+ "Daniel 2:35": {
+  "keep": true,
+  "score": 92
+ },
+ "Daniel 2:36": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:37": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:38": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:39": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:40": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:41": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:42": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:43": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:44": {
+  "keep": true,
+  "score": 95
+ },
+ "Daniel 2:45": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:46": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:47": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:48": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 2:49": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:1": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:2": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:3": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:4": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:5": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:6": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:7": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:8": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:9": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:10": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:12": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:13": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:14": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:15": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:17": {
+  "keep": true,
+  "score": 98
+ },
+ "Daniel 3:18": {
+  "keep": true,
+  "score": 98
+ },
+ "Daniel 3:19": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:20": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:21": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:22": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:23": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:24": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:25": {
+  "keep": true,
+  "score": 96
+ },
+ "Daniel 3:26": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:27": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:28": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:29": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 3:30": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 4:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:23": {
+  "keep": false,
+  "score": 40
+ },
+ "Daniel 4:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:34": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:35": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:36": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 4:37": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 5:1": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:2": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:3": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:4": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:5": {
+  "keep": true,
+  "score": 95
+ },
+ "Daniel 5:6": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:7": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:8": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:9": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:10": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:12": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:13": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:14": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:15": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:17": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:18": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:19": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:20": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:21": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:22": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:23": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:24": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:25": {
+  "keep": true,
+  "score": 96
+ },
+ "Daniel 5:26": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:27": {
+  "keep": true,
+  "score": 98
+ },
+ "Daniel 5:28": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:29": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:30": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 5:31": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:1": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:2": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:3": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:4": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:5": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:6": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:7": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:8": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:9": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:10": {
+  "keep": true,
+  "score": 96
+ },
+ "Daniel 6:11": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:12": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:13": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:14": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:15": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:16": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:17": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:18": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:19": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:20": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:21": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:22": {
+  "keep": true,
+  "score": 96
+ },
+ "Daniel 6:23": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:24": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:25": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:26": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:27": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 6:28": {
+  "keep": true,
+  "score": 80
+ },
+ "Daniel 7:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:2": {
+  "keep": false,
+  "score": 55
+ },
+ "Daniel 7:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:9": {
+  "keep": true,
+  "score": 92
+ },
+ "Daniel 7:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 7:13": {
+  "keep": true,
+  "score": 96
+ },
+ "Daniel 7:14": {
+  "keep": true,
+  "score": 95
+ },
+ "Daniel 7:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 7:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 7:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 7:21": {
+  "keep": false,
+  "score": 52
+ },
+ "Daniel 7:22": {
+  "keep": false,
+  "score": 55
+ },
+ "Daniel 7:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:24": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:26": {
+  "keep": false,
+  "score": 50
+ },
+ "Daniel 7:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 7:28": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:9": {
+  "keep": false,
+  "score": 52
+ },
+ "Daniel 8:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:14": {
+  "keep": false,
+  "score": 50
+ },
+ "Daniel 8:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:22": {
+  "keep": false,
+  "score": 52
+ },
+ "Daniel 8:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:24": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:25": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 8:26": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 8:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 9:16": {
+  "keep": false,
+  "score": 50
+ },
+ "Daniel 9:17": {
+  "keep": false,
+  "score": 55
+ },
+ "Daniel 9:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:24": {
+  "keep": true,
+  "score": 90
+ },
+ "Daniel 9:25": {
+  "keep": true,
+  "score": 88
+ },
+ "Daniel 9:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 9:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:9": {
+  "keep": false,
+  "score": 45
+ },
+ "Daniel 10:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 10:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:19": {
+  "keep": false,
+  "score": 55
+ },
+ "Daniel 10:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 10:21": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:1": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:22": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:23": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:24": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:25": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:26": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:27": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:28": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:29": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:30": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:31": {
+  "keep": true,
+  "score": 72,
+  "bridge": "The messenger foretells generations of wars between the kings of the south and the north, then a contemptible northern king who seizes power by intrigue and turns against God's covenant people."
+ },
+ "Daniel 11:32": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:33": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:34": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:35": {
+  "keep": false,
+  "score": 50
+ },
+ "Daniel 11:36": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 11:37": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:38": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:39": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:40": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:41": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:42": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:43": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:44": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 11:45": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 12:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 12:2": {
+  "keep": true,
+  "score": 95
+ },
+ "Daniel 12:3": {
+  "keep": true,
+  "score": 95
+ },
+ "Daniel 12:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 12:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 12:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 12:7": {
+  "keep": false,
+  "score": 50
+ },
+ "Daniel 12:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 12:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 12:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Daniel 12:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 12:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Daniel 12:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:1": {
+  "keep": false,
+  "score": 55
+ },
+ "Hosea 1:2": {
+  "keep": true,
+  "score": 85
+ },
+ "Hosea 1:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 1:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:7": {
+  "keep": false,
+  "score": 45
+ },
+ "Hosea 1:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 1:11": {
+  "keep": false,
+  "score": 60
+ },
+ "Hosea 2:1": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:16": {
+  "keep": false,
+  "score": 55
+ },
+ "Hosea 2:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:19": {
+  "keep": true,
+  "score": 88
+ },
+ "Hosea 2:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 2:21": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:22": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 2:23": {
+  "keep": true,
+  "score": 85
+ },
+ "Hosea 3:1": {
+  "keep": true,
+  "score": 88
+ },
+ "Hosea 3:2": {
+  "keep": false,
+  "score": 55
+ },
+ "Hosea 3:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 3:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 3:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:6": {
+  "keep": true,
+  "score": 92
+ },
+ "Hosea 4:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 4:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 4:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 5:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 5:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 5:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 5:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 5:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 5:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 6:1": {
+  "keep": true,
+  "score": 88
+ },
+ "Hosea 6:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 6:3": {
+  "keep": false,
+  "score": 60
+ },
+ "Hosea 6:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 6:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 6:6": {
+  "keep": true,
+  "score": 96
+ },
+ "Hosea 6:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 6:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 6:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 6:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 6:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 7:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 7:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 7:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 7:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 7:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 7:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 7:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 8:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 8:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:7": {
+  "keep": true,
+  "score": 92
+ },
+ "Hosea 8:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 8:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 8:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 9:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 9:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 10:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 10:15": {
+  "keep": false,
+  "score": 50
+ },
+ "Hosea 11:1": {
+  "keep": true,
+  "score": 95
+ },
+ "Hosea 11:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 11:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 11:4": {
+  "keep": true,
+  "score": 88
+ },
+ "Hosea 11:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 11:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 11:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 11:8": {
+  "keep": true,
+  "score": 95
+ },
+ "Hosea 11:9": {
+  "keep": true,
+  "score": 90
+ },
+ "Hosea 11:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 11:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 11:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:1": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 12:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 12:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 12:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 12:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 12:12": {
+  "keep": false,
+  "score": 50
+ },
+ "Hosea 12:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 12:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:1": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 13:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 13:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 13:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 13:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 13:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:14": {
+  "keep": true,
+  "score": 92
+ },
+ "Hosea 13:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 13:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 14:1": {
+  "keep": true,
+  "score": 88
+ },
+ "Hosea 14:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 14:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Hosea 14:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 14:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 14:6": {
+  "keep": false,
+  "score": 55
+ },
+ "Hosea 14:7": {
+  "keep": false,
+  "score": 50
+ },
+ "Hosea 14:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Hosea 14:9": {
+  "keep": true,
+  "score": 85
+ },
+ "Joel 1:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:4": {
+  "keep": true,
+  "score": 85
+ },
+ "Joel 1:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:18": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 1:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 1:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:13": {
+  "keep": true,
+  "score": 96
+ },
+ "Joel 2:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:15": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:20": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:22": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:24": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 2:25": {
+  "keep": true,
+  "score": 90
+ },
+ "Joel 2:26": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:27": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:28": {
+  "keep": true,
+  "score": 98
+ },
+ "Joel 2:29": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:30": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:31": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 2:32": {
+  "keep": true,
+  "score": 95
+ },
+ "Joel 3:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:4": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:9": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:10": {
+  "keep": true,
+  "score": 88
+ },
+ "Joel 3:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:14": {
+  "keep": true,
+  "score": 88
+ },
+ "Joel 3:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:17": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:18": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:19": {
+  "keep": false,
+  "score": 28
+ },
+ "Joel 3:20": {
+  "keep": true,
+  "score": 72
+ },
+ "Joel 3:21": {
+  "keep": false,
+  "score": 55
+ },
+ "Amos 1:1": {
+  "keep": true,
+  "score": 85
+ },
+ "Amos 1:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 1:3": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 1:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 1:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:6": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 1:12": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 1:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 1:14": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 1:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:1": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 2:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:6": {
+  "keep": true,
+  "score": 90
+ },
+ "Amos 2:7": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 2:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 2:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 2:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 2:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 2:16": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 3:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 3:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 3:3": {
+  "keep": true,
+  "score": 92
+ },
+ "Amos 3:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 3:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 3:6": {
+  "keep": false,
+  "score": 62
+ },
+ "Amos 3:7": {
+  "keep": true,
+  "score": 92
+ },
+ "Amos 3:8": {
+  "keep": true,
+  "score": 88
+ },
+ "Amos 3:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 3:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 3:11": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 3:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 3:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 3:14": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 3:15": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 4:2": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:4": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 4:5": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 4:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:8": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:10": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 4:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 4:12": {
+  "keep": true,
+  "score": 92
+ },
+ "Amos 4:13": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:1": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:2": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:3": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:4": {
+  "keep": true,
+  "score": 90
+ },
+ "Amos 5:5": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:6": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:7": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:8": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:9": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:10": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:11": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:12": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:13": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:14": {
+  "keep": true,
+  "score": 88
+ },
+ "Amos 5:15": {
+  "keep": true,
+  "score": 88
+ },
+ "Amos 5:16": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:17": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:18": {
+  "keep": true,
+  "score": 88
+ },
+ "Amos 5:19": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:20": {
+  "keep": false,
+  "score": 45
+ },
+ "Amos 5:21": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:22": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:23": {
+  "keep": true,
+  "score": 72
+ },
+ "Amos 5:24": {
+  "keep": true,
+  "score": 98
+ },
+ "Amos 5:25": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:26": {
+  "keep": false,
+  "score": 28
+ },
+ "Amos 5:27": {
+  "keep": true,
+  "score": 72
+ }
+}

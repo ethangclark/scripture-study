@@ -1,0 +1,4002 @@
+{
+ "1 Kings 8:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:4": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:5": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:7": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:8": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:10": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 8:11": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 8:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:14": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:18": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:19": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:20": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:21": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:23": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 8:24": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 8:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:26": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:27": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 8:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:31": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:32": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:34": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:35": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:36": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:37": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:38": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:39": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:40": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:41": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:42": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:43": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:44": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:45": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:46": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:47": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:48": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:49": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:50": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:51": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:52": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:53": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:54": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:55": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:56": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 8:57": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:58": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:59": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 8:60": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 8:61": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 8:62": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:63": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 8:64": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:65": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 8:66": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:3": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 9:4": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 9:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:10": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:11": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:12": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:13": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:14": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:18": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:19": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:20": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:21": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:22": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:23": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:24": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 9:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:27": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 9:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:1": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 10:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:7": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 10:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:11": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:12": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:26": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:27": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 10:28": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 10:29": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:3": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 11:4": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 11:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:11": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 11:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:18": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:19": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:20": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:21": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 11:22": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 11:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:24": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:25": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:27": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:30": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 11:31": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 11:32": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 11:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:34": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:35": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:36": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:37": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:38": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:39": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:40": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:41": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 11:42": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 11:43": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:9": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 12:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:11": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 12:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:14": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 12:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:16": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 12:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 12:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:23": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 12:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 12:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:27": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:28": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 12:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:31": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 12:32": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 12:33": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:2": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 13:3": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:10": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:12": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:23": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:24": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 13:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:27": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:29": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 13:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:31": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 13:32": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 13:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 13:34": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:3": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 14:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:14": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:19": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 14:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:22": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:23": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:24": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:25": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 14:27": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:28": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:29": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 14:30": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 14:31": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 15:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:2": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:6": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:7": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 15:8": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 15:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:10": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:22": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:23": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:25": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:26": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:27": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 15:30": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:31": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 15:32": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:33": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 15:34": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:5": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 16:6": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 16:7": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:12": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:13": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:14": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 16:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:19": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:20": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 16:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:23": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:26": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 16:27": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 16:28": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 16:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:31": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 16:32": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 16:34": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 17:1": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 17:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:6": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 17:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:14": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 17:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:22": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 17:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 17:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:21": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 18:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:25": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:27": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 18:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:31": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:32": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:34": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:35": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:36": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:37": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:38": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 18:39": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 18:40": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:41": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:42": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:43": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:44": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 18:45": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 18:46": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:4": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 19:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:11": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 19:12": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 19:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:18": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 19:19": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 19:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 19:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:5": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:6": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:7": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 20:8": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:9": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:10": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Ben-hadad then demands the right to search and plunder Samaria; on the elders' advice Ahab refuses."
+ },
+ "1 Kings 20:11": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 20:12": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:14": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:15": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:16": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:17": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:18": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:19": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:20": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 20:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:22": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:24": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:25": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:26": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:27": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 20:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:31": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:32": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:34": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:35": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:36": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:37": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:38": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:39": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:40": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:41": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:42": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 20:43": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:3": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 21:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:12": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:14": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:17": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:19": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 21:20": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 21:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:25": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:27": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 21:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:1": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:2": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:3": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:4": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:5": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:6": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:7": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:8": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:9": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:10": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:11": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:12": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:13": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:14": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 22:15": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:16": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:17": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 22:18": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:19": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:20": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:21": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:22": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:23": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:24": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:25": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:26": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:27": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:28": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:29": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:30": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:31": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:32": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:33": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:34": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 22:35": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:36": {
+  "keep": false,
+  "score": 45
+ },
+ "1 Kings 22:37": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:38": {
+  "keep": true,
+  "score": 90
+ },
+ "1 Kings 22:39": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 22:40": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:41": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:42": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:43": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:44": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:45": {
+  "keep": false,
+  "score": 5
+ },
+ "1 Kings 22:46": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:47": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:48": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:49": {
+  "keep": false,
+  "score": 25
+ },
+ "1 Kings 22:50": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:51": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:52": {
+  "keep": true,
+  "score": 70
+ },
+ "1 Kings 22:53": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 1:1": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 1:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:6": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 1:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:8": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 1:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:11": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 1:12": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 1:13": {
+  "keep": true,
+  "score": 70,
+  "bridge": "A second captain and his fifty are likewise consumed by fire."
+ },
+ "2 Kings 1:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:16": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 1:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 1:18": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 2:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:6": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:9": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 2:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:11": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 2:12": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 2:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:14": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 2:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:22": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 2:24": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 2:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:1": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:2": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:6": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:7": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 3:8": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:9": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jehoram of Israel persuades Jehoshaphat of Judah to join him, and they march on Moab by way of Edom."
+ },
+ "2 Kings 3:10": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:12": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:13": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:18": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:19": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:21": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:22": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:24": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 3:25": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:26": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 3:27": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 4:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:6": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:15": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 4:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:22": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:24": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 4:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:26": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:27": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:28": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:29": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:30": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:31": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:32": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 4:33": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:34": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 4:35": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:36": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:37": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:38": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:39": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:40": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:41": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:42": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:43": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 4:44": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:1": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 5:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:6": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:13": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 5:14": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 5:15": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 5:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:22": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:24": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:26": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 5:27": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 6:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 6:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:6": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 6:7": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 6:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:10": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 6:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:16": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 6:17": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 6:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:22": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:24": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:26": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:27": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 6:28": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:29": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:30": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 6:31": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 6:32": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 6:33": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 7:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:6": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:9": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 7:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:12": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 7:13": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 7:14": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 7:15": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 7:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 7:18": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 7:19": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 7:20": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:1": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 8:2": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:5": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 8:6": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 8:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:9": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:12": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 8:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:17": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:19": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:20": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:21": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:22": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:23": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 8:24": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 8:25": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:26": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jehoram of Judah dies after eight years, and his son Ahaziah succeeds him."
+ },
+ "2 Kings 8:27": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 8:28": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 8:29": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:6": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:7": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:8": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:9": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:14": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:15": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:19": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:20": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 9:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:22": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:23": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:24": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:25": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:26": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:27": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:28": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:29": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 9:30": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:31": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:32": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:33": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 9:34": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:35": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 9:36": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 9:37": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:1": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:2": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:5": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:6": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jehu dares the leaders of Samaria to crown one of Ahab's seventy sons and fight him; terrified, they submit to him instead."
+ },
+ "2 Kings 10:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:8": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:12": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:13": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:14": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:15": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 10:16": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 10:17": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:20": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:22": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:23": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 10:24": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:26": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:27": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:28": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:29": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:30": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:31": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:32": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:33": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 10:34": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 10:35": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 10:36": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:4": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:5": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:6": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:7": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:8": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:9": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:10": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:11": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 11:18": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:19": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:20": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 11:21": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 12:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:5": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:6": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jehoash orders the priests to use the money given at the temple to repair it."
+ },
+ "2 Kings 12:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:8": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:11": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:12": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:13": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:14": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:15": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:16": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 12:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:19": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 12:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 12:21": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:1": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:2": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:3": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:5": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:6": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:7": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:8": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 13:9": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 13:10": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:11": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:12": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 13:13": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 13:14": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Jehu's son Jehoahaz dies, and his grandson Joash becomes king of Israel."
+ },
+ "2 Kings 13:15": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:16": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:17": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:18": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:21": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 13:22": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 13:24": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 13:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:2": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:6": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 14:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:11": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:15": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 14:16": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 14:17": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:18": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 14:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 14:20": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:21": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 14:22": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 14:23": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 14:24": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:25": {
+  "keep": true,
+  "score": 70,
+  "bridge": "Amaziah is later killed in a conspiracy and his son Azariah takes Judah's throne; in Israel, Jehoash's son Jeroboam II reigns forty-one years."
+ },
+ "2 Kings 14:26": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:27": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 14:28": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 14:29": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:1": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:2": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:3": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:6": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:7": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:9": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:11": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:13": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:14": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:15": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:16": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:17": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:18": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:19": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:20": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:21": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:22": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:23": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:24": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:25": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:26": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:27": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:28": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:29": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:30": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:31": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:32": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:33": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:34": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:35": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 15:36": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 15:37": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 15:38": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:1": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:2": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:3": {
+  "keep": true,
+  "score": 90
+ },
+ "2 Kings 16:4": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:5": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:6": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:7": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:8": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:9": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:10": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:11": {
+  "keep": false,
+  "score": 45
+ },
+ "2 Kings 16:12": {
+  "keep": true,
+  "score": 70
+ },
+ "2 Kings 16:13": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:14": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:15": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:16": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:17": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:18": {
+  "keep": false,
+  "score": 25
+ },
+ "2 Kings 16:19": {
+  "keep": false,
+  "score": 5
+ },
+ "2 Kings 16:20": {
+  "keep": true,
+  "score": 70
+ }
+}

@@ -2,14 +2,17 @@
 book-of-mormon.json with a minimal textual diff.
 
 Usage: python3 merge.py [--write]
+Run from a volume's working directory (this one for the Book of Mormon,
+ot/ for the Old Testament); set ABR_SRC to the volume's JSON path.
 Also writes abridged.md, a readable rendering of the abridged text.
 """
 import glob
 import json
+import os
 import re
 import sys
 
-SRC = "../scriptures-json/book-of-mormon.json"
+SRC = os.environ.get("ABR_SRC", "../scriptures-json/book-of-mormon.json")
 d = json.load(open(SRC, encoding="utf-8"))
 verses = [v for b in d["books"] for c in b["chapters"] for v in c["verses"]]
 refs = [v["reference"] for v in verses]
@@ -96,7 +99,7 @@ for b in d["books"]:
 json.dump(stats, open("stats.json", "w"), indent=1)
 
 # Readable rendering.
-md = ["# The Book of Mormon, abridged", ""]
+md = [f"# {d.get('title', 'The Book of Mormon')}, abridged", ""]
 for b in d["books"]:
     md += [f"## {b['book']}", ""]
     for c in b["chapters"]:
@@ -115,7 +118,7 @@ open("abridged.md", "w", encoding="utf-8").write("\n".join(md))
 if "--write" in sys.argv:
     s = open(SRC, encoding="utf-8").read()
     out, pos, n = [], 0, 0
-    pat = re.compile(r'"reference": "([^"]+)",\n[^\n]*"text": [^\n]*\n(\s*)"verse": (\d+)')
+    pat = re.compile(r'"reference": "([^"]+:\d+)",(?:\n(?!\s*"verse": )[^\n]*)*\n(\s*)"verse": (\d+)')
     for m in pat.finditer(s):
         r, indent = m.group(1), m.group(2)
         if r not in keep:
