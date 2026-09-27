@@ -1,4 +1,4 @@
-<title>Book of Mormon, Abridged</title>
+<title>__NAME__, Abridged</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Sans+Condensed:wght@400;500&display=swap">
@@ -114,7 +114,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
 
 <header class="bar">
   <div class="bar-in">
-    <button class="brand" id="home" type="button">Book of Mormon <span>Abridged</span></button>
+    <button class="brand" id="home" type="button">__NAME__ <span>Abridged</span></button>
     <div class="picker">
       <select id="book" aria-label="Book"></select>
       <select id="chap" aria-label="Chapter"></select>
@@ -135,8 +135,8 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   const $ = (id) => document.getElementById(id);
   const main = $("main"), selBook = $("book"), selChap = $("chap");
   const store = {
-    get(k, d) { try { const v = localStorage.getItem("bom-abr:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
-    set(k, v) { try { localStorage.setItem("bom-abr:" + k, JSON.stringify(v)); } catch (e) {} }
+    get(k, d) { try { const v = localStorage.getItem("__KEY__:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("__KEY__:" + k, JSON.stringify(v)); } catch (e) {} }
   };
   let mode = store.get("mode", "abr");
   let size = store.get("size", 0);
@@ -146,8 +146,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   const esc = (s) => s.replace(/[&<>]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[ch]);
   const kept = (vs) => vs.reduce((n, v) => n + v[1], 0);
   const plural = (n, w) => n + " " + w + (n === 1 ? "" : "s");
-  const abbrev = { "1 Nephi": "1 Ne", "2 Nephi": "2 Ne", "3 Nephi": "3 Ne", "4 Nephi": "4 Ne", "Words of Mormon": "W of M", "Helaman": "Hel", "Mormon": "Morm", "Moroni": "Moro" };
-  const short = (n) => abbrev[n] || n;
+  const short = (n) => (BOOKS.find((bk) => bk.n === n) || {}).a || n;
 
   // Flat index for chapter-crossing gap ranges.
   const flat = [];
@@ -200,7 +199,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     const total = flat.length;
     const k = BOOKS.reduce((n, bk) => n + bk.c.reduce((m, vs) => m + kept(vs), 0), 0);
     const last = store.get("pos", null);
-    let h = '<section class="contents"><p class="eyebrow">The Book of Mormon</p><h1>Half the verses, the whole story</h1>';
+    let h = '<section class="contents"><p class="eyebrow">__EYEBROW__</p><h1>Half the verses, the whole story</h1>';
     h += '<p class="lede">' + k.toLocaleString() + " of " + total.toLocaleString() + " verses, chosen to keep the narrative moving and the teaching whole. Where a cut would leave you lost, a short note fills in what was skipped. Switch to Full at any time to see every verse, with the cut ones greyed out.</p>";
     if (last && BOOKS[last.b]) h += '<p class="resume"><button type="button" data-b="' + last.b + '" data-c="' + last.c + '">Continue at ' + esc(BOOKS[last.b].n) + " " + (last.c + 1) + " →</button></p>";
     h += '<ul class="toc">';
@@ -209,7 +208,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
       const pct = Math.round((100 * kk) / n);
       h += '<li><button type="button" data-b="' + b + '" data-c="0"><span class="t">' + esc(bk.n) + '</span><span class="m">' + kk + " / " + n + " verses · " + pct + "% · " + plural(bk.c.length, "chapter") + '</span><span class="meter"><i style="width:' + pct + '%"></i></span></button></li>';
     });
-    h += '</ul><p class="fine">Text: the 2013 edition via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.</p></section>';
+    h += '</ul><p class="fine">Text: __SOURCE__ via the public-domain scriptures-json project. Selection and bridging notes are an editorial abridgement, not an official edition.</p></section>';
     return h;
   }
 

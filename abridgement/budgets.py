@@ -26,7 +26,7 @@ W = {
  "Moroni": [.5,.3,.2,.4,.2,.6,.9,.55,.45,.95],
 }
 
-def make_budgets(path="../scriptures-json/book-of-mormon.json"):
+def make_budgets(path="../scriptures-json/book-of-mormon.json", W=W):
     d = json.load(open(path))
     chaps = []
     for b in d["books"]:
