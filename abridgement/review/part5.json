@@ -1,0 +1,17 @@
+[
+ {"why": "18:5 says the multitude had eaten, but 18:3 only shows the disciples eating; 18:4 (they give it to the multitude) is missing. 18:19 is redundant with 18:20",
+  "keep": ["3 Nephi 18:4"], "drop": ["3 Nephi 18:19"]},
+ {"why": "18:32 'Nevertheless, ye shall not cast him out' follows 'then shall ye receive him' and makes no sense; 18:31 (the unrepentant man) is missing. 18:35 repeats 18:27",
+  "keep": ["3 Nephi 18:31"], "drop": ["3 Nephi 18:35"]},
+ {"why": "21:7 'thy seed' and 21:10 'my servant' point at nothing after the sign is announced in 21:1, and 21:22 'But if they will repent' has no clear 'they'; add a bridge, and restore 21:14 (woe to the Gentiles unless they repent) in place of 21:25, which repeats 20:22",
+  "keep": ["3 Nephi 21:14"], "drop": ["3 Nephi 21:25"],
+  "bridges": {"3 Nephi 21:7": "The sign: the Father will bring these teachings, through a servant he protects, to Gentiles set up free in this land, and from them to the Nephites' descendants."}},
+ {"why": "27:5 'Have they not read the scriptures' jumps from the disciples speaking in 27:3 to Jesus speaking, with no signal; 27:4 is missing. 27:29 repeats 27:28",
+  "keep": ["3 Nephi 27:4"], "drop": ["3 Nephi 27:29"]},
+ {"why": "Mormon 2:17 names 'the city of Jashon' with no introduction; 2:16 (the Nephites flee to Jashon) is missing. 2:18, about which plates got the full account, is dull",
+  "keep": ["Mormon 2:16"], "drop": ["Mormon 2:18"]},
+ {"why": "Mormon 9:36 'these things which we have desired concerning our brethren' refers to nothing; 9:35 is missing. 9:30 overlaps 9:31 and Moroni 10:27",
+  "keep": ["Mormon 9:35"], "drop": ["Mormon 9:30"]},
+ {"why": "Ether 8:22 jumps with no signal from Akish's oath to Moroni's warning to nations",
+  "bridges": {"Ether 8:22": "Moroni breaks off to warn that such oath-bound secret combinations are found among all peoples, and they destroyed both the Jaredites and the Nephites."}}
+]

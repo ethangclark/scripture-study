@@ -1,0 +1,20 @@
+[
+ {"why": "Jacob 4:4 'that they may know' has no antecedent; 4:3 introduces the children and brethren the plates are written for",
+  "keep": ["Jacob 4:3"], "drop": ["Jacob 4:7"]},
+ {"why": "Jacob 5:20 goes to 'whither the master had hid the natural branches', but the hiding was never shown; 5:62 merely repeats 5:61 and 5:71",
+  "keep": ["Jacob 5:14"], "drop": ["Jacob 5:62"]},
+ {"why": "Mosiah 3:24 'They shall stand as a bright testimony' points at nothing; 3:23 supplies 'the words' it refers to",
+  "keep": ["Mosiah 3:23"], "drop": ["Mosiah 3:21"]},
+ {"why": "Mosiah 9:6 'I went in unto the king' names a king the reader has not met, and skips the arrival in the land",
+  "bridges": {"Mosiah 9:6": "After long wandering, Zeniff's group camps near the land of Nephi, and Zeniff goes into the city to meet the Lamanite king."}},
+ {"why": "Bridge says Abinadi recites 'the rest' of the Ten Commandments, but the reader never saw him begin",
+  "bridges": {"Mosiah 13:27": "Abinadi reads the priests the Ten Commandments and charges them with neither keeping nor teaching them."}},
+ {"why": "Mosiah 20:11 has Limhi's people driving the Lamanites back, but no attack was ever shown",
+  "bridges": {"Mosiah 20:11": "The Lamanite king leads an army against Limhi's people. Limhi sees it from his tower, and his people ambush the Lamanites from the fields and forests."}},
+ {"why": "Existing bridge before 20:15 repeats 20:11 ('outnumbered men drive the Lamanites off'); tightened",
+  "bridges": {"Mosiah 20:15": "The Lamanites flee, leaving their wounded king among the dead. Limhi spares him and asks why he broke his oath."}},
+ {"why": "Mosiah 20:24 has 'the king was pacified' with no sign that Limhi ever told him who stole the daughters",
+  "bridges": {"Mosiah 20:24": "Gideon urges Limhi to calm the Lamanite king before his army attacks again, and Limhi tells the king about Noah's runaway priests."}},
+ {"why": "Alma 3:18 says the Amlicites were 'fulfilling the words of God' and that 'the curse' fell on them, but neither the prophecy nor the curse was shown",
+  "bridges": {"Alma 3:18": "Mormon explains that God had set a mark on the Lamanites and promised to mark anyone who fought against Nephi's descendants."}}
+]
