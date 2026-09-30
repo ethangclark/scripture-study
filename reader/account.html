@@ -7,9 +7,9 @@
   <p id="account-current" class="account-name" hidden>Bookmarks for <strong id="account-name"></strong> <button type="button" id="logout">Log out</button></p>
   <form id="login-form">
     <label for="bookmark-name">Your bookmark name
-      <input id="bookmark-name" name="username" autocomplete="username" autocapitalize="none" spellcheck="false" required aria-describedby="account-status">
+      <input id="bookmark-name" name="username" disabled autocomplete="username" autocapitalize="none" spellcheck="false" required aria-describedby="account-status">
     </label>
-    <button id="login-submit" type="submit">Load my bookmarks</button>
+    <button id="login-submit" type="submit" disabled>Load my bookmarks</button>
   </form>
   <section id="local-import" hidden aria-label="Save local bookmarks online">
     <p>You have <strong id="local-count"></strong> bookmarks saved in this browser. Add them to <strong id="import-name"></strong> to keep them across devices.</p>
