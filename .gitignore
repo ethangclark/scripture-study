@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+.worker-build/
+worker/catalog.json
+.dev.vars
+.env*
+*.log
+__pycache__/

@@ -149,6 +149,16 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   main { animation: rise 0.25s ease-out; }
   @keyframes rise { from { transform: translateY(4px); } to { transform: none; } }
 }
+.account { max-width: 72rem; margin: 0 auto; padding: .8rem 16px; font-family: var(--ui); font-size: .85rem; border-bottom: 1px solid var(--rule); }
+.account summary { cursor: pointer; color: var(--brass); }
+.account p { max-width: 65ch; line-height: 1.5; }
+.account form { display: flex; gap: .6rem; flex-wrap: wrap; align-items: end; margin: 1rem 0; }
+.account label { display: grid; gap: .4rem; flex: 1 1 15rem; max-width: 28rem; }
+.account input { box-sizing: border-box; width: 100%; border: 1px solid var(--rule); border-radius: 4px; padding: .7rem; background: var(--paper); color: inherit; font: inherit; }
+.account button { padding: .7rem 1rem; border: 1px solid var(--rule); border-radius: 4px; background: transparent; color: inherit; cursor: pointer; font: inherit; }
+.account button:disabled { opacity: .5; cursor: wait; }
+.account-status { color: var(--muted); margin: .4rem 0; }
+.account-name { overflow-wrap: anywhere; }
 </style>
 
 <header class="bar">
@@ -166,6 +176,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
     <button class="icon-btn" id="size" type="button" aria-label="Text size">Aa</button>
   </div>
 </header>
+__ACCOUNT__
 <main id="main"></main>
 <div class="toast" id="toast" role="status" hidden><span id="toast-t"></span><button type="button" id="toast-u">Undo</button></div>
 
@@ -238,22 +249,32 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   }
 
   // Bookmarks: {b, c, v, t, ref, slug}; ref and slug let the site's library page list them.
-  let marks = store.get("bookmarks", []).filter((m) => BOOKS[m.b] && BOOKS[m.b].c[m.c] && BOOKS[m.b].c[m.c][m.v]);
+  let marks = [], markBusy = false, markOwner = null;
   const refLabel = (b, c, v) => BOOKS[b].n + " " + (c + 1) + ":" + (v + 1);
   const markIndex = (b, c, v) => marks.findIndex((m) => m.b === b && m.c === c && m.v === v);
-  function saveMarks() { store.set("bookmarks", marks); $("bm-n").textContent = marks.length; }
-  function toggleMark(b, c, v) {
-    const i = markIndex(b, c, v), ref = refLabel(b, c, v);
-    if (i >= 0) {
-      const old = marks.splice(i, 1)[0];
-      toast("Removed " + ref, () => { marks.splice(i, 0, old); saveMarks(); render(false); });
-    } else {
-      marks.push({ b, c, v, t: Date.now(), ref, slug: slug(b, c) + "." + (v + 1) });
-      toast("Bookmarked " + ref, () => { marks.splice(markIndex(b, c, v), 1); saveMarks(); render(false); });
+  function saveMarks() { $("bm-n").textContent = marks.length; }
+  function syncMarks() {
+    if (markOwner !== ScriptureAccount.username) {
+      $("toast").hidden = true; toastUndo = null;
+      markOwner = ScriptureAccount.username;
     }
-    saveMarks();
-    render(false);
+    marks = ScriptureAccount.bookmarks.filter(m => m.volume === "__VOLUME__");
+    saveMarks(); render(false);
   }
+  window.addEventListener("bookmarkschange", syncMarks);
+  ScriptureAccount.ready.then(syncMarks);
+  async function changeMark(b, c, v, removing, offerUndo = true) {
+    if (!ScriptureAccount.username) { ScriptureAccount.prompt(); return; }
+    if (markBusy) return;
+    markBusy = true;
+    try {
+      await ScriptureAccount.change({ volume: "__VOLUME__", b, c, v }, removing);
+      toast((removing ? "Removed " : "Bookmarked ") + refLabel(b, c, v),
+        offerUndo ? () => changeMark(b, c, v, !removing, false) : null);
+    } catch (error) { toast(error.message); }
+    finally { markBusy = false; }
+  }
+  function toggleMark(b, c, v) { return changeMark(b, c, v, markIndex(b, c, v) >= 0); }
   function goVerse(b, c, v) {
     if (mode === "abr" && !BOOKS[b].c[c][v][1]) {
       setMode("full", true);
@@ -268,7 +289,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   }
   function bookmarks() {
     let h = '<section class="bookmarks"><p class="eyebrow">__EYEBROW__</p><h1 class="bm-h">Bookmarks</h1>';
-    if (!marks.length) return h + '<p class="empty">Tap a verse number to bookmark that verse. Your bookmarks are saved in this browser.</p></section>';
+    if (!marks.length) return h + '<p class="empty">Tap a verse number to bookmark that verse. Log in with a bookmark name to save and load your bookmarks on any device.</p></section>';
     h += '<ul class="bms">';
     marks.slice().sort((x, y) => y.t - x.t).forEach((m) => {
       const v = BOOKS[m.b].c[m.c][m.v], txt = v[0].length > 140 ? v[0].slice(0, 137) + "…" : v[0];
@@ -276,7 +297,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
         (v[1] ? "" : '<span class="tag">Cut from the abridgement</span>') + '<span class="x">' + esc(txt) + "</span></button>" +
         '<button type="button" class="del" data-del="' + m.b + "." + m.c + "." + m.v + '" aria-label="Remove ' + esc(m.ref) + '">Remove</button></li>';
     });
-    return h + '</ul><p class="fine">Saved in this browser only.</p></section>';
+    return h + '</ul><p class="fine">Saved online to your bookmark name. Anyone using the same name can view and change these bookmarks.</p></section>';
   }
   let toastTimer = 0, toastUndo = null;
   function toast(text, undo) {
@@ -397,7 +418,7 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   $("m-full").addEventListener("click", () => setMode("full"));
   $("size").addEventListener("click", () => { size = (size + 1) % SIZES.length; store.set("size", size); render(false); });
   document.addEventListener("keydown", (e) => {
-    if (!view || view.bm || e.target.closest("select") || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (!view || view.bm || e.target.closest("select, input, textarea, button") || e.metaKey || e.ctrlKey || e.altKey) return;
     const s = e.key === "ArrowRight" ? step(view.b, view.c, 1) : e.key === "ArrowLeft" ? step(view.b, view.c, -1) : null;
     if (s) go(s[0], s[1]);
   });
