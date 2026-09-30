@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "scripture-study",
+  "account_id": "98c5fdd8a3af5f0a11edbeeb43194ce3",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-09-30",
+  "workers_dev": true,
+  "assets": {
+    "directory": "reader/_site",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "scripture-study",
+    "database_id": "dbae5803-6fb8-42e4-b67a-d01d0db8ae7f",
+    "migrations_dir": "migrations"
+  }],
+  "triggers": { "crons": ["17 * * * *"] }
+}

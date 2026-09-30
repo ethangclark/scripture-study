@@ -3,7 +3,7 @@
 Usage:
   python3 build.py [bom|ot]   -> writes <vol>.html for publishing as an Artifact
                                  (bom also writes index.html)
-  python3 build.py site       -> writes _site/ for GitHub Pages: a landing page
+  python3 build.py site       -> writes _site/ for Cloudflare Workers: a landing page
                                  plus bom/ and ot/ readers
 """
 import json
@@ -56,7 +56,7 @@ def render(vol, library=""):
     data = json.dumps(load(vol), ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     html = open("template.html", encoding="utf-8").read()
     for k, v in {"__NAME__": cfg["name"], "__EYEBROW__": cfg["eyebrow"], "__SOURCE__": cfg["source"],
-                 "__KEY__": vol + "-abr", "__LIBRARY__": library, "__DATA__": data}.items():
+                 "__KEY__": vol + "-abr", "__VOLUME__": vol, "__ACCOUNT__": '<script src="/catalog.js"></script><script src="/account.js"></script>' , "__LIBRARY__": library, "__DATA__": data}.items():
         html = html.replace(k, v)
     return html
 
@@ -81,25 +81,25 @@ def standalone(html):
             + body + "\n</body>\n</html>\n")
 
 
-# The readers save bookmarks under "<vol>-abr:bookmarks"; on the site they share
-# one origin, so the library page can list them all.
+# The library and readers use the same authenticated bookmark service.
 LIBRARY_BOOKMARKS_JS = """<script>
-(function () {
-  var vols = [["bom", "Book of Mormon"], ["ot", "Old Testament"]], items = [];
-  vols.forEach(function (p) {
-    try { (JSON.parse(localStorage.getItem(p[0] + "-abr:bookmarks")) || []).forEach(function (m) { if (m.ref && m.slug) items.push([p, m]); }); } catch (e) {}
+function syncLibraryBookmarks() {
+  const names = { bom: "Book of Mormon", ot: "Old Testament" };
+  const ul = document.getElementById("libbm-l");
+  ul.replaceChildren();
+  ScriptureAccount.bookmarks.forEach(mark => {
+    const li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), m = document.createElement("span");
+    a.className = "vol"; a.href = mark.volume + "/#" + mark.slug;
+    t.className = "t"; t.textContent = mark.ref; m.className = "m"; m.textContent = names[mark.volume];
+    a.append(t, m); li.append(a); ul.append(li);
   });
-  if (!items.length) return;
-  items.sort(function (x, y) { return y[1].t - x[1].t; });
-  var ul = document.getElementById("libbm-l");
-  items.forEach(function (it) {
-    var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), m = document.createElement("span");
-    a.className = "vol"; a.href = it[0][0] + "/#" + it[1].slug;
-    t.className = "t"; t.textContent = it[1].ref; m.className = "m"; m.textContent = it[0][1];
-    a.appendChild(t); a.appendChild(m); li.appendChild(a); ul.appendChild(li);
-  });
-  document.getElementById("libbm").hidden = false;
-})();
+  const state = document.getElementById("libbm-status");
+  state.textContent = ScriptureAccount.message || (!ScriptureAccount.loaded ? "Loading bookmarks…" : ScriptureAccount.username ? "Saved online for " + ScriptureAccount.username + "." : "Saved only in this browser.");
+  document.getElementById("libbm-empty").hidden = ScriptureAccount.bookmarks.length > 0;
+  document.getElementById("libbm-login").textContent = ScriptureAccount.username ? "Bookmark login settings" : "Log in to save across devices";
+}
+window.addEventListener("bookmarkschange", syncLibraryBookmarks);
+ScriptureAccount.ready.then(syncLibraryBookmarks);
 </script>"""
 
 
@@ -131,14 +131,22 @@ def site():
 .libbm h2 { font-family: var(--ui); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--brass); font-weight: 500; margin: 2.5rem 0 0.6rem; }
 .libbm .vol .t { font-size: 1.2rem; }
 """
-    body = ('<main class="lib"><p class="eyebrow">Scripture study</p><h1>Scriptures, abridged</h1>'
+    body = ('<script src="/catalog.js"></script><script src="/account.js"></script>' + '<main class="lib"><p class="eyebrow">Scripture study</p><h1>Scriptures, abridged</h1>'
             '<p class="lede">Each volume keeps half its verses, chosen to keep the story moving and the teaching whole, '
             'with short notes wherever a cut would leave you lost. Every reader can switch to the full text.</p>'
-            f'<ul>{rows}</ul><section class="libbm" id="libbm" hidden><h2>Bookmarks</h2><ul id="libbm-l"></ul></section>'
+            f'<ul>{rows}</ul><section class="libbm" id="libbm"><h2>Bookmarks</h2><p id="libbm-status" class="fine"></p><a id="libbm-login" href="/login/?return=/%23libbm">Log in to save across devices</a><p id="libbm-empty" class="fine">Tap a verse number while reading to save a bookmark.</p><ul id="libbm-l"></ul></section>'
             '<p class="fine">Text via the public-domain scriptures-json project. '
             'An editorial abridgement, not an official edition.</p></main>' + LIBRARY_BOOKMARKS_JS)
     open("_site/index.html", "w", encoding="utf-8").write(standalone(head + extra + "</style>" + body))
-    open("_site/.nojekyll", "w").write("")
+    os.makedirs("_site/login", exist_ok=True)
+    login_head = head.replace("Scriptures, Abridged", "Bookmark login · Scripture study")
+    open("_site/login/index.html", "w", encoding="utf-8").write(standalone(login_head + "</style>" + open("account.html", encoding="utf-8").read()))
+    shutil.copy("account.js", "_site/account.js")
+    shutil.copy("_headers", "_site/_headers")
+    catalogue = {vol: [{"name": b["n"], "slug": b["s"], "chapters": [len(c) for c in b["c"]]} for b in load(vol)] for vol in VOLUMES}
+    os.makedirs("../worker", exist_ok=True)
+    open("../worker/catalog.json", "w", encoding="utf-8").write(json.dumps(catalogue, ensure_ascii=False, separators=(",", ":")))
+    open("_site/catalog.js", "w", encoding="utf-8").write("window.ScriptureCatalog = " + json.dumps(catalogue, ensure_ascii=False, separators=(",", ":")) + ";")
     print("wrote _site/:", sorted(os.listdir("_site")))
 
 
