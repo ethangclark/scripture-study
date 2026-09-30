@@ -11,8 +11,9 @@ name can read and change its bookmarks.** Names are case-sensitive, trimmed, and
 Unicode NFC-normalized; they must contain 1–64 visible characters (at most 256 UTF-8
 bytes). Do not use personal information or a password used elsewhere.
 
-Sessions last 30 days and use random, opaque `HttpOnly`, `Secure`, `SameSite=Strict`
-cookies. Logging out revokes that session and keeps the bookmarks. Each IP address
+Sessions have no server-side expiration and use random, opaque `HttpOnly`, `Secure`, `SameSite=Strict`
+cookies, renewed on visits. Browsers may still clear cookies; entering the same name
+restores its bookmarks. Logging out revokes that session and keeps the bookmarks. Each IP address
 may submit at most 100 logins in any rolling seven days, including malformed
 same-origin submissions. Requests after the limit return HTTP 429 and `Retry-After`.
 Session restoration, reading, and bookmark writes do not consume logins. Shared
@@ -43,8 +44,7 @@ npm run deploy
 
 Deploy builds both readers and the compact server-side verse catalogue, applies
 pending D1 migrations, and uploads the Worker and static assets together. Redeploys
-preserve the database. An hourly scheduled handler deletes expired login attempts
-and sessions; bookmarks remain until explicitly removed.
+preserve the database. An hourly scheduled handler deletes expired login attempts; bookmarks remain until explicitly removed.
 
 To deploy to another account, change `account_id`, run
 `npx wrangler d1 create scripture-study`, and copy its database ID to
@@ -61,7 +61,7 @@ node tests/smoke.js https://scripture-study.scripture-study.workers.dev
 `npm run dev` builds the reader, migrates a separate local D1 database, and starts
 Wrangler at localhost. `npm test` runs integration tests against the Workers runtime
 and actual local D1 SQL, including concurrent login/cap enforcement, cross-session
-persistence, identity isolation, invalid payloads, CSRF, and session expiry.
+persistence, identity isolation, invalid payloads, CSRF, and persistent-session migration/renewal.
 The optional deployed smoke test consumes three login submissions, uses randomly
 named test collections, and removes its test bookmarks and sessions afterward.
 

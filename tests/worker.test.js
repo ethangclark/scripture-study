@@ -1,5 +1,6 @@
 import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 import { Miniflare, convertV4MiniflareOptions } from 'miniflare';
 
@@ -13,6 +14,11 @@ before(async () => {
   db = await mf.getD1Database('DB');
   const schema = await readFile('migrations/0001_bookmarks.sql', 'utf8');
   await db.batch(schema.split(';').map(s => s.trim()).filter(Boolean).map(s => db.prepare(s)));
+  // Upgrade an existing session whose old 30-day deadline has passed.
+  await db.prepare('INSERT INTO sessions VALUES (?, ?, ?, ?)')
+    .bind(createHash('sha256').update('b'.repeat(64)).digest('hex'), 'legacy-session', 'legacy-owner', 1).run();
+  const migration = await readFile('migrations/0002_persistent_sessions.sql', 'utf8');
+  await db.batch(migration.split(';').map(s => s.trim()).filter(Boolean).map(s => db.prepare(s)));
 });
 after(async () => { await mf?.dispose(); });
 function request(path, { method = 'GET', data, cookie, ip = '192.0.2.1', headers = {}, raw } = {}) {
@@ -46,12 +52,17 @@ test('bookmark persistence across sessions, names isolated, logout revokes sessi
   assert.equal((await request('/api/bookmarks', { method: 'DELETE', data: mark, cookie: second })).status, 200);
   assert.equal((await bookmarks(await login('persist-test'))).length, 0);
 });
-test('cookies have required protections; expired and forged sessions cannot write', async () => {
+test('sessions survive expiry removal, cookies renew, and forged sessions cannot write', async () => {
+  const restored = await request('/api/session', { cookie: '__Host-scripture-session=' + 'b'.repeat(64) });
+  assert.equal((await restored.json()).username, 'legacy-session');
+  assert.ok(restored.headers.get('Set-Cookie').includes('Max-Age=34560000'));
   const r = await request('/api/login', { method: 'POST', data: { username: 'expiry-test' }, ip: '198.51.100.200' });
-  for (const flag of ['__Host-', 'HttpOnly', 'Secure', 'SameSite=Strict', 'Path=/', 'Max-Age=2592000']) assert.ok(r.headers.get('Set-Cookie').includes(flag));
+  for (const flag of ['__Host-', 'HttpOnly', 'Secure', 'SameSite=Strict', 'Path=/', 'Max-Age=34560000']) assert.ok(r.headers.get('Set-Cookie').includes(flag));
   const cookie = r.headers.get('Set-Cookie').split(';')[0];
-  await db.prepare('UPDATE sessions SET expires_at = 0 WHERE username = ?').bind('expiry-test').run();
-  for (const invalid of [cookie, '__Host-scripture-session=' + 'a'.repeat(64), undefined]) {
+  const renewed = await request('/api/session', { cookie });
+  assert.equal(renewed.headers.get('Set-Cookie').split(';')[0], cookie);
+  assert.equal((await renewed.json()).username, 'expiry-test');
+  for (const invalid of ['__Host-scripture-session=' + 'a'.repeat(64), undefined]) {
     assert.equal((await request('/api/bookmarks', { method: 'PUT', cookie: invalid, data: mark })).status, 401);
   }
 });

@@ -1,7 +1,8 @@
 import catalog from './catalog.json';
 
 const WEEK = 7 * 24 * 60 * 60 * 1000;
-const SESSION = 30 * 24 * 60 * 60 * 1000;
+// Browsers cap persistent cookies; renew on visits without expiring the server session.
+const COOKIE_MAX_AGE = 400 * 24 * 60 * 60;
 const COOKIE = '__Host-scripture-session';
 const MAX_BOOKMARKS = 1000;
 const encoder = new TextEncoder();
@@ -18,7 +19,7 @@ async function hash(value) {
   const bytes = await crypto.subtle.digest('SHA-256', encoder.encode(value));
   return Array.from(new Uint8Array(bytes), n => n.toString(16).padStart(2, '0')).join('');
 }
-function cookie(token, age = SESSION / 1000) {
+function cookie(token, age = COOKIE_MAX_AGE) {
   return `${COOKIE}=${token}; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=${age}`;
 }
 async function body(request) {
@@ -70,8 +71,9 @@ function describe(mark) {
 async function session(request, db) {
   const token = request.headers.get('Cookie')?.split(';').map(x => x.trim()).find(x => x.startsWith(COOKIE + '='))?.slice(COOKIE.length + 1);
   if (!token || !/^[a-f0-9]{64}$/.test(token)) return null;
-  return db.prepare('SELECT token_hash, username, owner FROM sessions WHERE token_hash = ? AND expires_at > ?')
-    .bind(await hash(token), Date.now()).first();
+  const row = await db.prepare('SELECT token_hash, username, owner FROM sessions WHERE token_hash = ?')
+    .bind(await hash(token)).first();
+  return row ? { ...row, token } : null;
 }
 async function login(request, db) {
   // CF-Connecting-IP is supplied by Cloudflare, never trust X-Forwarded-For.
@@ -98,8 +100,8 @@ async function login(request, db) {
   const token = Array.from(crypto.getRandomValues(new Uint8Array(32)), n => n.toString(16).padStart(2, '0')).join('');
   const owner = await hash('username:' + username);
   const previous = await session(request, db);
-  const statements = [db.prepare('INSERT INTO sessions(token_hash, username, owner, expires_at) VALUES (?, ?, ?, ?)')
-    .bind(await hash(token), username, owner, now + SESSION)];
+  const statements = [db.prepare('INSERT INTO sessions(token_hash, username, owner) VALUES (?, ?, ?)')
+    .bind(await hash(token), username, owner)];
   if (previous) statements.push(db.prepare('DELETE FROM sessions WHERE token_hash = ?').bind(previous.token_hash));
   await db.batch(statements);
   return json({ username }, 200, { 'Set-Cookie': cookie(token) });
@@ -114,7 +116,9 @@ async function api(request, env) {
   }
   if (path === '/api/login' && method === 'POST') return login(request, env.DB);
   const current = await session(request, env.DB);
-  if (path === '/api/session' && method === 'GET') return json({ username: current?.username ?? null });
+  if (path === '/api/session' && method === 'GET') {
+    return json({ username: current?.username ?? null }, 200, current ? { 'Set-Cookie': cookie(current.token) } : {});
+  }
   if (path === '/api/logout' && method === 'POST') {
     if (current) await env.DB.prepare('DELETE FROM sessions WHERE token_hash = ?').bind(current.token_hash).run();
     return json({ ok: true }, 200, { 'Set-Cookie': cookie('', 0) });
@@ -157,7 +161,6 @@ export default {
     const now = Date.now();
     await env.DB.batch([
       env.DB.prepare('DELETE FROM login_attempts WHERE attempted_at <= ?').bind(now - WEEK),
-      env.DB.prepare('DELETE FROM sessions WHERE expires_at <= ?').bind(now),
     ]);
   },
 };
