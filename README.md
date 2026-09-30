@@ -18,7 +18,11 @@ cookies, renewed on visits. Browsers may still clear cookies; entering the same 
 restores its bookmarks. Logging out revokes that session and keeps the bookmarks. Each IP address
 may submit at most 100 logins in any rolling seven days, including malformed
 same-origin submissions. Requests after the limit return HTTP 429 and `Retry-After`.
-Session restoration, reading, and bookmark writes do not consume logins. Shared
+Session restoration, reading, and bookmark writes do not consume logins.
+The first click, tap, keystroke, input, or scroll after one minute of inactivity
+refreshes the session and bookmarks. Returning to the tab or reconnecting also
+refreshes them. Bookmark changes wait for an in-flight refresh; active interaction
+does not continuously poll the server. Shared
 networks share the IP allowance; this is an IP limit, not a per-person limit.
 
 ## Cloudflare deployment

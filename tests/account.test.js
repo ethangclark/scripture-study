@@ -12,15 +12,17 @@ class Element extends EventTarget {
   focus() {}
   remove() { this.removed = true; }
 }
-async function browser({ storage = new Map(), username = null, loginPage = false, failSave = false, failNetwork = false, failImportAt = 0, returnTo = '' } = {}) {
+async function browser({ storage = new Map(), username = null, loginPage = false, failSave = false, failNetwork = false, failImportAt = 0, returnTo = '', beforeFetch } = {}) {
   const window = new EventTarget();
   window.ScriptureCatalog = catalog;
   const elements = new Map();
   if (loginPage) for (const id of ['account-current', 'account-name', 'login-submit', 'logout', 'bookmark-name', 'login-form', 'account-status', 'import-local', 'local-import', 'local-count', 'import-name', 'back-to-bookmarks']) elements.set(id, new Element());
   const body = new Element(), calls = [], online = [];
-  let puts = 0;
+  let puts = 0, now = Date.now();
+  class ClockDate extends Date { static now() { return now; } }
   const fetch = async (path, options = {}) => {
     calls.push(path);
+    if (beforeFetch) await beforeFetch(path, options);
     if (failNetwork) throw new Error('offline');
     if (path === '/api/session') return Response.json({ username });
     if (path === '/api/login') { username = JSON.parse(options.body).username; return Response.json({ username }); }
@@ -36,15 +38,18 @@ async function browser({ storage = new Map(), username = null, loginPage = false
     getItem: key => storage.get(key) ?? null,
     setItem(key, value) { if (failSave) throw new Error('quota'); storage.set(key, value); },
   };
-  vm.runInNewContext(source, { window, document: { body, getElementById: id => elements.get(id) ?? null, createElement: () => new Element() }, localStorage, fetch, Event, AbortSignal, URL, URLSearchParams, location: { pathname: loginPage ? '/login/' : '/bom/', hash: '#bookmarks', search: returnTo, origin: 'https://scripture.test' } });
+  const document = new EventTarget();
+  Object.assign(document, { body, visibilityState: 'visible', getElementById: id => elements.get(id) ?? null, createElement: () => new Element() });
+  vm.runInNewContext(source, { window, document, localStorage, fetch, Event, AbortSignal, URL, URLSearchParams, queueMicrotask, Date: ClockDate, location: { pathname: loginPage ? '/login/' : '/bom/', hash: '#bookmarks', search: returnTo, origin: 'https://scripture.test' } });
   const account = window.ScriptureAccount;
   await account.ready;
   const click = async (id, event = 'click') => {
     elements.get(id).dispatchEvent(new Event(event, { cancelable: true }));
+    await new Promise(resolve => setImmediate(resolve));
     for (let i = 0; i < 50 && elements.get('login-submit').disabled; i++) await new Promise(resolve => setImmediate(resolve));
     assert.equal(elements.get('login-submit').disabled, false);
   };
-  return { account, body, elements, calls, online, storage, click };
+  return { account, body, elements, calls, online, storage, click, window, document, advance(ms) { now += ms; }, setUsername(value) { username = value; } };
 }
 test('signed-out bookmarks persist locally and the notice is shown once across visits', async () => {
   const first = await browser();
@@ -123,4 +128,63 @@ test('only the dedicated login page contains login controls', async () => {
   const login = await readFile('reader/_site/login/index.html', 'utf8');
   assert.ok(login.includes('id="login-form"'));
   assert.ok(login.includes('id="import-local"'));
+});
+
+const settle = async () => { for (let i = 0; i < 10; i++) await new Promise(resolve => setImmediate(resolve)); };
+test('first interaction after inactivity resyncs; active interaction bursts do not poll', async () => {
+  for (const type of ['click', 'keydown', 'input', 'wheel', 'scroll']) {
+    const b = await browser({ username: 'idle-test' });
+    b.online.push({ ...mark, t: 1 });
+    b.advance(60_000);
+    b.window.dispatchEvent(new Event(type));
+    b.window.dispatchEvent(new Event(type));
+    await settle();
+    assert.equal(b.account.bookmarks.length, 1, type);
+    assert.equal(b.calls.filter(p => p === '/api/session').length, 2, type);
+    b.advance(30_000); b.window.dispatchEvent(new Event(type));
+    b.advance(30_000); b.window.dispatchEvent(new Event(type));
+    await settle();
+    assert.equal(b.calls.filter(p => p === '/api/session').length, 2, type);
+    assert.ok(!b.calls.includes('/api/login'));
+  }
+});
+test('bookmark write waits for a pending idle refresh and uses the restored login', async () => {
+  let block = false, release;
+  const gate = new Promise(resolve => { release = resolve; });
+  const b = await browser({ beforeFetch: async path => { if (block && path === '/api/session') await gate; } });
+  b.setUsername('logged-in-elsewhere'); block = true; b.advance(60_000);
+  b.window.dispatchEvent(new Event('click'));
+  const writing = b.account.change(mark, false);
+  await settle();
+  assert.equal(b.online.length, 0);
+  assert.equal(b.storage.has('bom-abr:bookmarks'), false);
+  release(); await writing;
+  assert.equal(b.online.length, 1);
+  assert.equal(b.account.username, 'logged-in-elsewhere');
+  assert.equal(b.calls.filter(p => p === '/api/session').length, 2);
+});
+test('visibility and reconnect restore state without disabling the login input', async () => {
+  let block = false, release;
+  const gate = new Promise(resolve => { release = resolve; });
+  const b = await browser({ loginPage: true, beforeFetch: async () => { if (block) await gate; } });
+  b.elements.get('bookmark-name').value = 'partially-typed';
+  block = true; b.advance(60_000); b.window.dispatchEvent(new Event('keydown'));
+  assert.equal(b.elements.get('bookmark-name').disabled, false);
+  b.document.dispatchEvent(new Event('visibilitychange'));
+  b.window.dispatchEvent(new Event('online'));
+  release(); await settle();
+  assert.equal(b.elements.get('bookmark-name').value, 'partially-typed');
+  assert.equal(b.calls.filter(p => p === '/api/session').length, 2);
+});
+test('a refresh requested during a save runs afterward without overwriting the save', async () => {
+  let release;
+  const gate = new Promise(resolve => { release = resolve; });
+  const b = await browser({ username: 'saving', beforeFetch: async (path, options) => { if (options.method === 'PUT') await gate; } });
+  const writing = b.account.change(mark, false);
+  await settle();
+  b.advance(60_000); b.window.dispatchEvent(new Event('scroll'));
+  assert.equal(b.calls.filter(p => p === '/api/session').length, 1);
+  release(); await writing; await settle();
+  assert.equal(b.account.bookmarks.length, 1);
+  assert.equal(b.calls.filter(p => p === '/api/session').length, 2);
 });

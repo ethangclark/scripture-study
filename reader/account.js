@@ -2,6 +2,8 @@
   const $ = id => document.getElementById(id);
   const catalog = window.ScriptureCatalog;
   const NOTICE_KEY = 'scripture:local-bookmark-notice';
+  const IDLE_MS = 60_000;
+  let lastActivity = Date.now(), refreshTask = null, refreshQueued = false;
   let busy = false, noticed = false;
   const same = (a, b) => ['volume', 'b', 'c', 'v'].every(k => a[k] === b[k]);
   function describe(mark) {
@@ -52,8 +54,15 @@
   const account = window.ScriptureAccount = {
     username: null, bookmarks: readLocal(), loaded: false, message: '',
     loginURL,
-    async change(mark, removing) {
+    async ensureFresh() {
       await account.ready;
+      const idle = Date.now() - lastActivity >= IDLE_MS;
+      lastActivity = Date.now();
+      if (refreshTask) await refreshTask;
+      else if (idle) await refresh();
+    },
+    async change(mark, removing) {
+      await account.ensureFresh();
       if (busy) throw new Error('Please wait for the current bookmark request.');
       mark = describe(mark);
       if (!mark) throw new Error('Choose an existing scripture verse.');
@@ -79,6 +88,9 @@
   function setBusy(value) {
     busy = value;
     for (const id of ['login-submit', 'logout', 'bookmark-name', 'import-local']) if ($(id)) $(id).disabled = value;
+    if (!value && refreshQueued && !refreshTask) {
+      refreshQueued = false; queueMicrotask(refresh);
+    }
   }
   function notify() {
     if ($('account-current')) {
@@ -113,22 +125,36 @@
     }
     return result;
   }
-  async function refresh() {
-    if (busy) return;
-    setBusy(true);
-    try {
-      const session = await api('/api/session');
-      if (session.username !== account.username) account.bookmarks = [];
-      account.username = session.username;
-      account.bookmarks = account.username ? (await api('/api/bookmarks')).bookmarks : readLocal();
-      status('');
-    } catch (error) {
-      if (!account.username) account.bookmarks = readLocal();
-      status(error.message + (account.username ? '' : ' Showing bookmarks saved in this browser.'));
-    } finally { account.loaded = true; setBusy(false); notify(); }
+  function refresh() {
+    if (refreshTask) return refreshTask;
+    if (busy) { refreshQueued = true; return Promise.resolve(); }
+    // Background refresh must not disable a field the user has just started typing in.
+    refreshTask = (async () => {
+      try {
+        const session = await api('/api/session');
+        if (session.username !== account.username) account.bookmarks = [];
+        account.username = session.username;
+        account.bookmarks = account.username ? (await api('/api/bookmarks')).bookmarks : readLocal();
+        status('');
+      } catch (error) {
+        if (!account.username) account.bookmarks = readLocal();
+        status(error.message + (account.username ? '' : ' Showing bookmarks saved in this browser.'));
+      } finally { account.loaded = true; setBusy(false); notify(); }
+    })().finally(() => {
+      refreshTask = null;
+      if (refreshQueued) { refreshQueued = false; void refresh(); }
+    });
+    return refreshTask;
   }
+  function activity() {
+    const idle = Date.now() - lastActivity >= IDLE_MS;
+    lastActivity = Date.now();
+    if (idle) void refresh();
+  }
+  function resume() { lastActivity = Date.now(); void refresh(); }
   $('login-form')?.addEventListener('submit', async event => {
     event.preventDefault();
+    await account.ensureFresh();
     if (busy) return;
     setBusy(true); status('Loading bookmarks…');
     try {
@@ -142,6 +168,7 @@
     finally { setBusy(false); }
   });
   $('logout')?.addEventListener('click', async () => {
+    await account.ensureFresh();
     if (busy) return;
     setBusy(true);
     try {
@@ -152,6 +179,7 @@
     finally { setBusy(false); }
   });
   $('import-local')?.addEventListener('click', async () => {
+    await account.ensureFresh();
     if (busy || !account.username) return;
     setBusy(true);
     try {
@@ -175,8 +203,13 @@
       if (back.origin === location.origin && ['/bom/', '/ot/'].includes(back.pathname) && back.hash !== '#bookmarks') $('back-to-bookmarks').textContent = '← Back to reading';
     } catch { $('back-to-bookmarks').href = '/#libbm'; }
   }
-  window.addEventListener('focus', refresh);
-  window.addEventListener('pageshow', event => { if (event.persisted) refresh(); });
+  // Click includes mouse and touch taps; bubbling avoids changing targets before click handlers run.
+  for (const type of ['click', 'keydown', 'input', 'wheel']) window.addEventListener(type, activity, { passive: true });
+  window.addEventListener('scroll', activity, { passive: true, capture: true });
+  window.addEventListener('focus', resume);
+  window.addEventListener('pageshow', event => { if (event.persisted) resume(); });
+  window.addEventListener('online', resume);
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') resume(); });
   window.addEventListener('storage', event => {
     if (event.key?.endsWith('-abr:bookmarks')) {
       if (!account.username) account.bookmarks = readLocal();
