@@ -56,7 +56,7 @@ def render(vol, library=""):
     data = json.dumps(load(vol), ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     html = open("template.html", encoding="utf-8").read()
     for k, v in {"__NAME__": cfg["name"], "__EYEBROW__": cfg["eyebrow"], "__SOURCE__": cfg["source"],
-                 "__KEY__": vol + "-abr", "__VOLUME__": vol, "__ACCOUNT__": open("account.html", encoding="utf-8").read(), "__LIBRARY__": library, "__DATA__": data}.items():
+                 "__KEY__": vol + "-abr", "__VOLUME__": vol, "__ACCOUNT__": '<script src="/catalog.js"></script><script src="/account.js"></script>' , "__LIBRARY__": library, "__DATA__": data}.items():
         html = html.replace(k, v)
     return html
 
@@ -93,7 +93,10 @@ function syncLibraryBookmarks() {
     t.className = "t"; t.textContent = mark.ref; m.className = "m"; m.textContent = names[mark.volume];
     a.append(t, m); li.append(a); ul.append(li);
   });
-  document.getElementById("libbm").hidden = !ScriptureAccount.username;
+  const state = document.getElementById("libbm-status");
+  state.textContent = ScriptureAccount.message || (!ScriptureAccount.loaded ? "Loading bookmarks…" : ScriptureAccount.username ? "Saved online for " + ScriptureAccount.username + "." : "Saved only in this browser.");
+  document.getElementById("libbm-empty").hidden = ScriptureAccount.bookmarks.length > 0;
+  document.getElementById("libbm-login").textContent = ScriptureAccount.username ? "Bookmark login settings" : "Log in to save across devices";
 }
 window.addEventListener("bookmarkschange", syncLibraryBookmarks);
 ScriptureAccount.ready.then(syncLibraryBookmarks);
@@ -128,18 +131,22 @@ def site():
 .libbm h2 { font-family: var(--ui); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--brass); font-weight: 500; margin: 2.5rem 0 0.6rem; }
 .libbm .vol .t { font-size: 1.2rem; }
 """
-    body = (open("account.html", encoding="utf-8").read() + '<main class="lib"><p class="eyebrow">Scripture study</p><h1>Scriptures, abridged</h1>'
+    body = ('<script src="/catalog.js"></script><script src="/account.js"></script>' + '<main class="lib"><p class="eyebrow">Scripture study</p><h1>Scriptures, abridged</h1>'
             '<p class="lede">Each volume keeps half its verses, chosen to keep the story moving and the teaching whole, '
             'with short notes wherever a cut would leave you lost. Every reader can switch to the full text.</p>'
-            f'<ul>{rows}</ul><section class="libbm" id="libbm" hidden><h2>Bookmarks</h2><ul id="libbm-l"></ul></section>'
+            f'<ul>{rows}</ul><section class="libbm" id="libbm"><h2>Bookmarks</h2><p id="libbm-status" class="fine"></p><a id="libbm-login" href="/login/?return=/%23libbm">Log in to save across devices</a><p id="libbm-empty" class="fine">Tap a verse number while reading to save a bookmark.</p><ul id="libbm-l"></ul></section>'
             '<p class="fine">Text via the public-domain scriptures-json project. '
             'An editorial abridgement, not an official edition.</p></main>' + LIBRARY_BOOKMARKS_JS)
     open("_site/index.html", "w", encoding="utf-8").write(standalone(head + extra + "</style>" + body))
+    os.makedirs("_site/login", exist_ok=True)
+    login_head = head.replace("Scriptures, Abridged", "Bookmark login · Scripture study")
+    open("_site/login/index.html", "w", encoding="utf-8").write(standalone(login_head + "</style>" + open("account.html", encoding="utf-8").read()))
     shutil.copy("account.js", "_site/account.js")
     shutil.copy("_headers", "_site/_headers")
     catalogue = {vol: [{"name": b["n"], "slug": b["s"], "chapters": [len(c) for c in b["c"]]} for b in load(vol)] for vol in VOLUMES}
     os.makedirs("../worker", exist_ok=True)
     open("../worker/catalog.json", "w", encoding="utf-8").write(json.dumps(catalogue, ensure_ascii=False, separators=(",", ":")))
+    open("_site/catalog.js", "w", encoding="utf-8").write("window.ScriptureCatalog = " + json.dumps(catalogue, ensure_ascii=False, separators=(",", ":")) + ";")
     print("wrote _site/:", sorted(os.listdir("_site")))
 
 

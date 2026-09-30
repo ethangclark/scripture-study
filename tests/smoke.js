@@ -18,7 +18,7 @@ async function login(username) {
   return cookie;
 }
 try {
-  for (const path of ['/', '/bom/', '/ot/', '/account.js']) assert.equal((await request(path)).status, 200);
+  for (const path of ['/', '/bom/', '/ot/', '/login/', '/catalog.js', '/account.js']) assert.equal((await request(path)).status, 200);
   const first = await login(name);
   assert.equal((await request('/api/bookmarks', 'PUT', mark, first)).status, 200);
   assert.equal((await request('/api/logout', 'POST', undefined, first)).status, 200);

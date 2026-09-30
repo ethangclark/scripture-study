@@ -5,7 +5,9 @@ Read the abridged or full Book of Mormon and Old Testament at
 
 ## Bookmark names
 
-Choose any bookmark name to save verses across sessions and devices. There is no
+Visit **Bookmark login** from a bookmarks page to choose a name and save verses
+across sessions and devices. Signed-out readers can save bookmarks locally without
+logging in; a notice appears once per browser on the first local save. There is no
 password, identity verification, or account recovery. **Anyone entering the same
 name can read and change its bookmarks.** Names are case-sensitive, trimmed, and
 Unicode NFC-normalized; they must contain 1–64 visible characters (at most 256 UTF-8
@@ -83,7 +85,11 @@ tokens; session names are bounded strings and bookmark owners are hashed names.
 IP/name hashing does not make guessable names or addresses secret. The app does not
 log login names, IPs, cookies, or bookmark payloads.
 
-Reading preferences and the last chapter stay local to the browser. Bookmarks from
-the former browser-only reader are not automatically imported across origins; old
-local storage is left untouched. The supported online build is `npm run build`
+Reading preferences and the last chapter stay local to the browser. Local bookmarks
+use the original per-volume browser storage keys and are validated against the
+scripture catalogue. After login, the dedicated login page offers an explicit
+**Save local bookmarks online** action. Each bookmark is removed locally only after
+the server confirms it; partial failures preserve remaining local bookmarks.
+Logging out returns to the local collection without copying online bookmarks into
+it. Browser data from a different origin cannot be imported automatically. The supported online build is `npm run build`
 (`reader/_site`); serve it through the Worker so `/api/*` is available.

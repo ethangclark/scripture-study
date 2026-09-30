@@ -149,8 +149,11 @@ main { max-width: var(--measure); margin: 0 auto; padding-inline: 16px; padding-
   main { animation: rise 0.25s ease-out; }
   @keyframes rise { from { transform: translateY(4px); } to { transform: none; } }
 }
-.account { max-width: 72rem; margin: 0 auto; padding: .8rem 16px; font-family: var(--ui); font-size: .85rem; border-bottom: 1px solid var(--rule); }
-.account summary { cursor: pointer; color: var(--brass); }
+.account { max-width: var(--measure); margin: 0 auto; padding: 3rem 16px; font-family: var(--ui); font-size: 1rem; }
+.account h1 { font-family: var(--display); font-size: 2.6rem; line-height: 1.1; }
+a { color: var(--brass); }
+.local-notice { position: fixed; z-index: 100; bottom: 1rem; left: 50%; transform: translateX(-50%); width: min(36rem, calc(100% - 2rem)); background: var(--paper-2); border: 1px solid var(--rule); border-radius: 6px; padding: 1rem; box-shadow: 0 6px 24px #0003; font: 1rem/1.5 var(--ui); }
+.local-notice button { margin-left: 1rem; padding: .4rem .6rem; background: transparent; border: 1px solid var(--rule); border-radius: 4px; cursor: pointer; }
 .account p { max-width: 65ch; line-height: 1.5; }
 .account form { display: flex; gap: .6rem; flex-wrap: wrap; align-items: end; margin: 1rem 0; }
 .account label { display: grid; gap: .4rem; flex: 1 1 15rem; max-width: 28rem; }
@@ -264,17 +267,16 @@ __ACCOUNT__
   window.addEventListener("bookmarkschange", syncMarks);
   ScriptureAccount.ready.then(syncMarks);
   async function changeMark(b, c, v, removing, offerUndo = true) {
-    if (!ScriptureAccount.username) { ScriptureAccount.prompt(); return; }
     if (markBusy) return;
     markBusy = true;
     try {
-      await ScriptureAccount.change({ volume: "__VOLUME__", b, c, v }, removing);
-      toast((removing ? "Removed " : "Bookmarked ") + refLabel(b, c, v),
+      const result = await ScriptureAccount.change({ volume: "__VOLUME__", b, c, v }, removing);
+      if (!result.localNotice && !document.getElementById("local-notice")) toast((removing ? "Removed " : "Bookmarked ") + refLabel(b, c, v),
         offerUndo ? () => changeMark(b, c, v, !removing, false) : null);
     } catch (error) { toast(error.message); }
     finally { markBusy = false; }
   }
-  function toggleMark(b, c, v) { return changeMark(b, c, v, markIndex(b, c, v) >= 0); }
+  async function toggleMark(b, c, v) { await ScriptureAccount.ready; return changeMark(b, c, v, markIndex(b, c, v) >= 0); }
   function goVerse(b, c, v) {
     if (mode === "abr" && !BOOKS[b].c[c][v][1]) {
       setMode("full", true);
@@ -289,7 +291,10 @@ __ACCOUNT__
   }
   function bookmarks() {
     let h = '<section class="bookmarks"><p class="eyebrow">__EYEBROW__</p><h1 class="bm-h">Bookmarks</h1>';
-    if (!marks.length) return h + '<p class="empty">Tap a verse number to bookmark that verse. Log in with a bookmark name to save and load your bookmarks on any device.</p></section>';
+    const account = ScriptureAccount;
+    const note = account.message || (!account.loaded ? "Loading bookmarks…" : account.username ? "Saved online for " + account.username + "." : "Saved only in this browser.");
+    h += '<p class="fine">' + esc(note) + '</p><p class="fine"><a href="' + account.loginURL('/__VOLUME__/#bookmarks') + '">' + (account.username ? 'Bookmark login settings' : 'Log in to save across devices') + '</a></p>';
+    if (!marks.length) return h + '<p class="empty">Tap a verse number while reading to save a bookmark.</p></section>';
     h += '<ul class="bms">';
     marks.slice().sort((x, y) => y.t - x.t).forEach((m) => {
       const v = BOOKS[m.b].c[m.c][m.v], txt = v[0].length > 140 ? v[0].slice(0, 137) + "…" : v[0];
@@ -297,7 +302,7 @@ __ACCOUNT__
         (v[1] ? "" : '<span class="tag">Cut from the abridgement</span>') + '<span class="x">' + esc(txt) + "</span></button>" +
         '<button type="button" class="del" data-del="' + m.b + "." + m.c + "." + m.v + '" aria-label="Remove ' + esc(m.ref) + '">Remove</button></li>';
     });
-    return h + '</ul><p class="fine">Saved online to your bookmark name. Anyone using the same name can view and change these bookmarks.</p></section>';
+    return h + '</ul></section>';
   }
   let toastTimer = 0, toastUndo = null;
   function toast(text, undo) {
