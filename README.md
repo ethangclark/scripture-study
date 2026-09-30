@@ -31,12 +31,20 @@ the bookmark API can be unavailable until quotas reset. See the official
 [D1 pricing](https://developers.cloudflare.com/d1/platform/pricing/).
 
 The existing account, Worker name and database binding are in `wrangler.jsonc`.
-These IDs are not credentials. Credentials stay in Wrangler's local configuration,
-outside Git. The old GitHub Pages workflow is replaced with GitHub build/test checks
-because Pages cannot run the bookmark API. Releases are deployed explicitly with
-`npm run deploy`; pushing GitHub commits alone does not deploy them.
+The Cloudflare account login is **ethangclark@gmail.com**.
+These IDs and the login email are not credentials. Local deployments use Wrangler's
+saved OAuth login; GitHub Actions uses the repository secret `CLOUDFLARE_API_TOKEN`.
+No credentials belong in Git.
 
-Requires Node.js 22 or newer and Python 3. From the repository root:
+Every push to `main` automatically deploys after the tests and deployment bundle
+check pass. The workflow applies pending D1 migrations, deploys the Worker and
+assets, then checks the public endpoints. Production deployments run one at a time.
+Pull requests and other branches run checks only. To redeploy `main` manually,
+run **Check and deploy Cloudflare reader** from GitHub Actions. The old GitHub Pages
+workflow is replaced because Pages cannot run the bookmark API.
+
+For local development or a manual deployment, use Node.js 22 or newer and Python 3.
+From the repository root:
 
 ```sh
 npm ci
